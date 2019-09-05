@@ -1,0 +1,103 @@
+OSHA Health Samples Dataset Field Definitions.
+
+Field 01 Name: Inspection_Number
+Field 01 Description: Unique identifier tied to inspection -  nine numbers in length.
+Field 01 Data Type: NUMBER(9)
+
+Field 02 Name: Establishment_Name
+Field 02 Description: Sampled Establishment Note: names contained in the IMIS are not unique; i.e., there may be more than one variation in the way a single establishment is spelled. For example, Springdale Waste Water Treatment Facility may be associated with one inspection, and Springdale Water Treatment Plant with another. The user should specify as few words as necessary to uniquely identify the establishment. For the example above, Springdale Water might be a good first choice.
+Field 02 Data Type: VARCHAR2(50)
+
+Field 03 Name: City
+Field 03 Description: Identifies the site city where the inspection was performed. 
+Field 03 Data Type: VARCHAR2(30)
+
+Field 04 Name: State
+Field 04 Description: Identifies the site state where the inspection was performed. 
+Field 04 Data Type: VARCHAR2(2)
+
+Field 05 Name: Zip_Code
+Field 05 Description: Identifies the site zip code where the inspection was performed.
+Field 05 Data Type: NUMBER(5)
+
+Field 06 Name: SIC_Code
+Field 06 Description: Indicates the 4-digit Standard Industrial Classification Code from the 1987 version SIC manual which most closely applies. See http://www.osha.gov/pls/imis/sicsearch.html.
+Field 06 Data Type: NUMBER(4)
+
+Field 07 Name: NAICS_Code
+Field 07 Description: North American Industrial Classification System Code. See http://www.census.gov/epcd/naics02/.
+Field 07 Data Type: NUMBER(6)
+
+Field 08 Name: Sampling_Number 
+Field 08 Description: Unique identifier tied to single exposure assessment – There may be multiple media tied to this number, reflecting multiple samples in the time-weighted sample.
+Field 08 Data Type: NUMBER
+
+Field 09 Name: Office_ID
+Field 09 Description: Unique number assigned to an OSHA Office.
+Field 09 Data Type: NUMBER
+
+Field 10 Name: Date_Sampled 
+Field 10 Description: Date sample was taken.
+Field 10 Data Type: DATE
+
+Field 11 Name: Date_Reported
+Field 11 Description: Date results released OSHA Office
+Field 11 Data Type: DATE
+
+Field 12 Name: Eight_Hour_TWA_Calc 
+Field 12 Description: Eight hour TWA calculation used.
+Field 12 Data Type: VARCHAR2(1)
+
+Field 13 Name: Instrument_Type
+Field 13 Description: Laboratory instrument type used for analysis.
+Field 13 Data Type: VARCHAR2(16)
+
+Field 14 Name: Lab_Number
+Field 14 Description: Unique identifier assigned by laboratory for internal use - 5 digits followed by a letter.
+Field 14 Data Type: VARCHAR2(6)
+
+Field 15 Name: Field_Number
+Field 15 Description: Unique identifier tied to individual sample media submitted for analysis.
+Field 15 Data Type: VARCHAR2(25)
+
+Field 16 Name: Sample_Type 
+Field 16 Description: Sample type populated with following values:[P – Personal,	A – Area,	B – Bulk,	W - Wipe]
+Field 16 Data Type: VARCHAR2(2)
+
+Field 17 Name: Blank_Used
+Field 17 Description: Sample represents a blank used for analysis. Possible values: [Y, N].
+Field 17 Data Type: VARCHAR2(1)
+
+Field 18 Name: Time_Sampled
+Field 18 Description: Time sampled in minutes.
+Field 18 Data Type: NUMBER
+
+Field 19 Name: Air_Volume_Sampled
+Field 19 Description: Air Volume sampled in liters.
+Field 19 Data Type: VARCHAR2(10)
+
+Field 20 Name: Sample_Weight
+Field 20 Description: Sample weight for bulks and silica samples.
+Field 20 Data Type: NUMBER
+
+Field 21 Name: IMIS_Substance_Code
+Field 21 Description: IMIS substance code number is the substance code assigned by OSHA to each substance. See OSHA Chemical Sampling Information at http://www.osha.gov/dts/chemicalsampling/toc/field.html.
+Field 21 Data Type: VARCHAR2(4)
+
+Field 22 Name: Substance
+Field 22 Description: Substances are primarily listed by the Chemical name as it appears in the OSHA PELs, 29 CFR 1910.1000, TABLES Z-1-A, Z-2, Z-3; the ACGIH TLV's; or by common name.
+Field 22 Data Type: VARCHAR2(70)
+
+Field 23 Name: Sample_Result
+Field 23 Description: Sample result from laboratory analysis for each sample submitted with a unique field number.  Note:  multiple media integrated samples can be tied with a single Sampling Number.
+Field 23 Data Type: NUMBER(10)
+
+Field 24 Name: Unit_of_Measurement
+Field 24 Description: Unit of measurement (UOM) from IMIS manual. Values: [	M – mg/m3, X – micrograms,	P – Parts per million,	Y – milligrams,	F – fibers/cc,	% - percentage]
+Field 24 Data Type: VARCHAR2(5)
+
+Field 25 Name: Qualifier
+Field 25 Description: Result qualifier values: [	ND – Result less than quantitation limit, 	BLK – Blank,	@ - Approximately...etc]
+Field 25 Data Type: VARCHAR2(6)
+
+Last Updated: 4/23/2010

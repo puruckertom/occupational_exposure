@@ -1,0 +1,5 @@
+1. We searched the EPA CompTox Dashboard for compound mass, opera-predicted properties, and ToxPrint fingerprints, using the substance names given in the osha chemical monitoring database.
+2. For substances with multiple matches, we manually selected the correct match based on information in the osha occupational chemical database substance reports 
+3. For substances with no match (234/1056), we searched the PubChem database for synonyms and if available searched with the PubChem preferred name in the CompTox Dashboard.
+
+In total, we were able to match 974/1056 (92%) of the osha substances to specific chemicals in the DssTox database.

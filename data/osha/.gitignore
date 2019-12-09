@@ -1,2 +1,13 @@
+#lock files
+
 # ignore files too large for github
 osha_monitoring_1984_2018.csv
+osha_norm_naics.csv
+osha_normalized.csv
+osha_add_features.csv
+
+# obsolete/replaced files
+osha_probs.csv
+osha_probs_inspection.csv
+osha_detects.csv
+substance_list.csv

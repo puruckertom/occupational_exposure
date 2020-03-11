@@ -1,0 +1,1057 @@
+INPUT,FOUND_BY,DTXSID,PREFERRED_NAME,SMILES,MS_READY_SMILES,QSAR_READY_SMILES
+1-Phenyl-1-Cyclohexene,NO_MATCH,-,-,-,-,-
+4-Chloro-7-methylphenol,NO_MATCH,-,-,-,-,-
+"Aluminum (as Al), Soluble Salts",NO_MATCH,-,-,-,-,-
+Antineoplastic Drugs,NO_MATCH,-,-,-,-,-
+Bacteria,NO_MATCH,-,-,-,-,-
+Barium (Insoluble Compounds),NO_MATCH,-,-,-,-,-
+"Barium, Soluble Compounds (as Ba)",NO_MATCH,-,-,-,-,-
+Benzidine Based Dyes,NO_MATCH,-,-,-,-,-
+Beryllium and Beryllium Compounds (as Be),NO_MATCH,-,-,-,-,-
+Chromium (III) Compounds (as Cr),NO_MATCH,-,-,-,-,-
+Chromium (VI) - Action Level,NO_MATCH,-,-,-,-,-
+Chromium (VI) - Painting,NO_MATCH,-,-,-,-,-
+Chromium (VI) - TWA,NO_MATCH,-,-,-,-,-
+"Chromium, Metal and Insoluble Salts",NO_MATCH,-,-,-,-,-
+"Chromium, Soluble Chromic, Chromous Salts (as Cr)",NO_MATCH,-,-,-,-,-
+Combustible Material,NO_MATCH,-,-,-,-,-
+Cotton,NO_MATCH,-,-,-,-,-
+Crab Protein,NO_MATCH,-,-,-,-,-
+"Cyclohexane-1,1-diamine",Approved Name,DTXSID70591233,"Cyclohexane-1,1-diamine",NC1(N)CCCCC1,NC1(N)CCCCC1,NC1(N)CCCCC1
+Explosibility,NO_MATCH,-,-,-,-,-
+Explosion Severity,NO_MATCH,-,-,-,-,-
+Fibrous Glass Dust,NO_MATCH,-,-,-,-,-
+Fungi,NO_MATCH,-,-,-,-,-
+Oxiran-2-ylmethyl 4-methylbenzenesulfonate,NO_MATCH,-,-,-,-,-
+"Grain Dust (Oats, Wheat and Barley)",NO_MATCH,-,-,-,-,-
+Gravimetric Determination,NO_MATCH,-,-,-,-,-
+Heptanes (not n-Heptane),NO_MATCH,-,-,-,-,-
+"Hexane, (Isomers other than n-Hexane)",NO_MATCH,-,-,-,-,-
+"Humidity, Relative",NO_MATCH,-,-,-,-,-
+Ignition Residue,NO_MATCH,-,-,-,-,-
+Indium and Compounds (as In),NO_MATCH,-,-,-,-,-
+"Iron Salts, Soluble (as Fe)",NO_MATCH,-,-,-,-,-
+Lasso,NO_MATCH,-,-,-,-,-
+"Lead, Organic (see Tetramethyl or Tetraethyl Lead)",NO_MATCH,-,-,-,-,-
+MAXIMUM NORMALIZED DP/DT,NO_MATCH,-,-,-,-,-
+Mercury (organo) Alkyl Compounds (as Hg),NO_MATCH,-,-,-,-,-
+Metalworking Fluid - microorganisms,NO_MATCH,-,-,-,-,-
+Methylcyclohexanol,NO_MATCH,-,-,-,-,-
+Mineral Wool Fiber,NO_MATCH,-,-,-,-,-
+Moisture Content,NO_MATCH,-,-,-,-,-
+"Molybdenum (as Mo), Insoluble Compounds (Total Dust)",NO_MATCH,-,-,-,-,-
+"Molybdenum (as Mo), Soluble Compounds",NO_MATCH,-,-,-,-,-
+"Nickel, Metal and Insoluble compounds (as Ni)",NO_MATCH,-,-,-,-,-
+"Nickel, Soluble Compounds (as Ni)",NO_MATCH,-,-,-,-,-
+Particle Size Determination,NO_MATCH,-,-,-,-,-
+Particulates not otherwise regulated (Respirable Fraction),NO_MATCH,-,-,-,-,-
+Particulates not otherwise regulated (Total Dust),NO_MATCH,-,-,-,-,-
+Pentachlorodibenzodioxins (All Isomers),NO_MATCH,-,-,-,-,-
+Diphyl,NO_MATCH,-,-,-,-,-
+"Platinum (as Pt), soluble salts",NO_MATCH,-,-,-,-,-
+Polyfunctional Aziridine,NO_MATCH,-,-,-,-,-
+Potassium and compounds,NO_MATCH,-,-,-,-,-
+QUALITATIVE MASS-SPEC ANALYSIS BY THERMAL DESORPTION,NO_MATCH,-,-,-,-,-
+Qualitative Elemental Analysis,NO_MATCH,-,-,-,-,-
+Qualitative IC Analysis,NO_MATCH,-,-,-,-,-
+Qualitative Mass-Spec Analysis,NO_MATCH,-,-,-,-,-
+Qualitative Microscopy,NO_MATCH,-,-,-,-,-
+Qualitative NPD Analysis,NO_MATCH,-,-,-,-,-
+Quantitative GC Analysis,NO_MATCH,-,-,-,-,-
+Quantitative HPLC Analysis,NO_MATCH,-,-,-,-,-
+Quantitative TEA Analysis,NO_MATCH,-,-,-,-,-
+"Rhodium (as Rh), Soluble Compounds",NO_MATCH,-,-,-,-,-
+Rouge (Total Dust),NO_MATCH,-,-,-,-,-
+Sample Weight,NO_MATCH,-,-,-,-,-
+"Silica, Crystalline, Mixed Respirable  (Quartz,Cristobalite,Tridymite)",NO_MATCH,-,-,-,-,-
+Tellurium and compounds (as Te),NO_MATCH,-,-,-,-,-
+"Thallium, soluble compounds (as Tl)",NO_MATCH,-,-,-,-,-
+"Tin, inorganic compounds (except oxides) (as Sn)",NO_MATCH,-,-,-,-,-
+"Tin, organic compounds (as Sn)",NO_MATCH,-,-,-,-,-
+Total Fibers,NO_MATCH,-,-,-,-,-
+Tungsten (as W) Insoluble Compounds,NO_MATCH,-,-,-,-,-
+Tungsten (as W) Soluble Compounds,NO_MATCH,-,-,-,-,-
+"Uranium (as U), Insoluble compounds",NO_MATCH,-,-,-,-,-
+"Uranium (as U), Soluble Compounds",NO_MATCH,-,-,-,-,-
+Welding Fumes (Total Particulate),NO_MATCH,-,-,-,-,-
+Wood Dust,NO_MATCH,-,-,-,-,-
+Wood Dust,NO_MATCH,-,-,-,-,-
+Wood Dust,NO_MATCH,-,-,-,-,-
+Wood Dust,NO_MATCH,-,-,-,-,-
+N-Propoxypropanol,NO_MATCH,-,-,-,-,-
+o-Dianisidine-Based Dyes,NO_MATCH,-,-,-,-,-
+o-Tolidine Based Dyes,NO_MATCH,-,-,-,-,-
+o-Chlorobenzylidene Malononitrile,Synonym,DTXSID9020297,(2-Chlorobenzylidene)propanedinitrile,ClC1=CC=CC=C1C=C(C#N)C#N,ClC1=CC=CC=C1C=C(C#N)C#N,ClC1=CC=CC=C1C=C(C#N)C#N
+Methylcyclopentadienyl Manganese Tricarbonyl,Integrated Source Name,DTXSID9027738,(Methylcyclopentadienyl)tricarbonylmanganese,[Mn+].[C-]#[O+].[C-]#[O+].[C-]#[O+].CC1C=C[C-]=C1,CC1C=CC=C1,-
+N-Aminoethylpiperazine,Integrated Source Name,DTXSID2021997,1-(2-Aminoethyl)piperazine,NCCN1CCNCC1,NCCN1CCNCC1,NCCN1CCNCC1
+Dipropylene glycol n-butyl ether,Integrated Source Name,DTXSID8027959,1-[(1-Butoxy-2-propanyl)oxy]-2-propanol,CCCCOCC(C)OCC(C)O,CCCCOCC(C)OCC(C)O,CCCCOCC(C)OCC(C)O
+1-Bromopropane,Approved Name,DTXSID6021874,1-Bromopropane,CCCBr,CCCBr,CCCBr
+Butyl Mercaptan,Expert Validated Synonym,DTXSID6026824,1-Butanethiol,CCCCS,CCCCS,CCCCS
+n-Butyl Alcohol,Expert Validated Synonym,DTXSID1021740,1-Butanol,CCCCO,CCCCO,CCCCO
+1-Butoxy-2-propanol,Approved Name,DTXSID8027589,1-Butoxy-2-propanol,CCCCOCC(C)O,CCCCOCC(C)O,CCCCOCC(C)O
+1-Chloro-2-nitrobenzene,Approved Name,DTXSID0020280,1-Chloro-2-nitrobenzene,[O-][N+](=O)C1=C(Cl)C=CC=C1,[O-][N+](=O)C1=C(Cl)C=CC=C1,[O-][N+](=O)C1=C(Cl)C=CC=C1
+"2,4-Dinitrochlorobenzene",Expert Validated Synonym,DTXSID6020278,"1-Chloro-2,4-dinitrobenzene",[O-][N+](=O)C1=CC(=C(Cl)C=C1)[N+]([O-])=O,[O-][N+](=O)C1=CC(=C(Cl)C=C1)[N+]([O-])=O,[O-][N+](=O)C1=CC(=C(Cl)C=C1)[N+]([O-])=O
+4-Chlorobenzotrifluoride,Synonym,DTXSID7024821,1-Chloro-4-(trifluoromethyl)benzene,FC(F)(F)C1=CC=C(Cl)C=C1,FC(F)(F)C1=CC=C(Cl)C=C1,FC(F)(F)C1=CC=C(Cl)C=C1
+p-Nitrochlorobenzene,Synonym from Valid Source,DTXSID5020281,1-Chloro-4-nitrobenzene,[O-][N+](=O)C1=CC=C(Cl)C=C1,[O-][N+](=O)C1=CC=C(Cl)C=C1,[O-][N+](=O)C1=CC=C(Cl)C=C1
+Decyl Alcohol,Synonym from Valid Source,DTXSID7021946,1-Decanol,CCCCCCCCCCO,CCCCCCCCCCO,CCCCCCCCCCO
+Dodecyl Alcohol,Synonym from Valid Source,DTXSID5026918,1-Dodecanol,CCCCCCCCCCCCO,CCCCCCCCCCCCO,CCCCCCCCCCCCO
+1-Ethoxy-2-propanol,Approved Name,DTXSID1041267,1-Ethoxy-2-propanol,CCOCC(C)O,CCOCC(C)O,CCOCC(C)O
+Ethyl Toluene, Integrated Source Name - WARNING: Synonym mapped to two or more chemicals.,DTXSID2050403,1-Ethyl-2-methylbenzene,CCC1=CC=CC=C1C,CCC1=CC=CC=C1C,CCC1=CC=CC=C1C
+1-Heptene,Approved Name,DTXSID2060466,1-Heptene,CCCCCC=C,CCCCCC=C,CCCCCC=C
+Hexyl Alcohol,Synonym,DTXSID8021931,1-Hexanol,CCCCCCO,CCCCCCO,CCCCCCO
+1-Hexene,Approved Name,DTXSID4025402,1-Hexene,CCCCC=C,CCCCC=C,CCCCC=C
+1-Methoxy-2-propanol,Approved Name,DTXSID8024284,1-Methoxy-2-propanol,COCC(C)O,COCC(C)O,COCC(C)O
+1-Methoxy-2-propyl acetate,Approved Name,DTXSID1026796,1-Methoxy-2-propyl acetate,COCC(C)OC(C)=O,COCC(C)OC(C)=O,COCC(C)OC(C)=O
+1-Methylnaphthalene,Approved Name,DTXSID9020877,1-Methylnaphthalene,CC1=C2C=CC=CC2=CC=C1,CC1=C2C=CC=CC2=CC=C1,CC1=C2C=CC=CC2=CC=C1
+Methyl Naphthalene,Synonym from Valid Source,DTXSID9020877,1-Methylnaphthalene,CC1=C2C=CC=CC2=CC=C1,CC1=C2C=CC=CC2=CC=C1,CC1=C2C=CC=CC2=CC=C1
+alpha-Naphthylamine,Synonym,DTXSID7020920,1-Naphthylamine,NC1=CC=CC2=C1C=CC=C2,NC1=CC=CC2=C1C=CC=C2,NC1=CC=CC2=C1C=CC=C2
+1-Nitropropane,Approved Name,DTXSID1020980,1-Nitropropane,CCC[N+]([O-])=O,CCC[N+]([O-])=O,CCC[N+]([O-])=O
+Nonyl Alcohol,Synonym from Valid Source,DTXSID6022008,1-Nonanol,CCCCCCCCCO,CCCCCCCCCO,CCCCCCCCCO
+Octadecanol,Synonym from Valid Source,DTXSID8026935,1-Octadecanol,CCCCCCCCCCCCCCCCCCO,CCCCCCCCCCCCCCCCCCO,CCCCCCCCCCCCCCCCCCO
+Octanol,Synonym from Valid Source,DTXSID7021940,1-Octanol,CCCCCCCCO,CCCCCCCCO,CCCCCCCCO
+1-Octene,Approved Name,DTXSID6025804,1-Octene,CCCCCCC=C,CCCCCCC=C,CCCCCCC=C
+n-Amyl Alcohol,Synonym from Valid Source,DTXSID6021741,1-Pentanol,CCCCCO,CCCCCO,CCCCCO
+1-Pentene,Approved Name,DTXSID7025849,1-Pentene,CCCC=C,CCCC=C,CCCC=C
+n-Propyl Mercaptan,Synonym from Valid Source,DTXSID5026750,1-Propanethiol,CCCS,CCCS,CCCS
+n-Propyl Alcohol,Synonym from Valid Source,DTXSID2021739,1-Propanol,CCCO,CCCO,CCCO
+Propylene,Expert Validated Synonym,DTXSID5021205,1-Propene,CC=C,CC=C,CC=C
+1-Tridecanol,Approved Name,DTXSID2021947,1-Tridecanol,CCCCCCCCCCCCCO,CCCCCCCCCCCCCO,CCCCCCCCCCCCCO
+"1,1-Dichloro-1-fluoroethane",Approved Name,DTXSID2020422,"1,1-Dichloro-1-fluoroethane",CC(F)(Cl)Cl,CC(F)(Cl)Cl,CC(F)(Cl)Cl
+"1,1-Dichloroethane",Approved Name,DTXSID1020437,"1,1-Dichloroethane",CC(Cl)Cl,CC(Cl)Cl,CC(Cl)Cl
+Vinylidene Chloride,Expert Validated Synonym,DTXSID8021438,"1,1-Dichloroethylene",ClC(Cl)=C,ClC(Cl)=C,ClC(Cl)=C
+"1,1-Difluoroethane",Approved Name,DTXSID0024050,"1,1-Difluoroethane",CC(F)F,CC(F)F,CC(F)F
+"1,1-Dimethylhydrazine",Approved Name,DTXSID1020516,"1,1-Dimethylhydrazine",CN(C)N,CN(C)N,CN(C)N
+Bis(4-isocyanatocyclohexyl)methane,Synonym from Valid Source,DTXSID3027588,"1,1-Methylenebis(4-isocyanatocyclohexane)",O=C=NC1CCC(CC2CCC(CC2)N=C=O)CC1,O=C=NC1CCC(CC2CCC(CC2)N=C=O)CC1,O=C=NC1CCC(CC2CCC(CC2)N=C=O)CC1
+"1,1,1-Trichloro-2,2,2-Trifluoroethane",Approved Name,DTXSID5027148,"1,1,1-Trichloro-2,2,2-trifluoroethane",FC(F)(F)C(Cl)(Cl)Cl,FC(F)(F)C(Cl)(Cl)Cl,FC(F)(F)C(Cl)(Cl)Cl
+Methyl Chloroform,Expert Validated Synonym,DTXSID0021381,"1,1,1-Trichloroethane",CC(Cl)(Cl)Cl,CC(Cl)(Cl)Cl,CC(Cl)(Cl)Cl
+"1,1,1,2-Tetrafluoroethane",Approved Name,DTXSID1021324,"1,1,1,2-Tetrafluoroethane",FCC(F)(F)F,FCC(F)(F)F,FCC(F)(F)F
+"1,1,2-Trichloro-1,2,2-Trifluoroethane",Approved Name,DTXSID6021377,"1,1,2-Trichloro-1,2,2-trifluoroethane",FC(F)(Cl)C(F)(Cl)Cl,FC(F)(Cl)C(F)(Cl)Cl,FC(F)(Cl)C(F)(Cl)Cl
+"1,1,2-Trichloroethane",Approved Name,DTXSID5021380,"1,1,2-Trichloroethane",ClCC(Cl)Cl,ClCC(Cl)Cl,ClCC(Cl)Cl
+Acetylene Tetrabromide,Synonym,DTXSID1026083,"1,1,2,2-Tetrabromoethane",BrC(Br)C(Br)Br,BrC(Br)C(Br)Br,BrC(Br)C(Br)Br
+"1,1,2,2-Tetrachloroethane",Approved Name,DTXSID7021318,"1,1,2,2-Tetrachloroethane",ClC(Cl)C(Cl)Cl,ClC(Cl)C(Cl)Cl,ClC(Cl)C(Cl)Cl
+Terphenyls,Integrated Source Name,DTXSID6029121,"1,1':4',1''-Terphenyl",C1=CC=C(C=C1)C1=CC=C(C=C1)C1=CC=CC=C1,C1=CC=C(C=C1)C1=CC=C(C=C1)C1=CC=CC=C1,C1=CC=C(C=C1)C1=CC=C(C=C1)C1=CC=CC=C1
+Ethylene Dibromide,Expert Validated Synonym,DTXSID3020415,"1,2-Dibromoethane",BrCCBr,BrCCBr,BrCCBr
+"1,2-Dichloro-1,1,2-Trifluoroethane",Approved Name,DTXSID1042021,"1,2-Dichloro-1,1,2-trifluoroethane",FC(Cl)C(F)(F)Cl,FC(Cl)C(F)(F)Cl,FC(Cl)C(F)(F)Cl
+o-Dichlorobenzene,Expert Validated Synonym,DTXSID6020430,"1,2-Dichlorobenzene",ClC1=C(Cl)C=CC=C1,ClC1=C(Cl)C=CC=C1,ClC1=C(Cl)C=CC=C1
+Ethylene Dichloride,Synonym from Valid Source,DTXSID6020438,"1,2-Dichloroethane",ClCCCl,ClCCCl,ClCCCl
+"1,2-Dichloroethylene",Approved Name,DTXSID8024991,"1,2-Dichloroethylene",ClC=CCl,ClC=CCl,ClC=CCl
+Propylene Dichloride,Expert Validated Synonym,DTXSID0020448,"1,2-Dichloropropane",CC(Cl)CCl,CC(Cl)CCl,CC(Cl)CCl
+"1,1,2,2-Tetrachloro-1,2-Difluoroethane",Expert Validated Synonym,DTXSID5026091,"1,2-Difluoro-1,1,2,2-tetrachloroethane",FC(Cl)(Cl)C(F)(Cl)Cl,FC(Cl)(Cl)C(F)(Cl)Cl,FC(Cl)(Cl)C(F)(Cl)Cl
+"1,2-Dimethylnaphthalene",Systematic Name,DTXSID1058717,"1,2-Dimethylnapthalene",CC1=C(C)C2=CC=CC=C2C=C1,CC1=C(C)C2=CC=CC=C2C=C1,CC1=C(C)C2=CC=CC=C2C=C1
+Benzil,Synonym,DTXSID3044380,"1,2-Diphenylethanedione",O=C(C(=O)C1=CC=CC=C1)C1=CC=CC=C1,O=C(C(=O)C1=CC=CC=C1)C1=CC=CC=C1,O=C(C(=O)C1=CC=CC=C1)C1=CC=CC=C1
+"1,2-Epoxybutane",Approved Name,DTXSID6020569,"1,2-Epoxybutane",CCC1CO1,CCC1CO1,CCC1CO1
+Propylene Glycol,Synonym from Valid Source,DTXSID0021206,"1,2-Propylene glycol",CC(O)CO,CC(O)CO,CC(O)CO
+Propylene Oxide,Synonym from Valid Source,DTXSID5021207,"1,2-Propylene oxide",CC1CO1,CC1CO1,CC1CO1
+"1,2,3-Trichlorobenzene",Approved Name,DTXSID8026193,"1,2,3-Trichlorobenzene",ClC1=CC=CC(Cl)=C1Cl,ClC1=CC=CC(Cl)=C1Cl,ClC1=CC=CC(Cl)=C1Cl
+"1,2,3-Trichloropropane",Approved Name,DTXSID9021390,"1,2,3-Trichloropropane",ClCC(Cl)CCl,ClCC(Cl)CCl,ClCC(Cl)CCl
+Octachloronaphthalene,Expert Validated Synonym,DTXSID6025800,"1,2,3,4,5,6,7,8-Octachloronaphthalene",ClC1=C(Cl)C2=C(Cl)C(Cl)=C(Cl)C(Cl)=C2C(Cl)=C1Cl,ClC1=C(Cl)C2=C(Cl)C(Cl)=C(Cl)C(Cl)=C2C(Cl)=C1Cl,ClC1=C(Cl)C2=C(Cl)C(Cl)=C(Cl)C(Cl)=C2C(Cl)=C1Cl
+"1,2,3,4,6,7,8-Heptachlorodibenzodioxin",Approved Name,DTXSID1052034,"1,2,3,4,6,7,8-Heptachlorodibenzodioxin",ClC1=C(Cl)C(Cl)=C2OC3=C(OC2=C1)C(Cl)=C(Cl)C(Cl)=C3Cl,ClC1=C(Cl)C(Cl)=C2OC3=C(OC2=C1)C(Cl)=C(Cl)C(Cl)=C3Cl,ClC1=C(Cl)C(Cl)=C2OC3=C(OC2=C1)C(Cl)=C(Cl)C(Cl)=C3Cl
+"1,2,3,4,6,7,8-Heptachlorodibenzodioxin",Approved Name,DTXSID1052034,"1,2,3,4,6,7,8-Heptachlorodibenzodioxin",ClC1=C(Cl)C(Cl)=C2OC3=C(OC2=C1)C(Cl)=C(Cl)C(Cl)=C3Cl,ClC1=C(Cl)C(Cl)=C2OC3=C(OC2=C1)C(Cl)=C(Cl)C(Cl)=C3Cl,ClC1=C(Cl)C(Cl)=C2OC3=C(OC2=C1)C(Cl)=C(Cl)C(Cl)=C3Cl
+"1,2,3,5-Tetrachlorobenzene",Approved Name,DTXSID1026089,"1,2,3,5-Tetrachlorobenzene",ClC1=CC(Cl)=C(Cl)C(Cl)=C1,ClC1=CC(Cl)=C(Cl)C(Cl)=C1,ClC1=CC(Cl)=C(Cl)C(Cl)=C1
+"1,2,4-Trichlorobenzene",Approved Name,DTXSID0021965,"1,2,4-Trichlorobenzene",ClC1=CC(Cl)=C(Cl)C=C1,ClC1=CC(Cl)=C(Cl)C=C1,ClC1=CC(Cl)=C(Cl)C=C1
+m-Phenylenediamine,Expert Validated Synonym,DTXSID4021137,"1,3-Benzenediamine",NC1=CC(N)=CC=C1,NC1=CC(N)=CC=C1,NC1=CC(N)=CC=C1
+Bismark Brown,Synonym,DTXSID5063491,"1,3-Benzenediamine, 4,4'-[(4-methyl-1,3-phenylene)bis(azo)]bis[6-methyl-",CC1=CC(N=NC2=CC(N=NC3=C(N)C=C(N)C(C)=C3)=C(C)C=C2)=C(N)C=C1N,CC1=CC(N=NC2=CC(N=NC3=C(N)C=C(N)C(C)=C3)=C(C)C=C2)=C(N)C=C1N,CC1=CC(N=NC2=CC(N=NC3=C(N)C=C(N)C(C)=C3)=C(C)C=C2)=C(N)C=C1N
+"m-Xylene-alpha,alpha'-diamine",Synonym,DTXSID9029649,"1,3-Benzenedimethanamine",NCC1=CC(CN)=CC=C1,NCC1=CC(CN)=CC=C1,NCC1=CC(CN)=CC=C1
+Butadiene,Synonym from Valid Source,DTXSID3020203,"1,3-Butadiene",C=CC=C,C=CC=C,C=CC=C
+m-Dichlorobenzene,Expert Validated Synonym,DTXSID6022056,"1,3-Dichlorobenzene",ClC1=CC(Cl)=CC=C1,ClC1=CC(Cl)=CC=C1,ClC1=CC(Cl)=CC=C1
+"1,3-Dichloropropane",Approved Name,DTXSID6022004,"1,3-Dichloropropane",ClCCCCl,ClCCCCl,ClCCCCl
+sec-Hexyl Acetate, Integrated Source Name - WARNING: Synonym mapped to two or more chemicals.,DTXSID6051562,"1,3-Dimethylbutyl acetate",CC(C)CC(C)OC(C)=O,CC(C)CC(C)OC(C)=O,CC(C)CC(C)OC(C)=O
+"1,3-Dimethylnaphthalene",Approved Name,DTXSID9060360,"1,3-Dimethylnaphthalene",CC1=CC(C)=C2C=CC=CC2=C1,CC1=CC(C)=C2C=CC=CC2=C1,CC1=CC(C)=C2C=CC=CC2=C1
+p-Phenylene Diamine,Integrated Source Name,DTXSID9021138,"1,4-Benzenediamine",NC1=CC=C(N)C=C1,NC1=CC=C(N)C=C1,NC1=CC=C(N)C=C1
+Quinone,Expert Validated Synonym,DTXSID6020145,"1,4-Benzoquinone",O=C1C=CC(=O)C=C1,O=C1C=CC(=O)C=C1,O=C1C=CC(=O)C=C1
+Triethylenediamine,Synonym from Valid Source,DTXSID0022016,"1,4-Diazabicyclo[2.2.2]octane",C1CN2CCN1CC2,C1CN2CCN1CC2,C1CN2CCN1CC2
+p-Dichlorobenzene,Expert Validated Synonym,DTXSID1020431,"1,4-Dichlorobenzene",ClC1=CC=C(Cl)C=C1,ClC1=CC=C(Cl)C=C1,ClC1=CC=C(Cl)C=C1
+"1,4-Dimethylnaphthalene",Approved Name,DTXSID8035423,"1,4-Dimethylnaphthalene",CC1=CC=C(C)C2=C1C=CC=C2,CC1=CC=C(C)C2=C1C=CC=C2,CC1=CC=C(C)C2=C1C=CC=C2
+Dioxane,Synonym from Valid Source,DTXSID4020533,"1,4-Dioxane",C1COCCO1,C1COCCO1,C1COCCO1
+"1,5-Naphthalene Diisocyanate",Approved Name,DTXSID8040145,"1,5-Naphthalene diisocyanate",O=C=NC1=CC=CC2=C(C=CC=C12)N=C=O,O=C=NC1=CC=CC2=C(C=CC=C12)N=C=O,O=C=NC1=CC=CC2=C(C=CC=C12)N=C=O
+"1,6-Hexamethylene Diisocyanate",Expert Validated Synonym,DTXSID4024143,"1,6-Diisocyanatohexane",O=C=NCCCCCCN=C=O,O=C=NCCCCCCN=C=O,O=C=NCCCCCCN=C=O
+Hexamethylene Diisocyanate,Synonym from Valid Source,DTXSID4024143,"1,6-Diisocyanatohexane",O=C=NCCCCCCN=C=O,O=C=NCCCCCCN=C=O,O=C=NCCCCCCN=C=O
+"1,6-Dimethylnaphthalene",Approved Name,DTXSID7022415,"1,6-Dimethylnaphthalene",CC1=CC2=C(C=C1)C(C)=CC=C2,CC1=CC2=C(C=C1)C(C)=CC=C2,CC1=CC2=C(C=C1)C(C)=CC=C2
+Hexamethylenediamine,Expert Validated Synonym,DTXSID5024922,"1,6-Hexanediamine",NCCCCCCN,NCCCCCCN,NCCCCCCN
+"1,6-Hexanediol Diacrylate",Approved Name,DTXSID9025401,"1,6-Hexanediol diacrylate",C=CC(=O)OCCCCCCOC(=O)C=C,C=CC(=O)OCCCCCCOC(=O)C=C,C=CC(=O)OCCCCCCOC(=O)C=C
+17-Methyltestosterone,Approved Name,DTXSID1033664,17-Methyltestosterone,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C
+Estradiol,Expert Validated Synonym,DTXSID0020573,17beta-Estradiol,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=CC=C(O)C=C3CC[C@@]21[H],CC12CCC3C(CCC4=C3C=CC(O)=C4)C1CCC2O,CC12CCC3C(CCC4=C3C=CC(O)=C4)C1CCC2O
+Diglycolamine,Synonym from Valid Source,DTXSID6027341,2-(2-Aminoethoxy)ethanol,NCCOCCO,NCCOCCO,NCCOCCO
+Butyl Carbitol,Synonym from Valid Source,DTXSID8021519,2-(2-Butoxyethoxy)ethanol,CCCCOCCOCCO,CCCCOCCOCCO,CCCCOCCOCCO
+Diethylene Glycol Monobutyl Ether Acetate,Expert Validated Synonym,DTXSID9027021,2-(2-Butoxyethoxy)ethyl acetate,CCCCOCCOCCOC(C)=O,CCCCOCCOCCOC(C)=O,CCCCOCCOCCOC(C)=O
+Diethylene Glycol Monoethyl Ether,Expert Validated Synonym,DTXSID2021941,2-(2-Ethoxyethoxy)ethanol,CCOCCOCCO,CCOCCOCCO,CCOCCOCCO
+Carbitol Acetate,Synonym,DTXSID6026905,2-(2-Ethoxyethoxy)ethyl acetate,CCOCCOCCOC(C)=O,CCOCCOCCOC(C)=O,CCOCCOCCOC(C)=O
+2-(2-Ethoxyethoxy)ethyl acrylate,Integrated Source Name,DTXSID6044983,2-(2-Ethoxyethoxy)ethyl prop-2-enoate,CCOCCOCCOC(=O)C=C,CCOCCOCCOC(=O)C=C,CCOCCOCCOC(=O)C=C
+Silvex,Expert Validated Synonym,DTXSID0021387,"2-(2,4,5-Trichlorophenoxy)propionic acid",CC(OC1=C(Cl)C=C(Cl)C(Cl)=C1)C(O)=O,CC(OC1=C(Cl)C=C(Cl)C(Cl)=C1)C(O)=O,CC(OC1=C(Cl)C=C(Cl)C(Cl)=C1)C(O)=O
+Triethylene Glycol Monobutyl Ether,Expert Validated Synonym,DTXSID7021520,2-[2-(2-Butoxyethoxy)ethoxy]ethanol,CCCCOCCOCCOCCO,CCCCOCCOCCOCCO,CCCCOCCOCCOCCO
+Triethylene Glycol Monoethyl Ether,Expert Validated Synonym,DTXSID3024368,2-[2-(2-Ethoxyethoxy)ethoxy]ethanol,CCOCCOCCOCCO,CCOCCOCCOCCO,CCOCCOCCOCCO
+2-[2-(4-Nonylphenoxy)ethoxy]ethanol,Approved Name,DTXSID9058600,2-[2-(4-Nonylphenoxy)ethoxy]ethanol,CCCCCCCCCC1=CC=C(OCCOCCO)C=C1,CCCCCCCCCC1=CC=C(OCCOCCO)C=C1,CCCCCCCCCC1=CC=C(OCCOCCO)C=C1
+2-[2-(Dimethylamino)ethoxy]ethanol,Approved Name,DTXSID1027427,2-[2-(Dimethylamino)ethoxy]ethanol,CN(C)CCOCCO,CN(C)CCOCCO,CN(C)CCOCCO
+2-Acetylaminofluorene,Approved Name,DTXSID0039227,2-Acetylaminofluorene,CC(=O)NC1=CC=C2C(CC3=C2C=CC=C3)=C1,CC(=O)NC1=CC=C2C(CC3=C2C=CC=C3)=C1,CC(=O)NC1=CC=C2C(CC3=C2C=CC=C3)=C1
+2-Amino-2-Methylpropanol,Synonym from Valid Source,DTXSID8027032,2-Amino-2-methylpropan-1-ol,CC(C)(N)CO,CC(C)(N)CO,CC(C)(N)CO
+2-Anisidine,Approved Name,DTXSID5023877,2-Anisidine,COC1=CC=CC=C1N,COC1=CC=CC=C1N,COC1=CC=CC=C1N
+2-Bromopropane,Approved Name,DTXSID7030197,2-Bromopropane,CC(C)Br,CC(C)Br,CC(C)Br
+sec-Butyl Alcohol,Synonym from Valid Source,DTXSID9021762,2-Butanol,CCC(C)O,CCC(C)O,CCC(C)O
+Methyl Ethyl Ketoxime,Expert Validated Synonym,DTXSID1021821,2-Butanone oxime,CCC(C)=NO,CCC(C)N=O,CCC(C)N=O
+Methyl Ethyl Ketone Peroxide,Expert Validated Synonym,DTXSID1024671,2-Butanone peroxide,CCC(C)(OO)OOC(C)(CC)OO,CCC(C)(OO)OOC(C)(CC)OO,CCC(C)(OO)OOC(C)(CC)OO
+2-Butoxyethanol,Approved Name,DTXSID1024097,2-Butoxyethanol,CCCCOCCO,CCCCOCCO,CCCCOCCO
+Butyl Cellosolve Acetate,Synonym from Valid Source,DTXSID1026904,2-Butoxyethyl acetate,CCCCOCCOC(C)=O,CCCCOCCOC(C)=O,CCCCOCCOC(C)=O
+alpha-Chloroacetophenone,Synonym,DTXSID9020293,2-Chloroacetophenone,ClCC(=O)C1=CC=CC=C1,ClCC(=O)C1=CC=CC=C1,ClCC(=O)C1=CC=CC=C1
+2-Chlorobiphenyl,Approved Name,DTXSID6040298,2-Chlorobiphenyl,ClC1=C(C=CC=C1)C1=CC=CC=C1,ClC1=C(C=CC=C1)C1=CC=CC=C1,ClC1=C(C=CC=C1)C1=CC=CC=C1
+o-Chlorotoluene,Expert Validated Synonym,DTXSID8023977,2-Chlorotoluene,CC1=C(Cl)C=CC=C1,CC1=C(Cl)C=CC=C1,CC1=C(Cl)C=CC=C1
+2-Ethoxyethanol,Approved Name,DTXSID7024087,2-Ethoxyethanol,CCOCCO,CCOCCO,CCOCCO
+2-Ethyl-1-hexanol,Integrated Source Name,DTXSID5020605,2-Ethyl-1-hexanol,CCCCC(CC)CO,CCCCC(CC)CO,CCCCC(CC)CO
+2-Ethylhexanoic acid,Approved Name,DTXSID9025293,2-Ethylhexanoic acid,CCCCC(CC)C(O)=O,CCCCC(CC)C(O)=O,CCCCC(CC)C(O)=O
+Ethyl Hexyl Acetate,Integrated Source Name,DTXSID8026694,2-Ethylhexyl acetate,CCCCC(CC)COC(C)=O,CCCCC(CC)COC(C)=O,CCCCC(CC)COC(C)=O
+2-Ethylhexyl acrylate,Approved Name,DTXSID9025297,2-Ethylhexyl acrylate,CCCCC(CC)COC(=O)C=C,CCCCC(CC)COC(=O)C=C,CCCCC(CC)COC(=O)C=C
+2-Ethylhexylamine,Approved Name,DTXSID4025298,2-Ethylhexylamine,CCCCC(CC)CN,CCCCC(CC)CN,CCCCC(CC)CN
+Methyl (n-amyl) ketone,Integrated Source Name,DTXSID5021916,2-Heptanone,CCCCCC(C)=O,CCCCCC(C)=O,CCCCCC(C)=O
+2-Hexanone,Approved Name,DTXSID0022068,2-Hexanone,CCCCC(C)=O,CCCCC(C)=O,CCCCC(C)=O
+Ethylene Glycol Monohexyl Ether,Expert Validated Synonym,DTXSID1026908,2-Hexyloxyethanol,CCCCCCOCCO,CCCCCCOCCO,CCCCCCOCCO
+Hydroxyethyl Acrylate,Synonym,DTXSID2022123,2-Hydroxyethyl acrylate,OCCOC(=O)C=C,OCCOC(=O)C=C,OCCOC(=O)C=C
+2-Hydroxyethyl Methacrylate,Approved Name,DTXSID7022128,2-Hydroxyethyl methacrylate,CC(=C)C(=O)OCCO,CC(=C)C(=O)OCCO,CC(=C)C(=O)OCCO
+Isopropyl Cellosolve,Synonym,DTXSID4047466,2-Isopropoxyethanol,CC(C)OCCO,CC(C)OCCO,CC(C)OCCO
+Mercaptoethanol,Synonym from Valid Source,DTXSID4026343,2-Mercaptoethanol,OCCS,OCCS,OCCS
+2-Methoxy-5-methylaniline,Approved Name,DTXSID1020350,2-Methoxy-5-methylaniline,COC1=CC=C(C)C=C1N,COC1=CC=C(C)C=C1N,COC1=CC=C(C)C=C1N
+o-Anisaldehyde,Synonym from Valid Source,DTXSID1051690,2-Methoxybenzaldehyde,COC1=C(C=O)C=CC=C1,COC1=C(C=O)C=CC=C1,COC1=C(C=O)C=CC=C1
+2-Methoxyethanol,Approved Name,DTXSID5024182,2-Methoxyethanol,COCCO,COCCO,COCCO
+2-Methoxyethyl acetate,Approved Name,DTXSID2025553,2-Methoxyethyl acetate,COCCOC(C)=O,COCCOC(C)=O,COCCOC(C)=O
+2-Methoxyphenol,Approved Name,DTXSID0023113,2-Methoxyphenol,COC1=C(O)C=CC=C1,COC1=C(O)C=CC=C1,COC1=C(O)C=CC=C1
+Isobutyl Alcohol,Expert Validated Synonym,DTXSID0021759,2-Methyl-1-propanol,CC(C)CO,CC(C)CO,CC(C)CO
+Hexylene Glycol,Expert Validated Synonym,DTXSID5021885,"2-Methyl-2,4-pentanediol",CC(O)CC(C)(C)O,CC(O)CC(C)(C)O,CC(O)CC(C)(C)O
+2-Methyl-4-Isothiazolin-3-one,Synonym from Valid Source,DTXSID2034259,2-Methyl-3(2H)-isothiazolone,CN1SC=CC1=O,CN1SC=CC1=O,CN1SC=CC1=O
+o-Toluidine,Expert Validated Synonym,DTXSID1026164,2-Methylaniline,CC1=C(N)C=CC=C1,CC1=C(N)C=CC=C1,CC1=C(N)C=CC=C1
+2-Methylbutane,Approved Name,DTXSID8025468,2-Methylbutane,CCC(C)C,CCC(C)C,CCC(C)C
+2-methylbutyl Acetate,Approved Name,DTXSID2027254,2-Methylbutyl acetate,CCC(C)COC(C)=O,CCC(C)COC(C)=O,CCC(C)COC(C)=O
+2-Methylnaphthalene,Approved Name,DTXSID4020878,2-Methylnaphthalene,CC1=CC2=CC=CC=C2C=C1,CC1=CC2=CC=CC=C2C=C1,CC1=CC2=CC=CC=C2C=C1
+2-Methylpentane,Approved Name,DTXSID4029143,2-Methylpentane,CCCC(C)C,CCCC(C)C,CCCC(C)C
+Isobutyraldehyde,Expert Validated Synonym,DTXSID9021635,2-Methylpropanal,CC(C)C=O,CC(C)C=O,CC(C)C=O
+2-methylpyridine,Approved Name,DTXSID9021899,2-Methylpyridine,CC1=NC=CC=C1,CC1=NC=CC=C1,CC1=NC=CC=C1
+beta-Naphthylamine,Synonym from Valid Source,DTXSID2020921,2-Naphthylamine,NC1=CC2=C(C=CC=C2)C=C1,NC1=CC2=C(C=CC=C2)C=C1,NC1=CC2=C(C=CC=C2)C=C1
+2-Nitropropane,Approved Name,DTXSID6020981,2-Nitropropane,CC(C)[N+]([O-])=O,CC(C)[N+]([O-])=O,CC(C)[N+]([O-])=O
+Nonylphenol, Integrated Source Name - WARNING: Synonym mapped to two or more chemicals.,DTXSID9073125,2-Nonylphenol,CCCCCCCCCC1=C(O)C=CC=C1,CCCCCCCCCC1=C(O)C=CC=C1,CCCCCCCCCC1=C(O)C=CC=C1
+2-Octene,Approved Name,DTXSID0059407,2-Octene,CCCCCC=CC,CCCCCC=CC,CCCCCC=CC
+2-Pentanone,Approved Name,DTXSID0021888,2-Pentanone,CCCC(C)=O,CCCC(C)=O,CCCC(C)=O
+2-Phenoxyethanol,Approved Name,DTXSID9021976,2-Phenoxyethanol,OCCOC1=CC=CC=C1,OCCOC1=CC=CC=C1,OCCOC1=CC=CC=C1
+2-Phenoxyethyl acrylate,Approved Name,DTXSID4040715,2-Phenoxyethyl acrylate,C=CC(=O)OCCOC1=CC=CC=C1,C=CC(=O)OCCOC1=CC=CC=C1,C=CC(=O)OCCOC1=CC=CC=C1
+o-Phenyl Phenol,Synonym,DTXSID2021151,2-Phenylphenol,OC1=C(C=CC=C1)C1=CC=CC=C1,OC1=C(C=CC=C1)C1=CC=CC=C1,OC1=C(C=CC=C1)C1=CC=CC=C1
+alpha-Cumyl Alcohol,Synonym,DTXSID3027247,2-Phenylpropan-2-ol,CC(C)(O)C1=CC=CC=C1,CC(C)(O)C1=CC=CC=C1,CC(C)(O)C1=CC=CC=C1
+2-Propoxyethanol,Approved Name,DTXSID1027500,2-Propoxyethanol,CCCOCCO,CCCOCCO,CCCOCCO
+"2,2,2-Trifluoroethanol",Approved Name,DTXSID0021751,"2,2,2-Trifluoroethanol",OCC(F)(F)F,OCC(F)(F)F,OCC(F)(F)F
+"2,2,4-Trimethyl-1,3-Pentanediol Diisobutyrate",Approved Name,DTXSID1027635,"2,2,4-Trimethyl-1,3-pentanediol diisobutyrate",CC(C)C(OC(=O)C(C)C)C(C)(C)COC(=O)C(C)C,CC(C)C(OC(=O)C(C)C)C(C)(C)COC(=O)C(C)C,CC(C)C(OC(=O)C(C)C)C(C)(C)COC(=O)C(C)C
+Isooctane,Synonym from Valid Source,DTXSID7024370,"2,2,4-Trimethylpentane",CC(C)CC(C)(C)C,CC(C)CC(C)(C)C,CC(C)CC(C)(C)C
+"2,3-Benzofuran",Approved Name,DTXSID6020141,"2,3-Benzofuran",O1C=CC2=C1C=CC=C2,O1C=CC2=C1C=CC=C2,O1C=CC2=C1C=CC=C2
+DIACETYL,Expert Validated Synonym,DTXSID6021583,"2,3-Butanedione",CC(=O)C(C)=O,CC(=O)C(C)=O,CC(=O)C(C)=O
+"2,3-Dimethylbutane",Approved Name,DTXSID9025112,"2,3-Dimethylbutane",CC(C)C(C)C,CC(C)C(C)C,CC(C)C(C)C
+"2,3-Pentanedione",Approved Name,DTXSID6051435,"2,3-Pentanedione",CCC(=O)C(C)=O,CCC(=O)C(C)=O,CCC(=O)C(C)=O
+"2,3,7,8-Tetrachlorodibenzo-p-Dioxin",Approved Name,DTXSID2021315,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",ClC1=CC2=C(OC3=C(O2)C=C(Cl)C(Cl)=C3)C=C1Cl,ClC1=CC2=C(OC3=C(O2)C=C(Cl)C(Cl)=C3)C=C1Cl,ClC1=CC2=C(OC3=C(O2)C=C(Cl)C(Cl)=C3)C=C1Cl
+"2,3,7,8-Tetrachlorodibenzofuran",Approved Name,DTXSID3052147,"2,3,7,8-Tetrachlorodibenzofuran",ClC1=CC2=C(C=C1Cl)C1=CC(Cl)=C(Cl)C=C1O2,ClC1=CC2=C(C=C1Cl)C1=CC(Cl)=C(Cl)C=C1O2,ClC1=CC2=C(C=C1Cl)C1=CC(Cl)=C(Cl)C=C1O2
+"2,4-D, Isooctyl Ester",Integrated Source Name,DTXSID2034679,"2,4-D 2-ethyl-4-methylpentyl ester",CCC(COC(=O)COC1=C(Cl)C=C(Cl)C=C1)CC(C)C,CCC(COC(=O)COC1=C(Cl)C=C(Cl)C=C1)CC(C)C,CCC(COC(=O)COC1=C(Cl)C=C(Cl)C=C1)CC(C)C
+"2,4-D, Dimethylamine Salt",Integrated Source Name,DTXSID0024896,"2,4-D dimethylamine salt",CNC.OC(=O)COC1=C(Cl)C=C(Cl)C=C1,"CNC,OC(=O)COC1=C(Cl)C=C(Cl)C=C1",OC(=O)COC1=C(Cl)C=C(Cl)C=C1
+"Toluene-2,4-Diamine",Synonym from Valid Source,DTXSID4020402,"2,4-Diaminotoluene",CC1=C(N)C=C(N)C=C1,CC1=C(N)C=C(N)C=C1,CC1=C(N)C=C(N)C=C1
+"2,4-Dichlorophenol",Approved Name,DTXSID1020439,"2,4-Dichlorophenol",OC1=C(Cl)C=C(Cl)C=C1,OC1=C(Cl)C=C(Cl)C=C1,OC1=C(Cl)C=C(Cl)C=C1
+"2,4-D",Expert Validated Synonym,DTXSID0020442,"2,4-Dichlorophenoxyacetic acid",OC(=O)COC1=C(Cl)C=C(Cl)C=C1,OC(=O)COC1=C(Cl)C=C(Cl)C=C1,OC(=O)COC1=C(Cl)C=C(Cl)C=C1
+"2,4-Dinitrophenylhydrazine",Approved Name,DTXSID2059485,"2,4-Dinitrophenylhydrazine",NNC1=C(C=C(C=C1)[N+]([O-])=O)[N+]([O-])=O,NNC1=C(C=C(C=C1)[N+]([O-])=O)[N+]([O-])=O,NNC1=C(C=C(C=C1)[N+]([O-])=O)[N+]([O-])=O
+"2,4,5-T",Expert Validated Synonym,DTXSID5021388,"2,4,5-Trichlorophenoxyacetic acid",OC(=O)COC1=C(Cl)C=C(Cl)C(Cl)=C1,OC(=O)COC1=C(Cl)C=C(Cl)C(Cl)=C1,OC(=O)COC1=C(Cl)C=C(Cl)C(Cl)=C1
+"2,4,6-Trinitrotoluene",Approved Name,DTXSID7024372,"2,4,6-Trinitrotoluene",CC1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O,CC1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O,CC1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O
+Maleic Anhydride,Expert Validated Synonym,DTXSID7024166,"2,5-Furandione",O=C1OC(=O)C=C1,O=C1OC(=O)C=C1,O=C1OC(=O)C=C1
+"2,6-Diisopropylphenyl isocyanate",Approved Name,DTXSID9051959,"2,6-Diisopropylphenyl isocyanate",CC(C)C1=CC=CC(C(C)C)=C1N=C=O,CC(C)C1=CC=CC(C(C)C)=C1N=C=O,CC(C)C1=CC=CC(C(C)C)=C1N=C=O
+"2,6-Dimethylpyridine",Approved Name,DTXSID7051557,"2,6-Dimethylpyridine",CC1=CC=CC(C)=N1,CC1=CC=CC(C)=N1,CC1=CC=CC(C)=N1
+"Toluene-2,6-Diamine",Synonym,DTXSID4027319,"2,6-Toluenediamine",CC1=C(N)C=CC=C1N,CC1=C(N)C=CC=C1N,CC1=C(N)C=CC=C1N
+2-Hydroxy-4-Methoxyacetophenone,Synonym from Valid Source,DTXSID1022059,2'-Hydroxy-4'-methoxyacetophenone,COC1=CC=C(C(C)=O)C(O)=C1,COC1=CC=C(C(C)=O)C(O)=C1,COC1=CC=C(C(C)=O)C(O)=C1
+4-Hydroxycoumarin,Synonym from Valid Source,DTXSID8061472,"2H-1-Benzopyran-2-one, 4-hydroxy-",OC1=CC(=O)OC2=CC=CC=C12,O=C1CC(=O)C2=CC=CC=C2O1,O=C1CC(=O)C2=CC=CC=C2O1
+Ethyl Butyl Ketone,Synonym from Valid Source,DTXSID2047438,3-Heptanone,CCCCC(=O)CC,CCCCC(=O)CC,CCCCC(=O)CC
+m-Hydroxybenzoic Acid,Synonym from Valid Source,DTXSID6021610,3-Hydroxybenzoic acid,OC(=O)C1=CC(O)=CC=C1,OC(=O)C1=CC(O)=CC=C1,OC(=O)C1=CC(O)=CC=C1
+Methyl Isopropyl Ketone,Expert Validated Synonym,DTXSID0022062,3-Methyl-2-butanone,CC(C)C(C)=O,CC(C)C(C)=O,CC(C)C(C)=O
+m-Toluidine,Expert Validated Synonym,DTXSID1026792,3-Methylaniline,CC1=CC(N)=CC=C1,CC1=CC(N)=CC=C1,CC1=CC(N)=CC=C1
+Isoamyl Acetate,Expert Validated Synonym,DTXSID9025453,3-Methylbutyl acetate,CC(C)CCOC(C)=O,CC(C)CCOC(C)=O,CC(C)CCOC(C)=O
+3-Methylpentane,Approved Name,DTXSID8052647,3-Methylpentane,CCC(C)CC,CCC(C)CC,CCC(C)CC
+3-methylpyridine,Approved Name,DTXSID9021897,3-Methylpyridine,CC1=CC=CN=C1,CC1=CC=CN=C1,CC1=CC=CN=C1
+Ethyl Amyl Ketone,Expert Validated Synonym,DTXSID3041954,3-Octanone,CCCCCC(=O)CC,CCCCCC(=O)CC,CCCCCC(=O)CC
+3-Octene,Approved Name,DTXSID40862260,3-Octene,CCCCC=CCC,CCCCC=CCC,CCCCC=CCC
+"3,3'-Dichlorobenzidine",Approved Name,DTXSID6020432,"3,3'-Dichlorobenzidine",NC1=C(Cl)C=C(C=C1)C1=CC(Cl)=C(N)C=C1,NC1=C(Cl)C=C(C=C1)C1=CC(Cl)=C(N)C=C1,NC1=C(Cl)C=C(C=C1)C1=CC(Cl)=C(N)C=C1
+o-Dianisidine,Expert Validated Synonym,DTXSID3025091,"3,3'-Dimethoxybenzidine",COC1=CC(=CC=C1N)C1=CC(OC)=C(N)C=C1,COC1=CC(=CC=C1N)C1=CC(OC)=C(N)C=C1,COC1=CC(=CC=C1N)C1=CC(OC)=C(N)C=C1
+o-Tolidine,Expert Validated Synonym,DTXSID5024059,"3,3'-Dimethylbenzidine",CC1=CC(=CC=C1N)C1=CC=C(N)C(C)=C1,CC1=CC(=CC=C1N)C1=CC=C(N)C(C)=C1,CC1=CC(=CC=C1N)C1=CC=C(N)C(C)=C1
+Heroin,Synonym,DTXSID6046761,"3,6-Diacetylmorphine",CN1CC[C@]23[C@H]4OC5=C(OC(C)=O)C=CC(C[C@@H]1[C@@H]2C=C[C@@H]4OC(C)=O)=C35,[H]C12CC3=C4C(OC5C(OC(C)=O)C=CC1C45CCN2C)=C(OC(C)=O)C=C3,[H]C12CC3=C4C(OC5C(OC(C)=O)C=CC1C45CCN2C)=C(OC(C)=O)C=C3
+N-(2-Hydroxyethyl)Morpholine,Synonym from Valid Source,DTXSID2022090,4-(2-Hydroxyethyl)morpholine,OCCN1CCOCC1,OCCN1CCOCC1,OCCN1CCOCC1
+4-Dimethylaminoazobenzene,Synonym from Valid Source,DTXSID5020491,4-(Dimethylamino)azobenzene,CN(C)C1=CC=C(C=C1)N=NC1=CC=CC=C1,CN(C)C1=CC=C(C=C1)N=NC1=CC=CC=C1,CN(C)C1=CC=C(C=C1)N=NC1=CC=CC=C1
+4-Aminopyridine,Approved Name,DTXSID0023870,4-Aminopyridine,NC1=CC=NC=C1,NC1=CC=NC=C1,NC1=CC=NC=C1
+4-Aminodiphenyl,Expert Validated Synonym,DTXSID5020071,4-Biphenylamine,NC1=CC=C(C=C1)C1=CC=CC=C1,NC1=CC=C(C=C1)C1=CC=CC=C1,NC1=CC=C(C=C1)C1=CC=CC=C1
+4-Bromobenzyl bromide,Approved Name,DTXSID5044445,4-Bromobenzyl bromide,BrCC1=CC=C(Br)C=C1,BrCC1=CC=C(Br)C=C1,BrCC1=CC=C(Br)C=C1
+gamma-Butyrolactone,Expert Validated Synonym,DTXSID6020224,4-Butyrolactone,O=C1CCCO1,O=C1CCCO1,O=C1CCCO1
+p-Chloroaniline,Expert Validated Synonym,DTXSID9020295,4-Chloroaniline,NC1=CC=C(Cl)C=C1,NC1=CC=C(Cl)C=C1,NC1=CC=C(Cl)C=C1
+p-Chlorotoluene,Expert Validated Synonym,DTXSID8024814,4-Chlorotoluene,CC1=CC=C(Cl)C=C1,CC1=CC=C(Cl)C=C1,CC1=CC=C(Cl)C=C1
+Dipropyl Ketone,Synonym from Valid Source,DTXSID6047650,4-Heptanone,CCCC(=O)CCC,CCCC(=O)CCC,CCCC(=O)CCC
+4-Methoxyphenol,Approved Name,DTXSID4020828,4-Methoxyphenol,COC1=CC=C(O)C=C1,COC1=CC=C(O)C=C1,COC1=CC=C(O)C=C1
+Methyl Isobutyl Carbinol,Synonym from Valid Source,DTXSID2026781,4-Methyl-2-pentanol,CC(C)CC(C)O,CC(C)CC(C)O,CC(C)CC(C)O
+Hexone,Synonym,DTXSID5021889,4-Methyl-2-pentanone,CC(C)CC(C)=O,CC(C)CC(C)=O,CC(C)CC(C)=O
+p-Toluidine,Expert Validated Synonym,DTXSID6021872,4-Methylaniline,CC1=CC=C(N)C=C1,CC1=CC=C(N)C=C1,CC1=CC=C(N)C=C1
+p-Toluenesulfonic Acid,Synonym from Valid Source,DTXSID0026701,4-Methylbenzenesulfonic acid,CC1=CC=C(C=C1)S(O)(=O)=O,CC1=CC=C(C=C1)S(O)(=O)=O,CC1=CC=C(C=C1)S(O)(=O)=O
+4-Methylmorpholine,Approved Name,DTXSID9029146,4-Methylmorpholine,CN1CCOCC1,CN1CCOCC1,CN1CCOCC1
+Mesityl Oxide,Expert Validated Synonym,DTXSID1029170,4-Methylpent-3-en-2-one,CC(C)=CC(C)=O,CC(C)=CC(C)=O,CC(C)=CC(C)=O
+4-methylpyridine,Approved Name,DTXSID4021892,4-Methylpyridine,CC1=CC=NC=C1,CC1=CC=NC=C1,CC1=CC=NC=C1
+p-Nitroaniline,Synonym from Valid Source,DTXSID8020961,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,NC1=CC=C(C=C1)[N+]([O-])=O,NC1=CC=C(C=C1)[N+]([O-])=O
+4-Nitrodiphenyl,Synonym from Valid Source,DTXSID9041522,4-Nitrobiphenyl,[O-][N+](=O)C1=CC=C(C=C1)C1=CC=CC=C1,[O-][N+](=O)C1=CC=C(C=C1)C1=CC=CC=C1,[O-][N+](=O)C1=CC=C(C=C1)C1=CC=CC=C1
+p-Nitrophenol,Expert Validated Synonym,DTXSID0021834,4-Nitrophenol,OC1=CC=C(C=C1)[N+]([O-])=O,OC1=CC=C(C=C1)[N+]([O-])=O,OC1=CC=C(C=C1)[N+]([O-])=O
+4-Octene,Approved Name,DTXSID70860875,4-Octene,CCCC=CCCC,CCCC=CCCC,CCCC=CCCC
+4-Phenylcyclohexene,Integrated Source Name,DTXSID9047176,4-Phenyl-1-cyclohexene,C1CC(CC=C1)C1=CC=CC=C1,C1CC(CC=C1)C1=CC=CC=C1,C1CC(CC=C1)C1=CC=CC=C1
+4-tert-Butylphenol,Integrated Source Name,DTXSID1020221,4-tert-Butylphenol,CC(C)(C)C1=CC=C(O)C=C1,CC(C)(C)C1=CC=C(O)C=C1,CC(C)(C)C1=CC=C(O)C=C1
+p-tert-Butyltoluene,Integrated Source Name,DTXSID1024704,4-tert-Butyltoluene,CC1=CC=C(C=C1)C(C)(C)C,CC1=CC=C(C=C1)C(C)(C)C,CC1=CC=C(C=C1)C(C)(C)C
+Vinyl Cyclohexene Dioxide,Synonym,DTXSID0020604,4-Vinyl-1-cyclohexene dioxide,C1OC1C1CCC2OC2C1,C1OC1C1CCC2OC2C1,C1OC1C1CCC2OC2C1
+"4,4'-Methylenedianiline",Synonym from Valid Source,DTXSID6022422,"4,4'-Diaminobiphenyl methane",NC1=CC=C(CC2=CC=C(N)C=C2)C=C1,NC1=CC=C(CC2=CC=C(N)C=C2)C=C1,NC1=CC=C(CC2=CC=C(N)C=C2)C=C1
+"4,4'-Diphenylmethane diisocyanate",Approved Name,DTXSID7025180,"4,4'-Diphenylmethane diisocyanate",O=C=NC1=CC=C(CC2=CC=C(C=C2)N=C=O)C=C1,O=C=NC1=CC=C(CC2=CC=C(C=C2)N=C=O)C=C1,O=C=NC1=CC=C(CC2=CC=C(C=C2)N=C=O)C=C1
+Methylene bisphenyl isocyanate,Synonym from Valid Source,DTXSID7025180,"4,4'-Diphenylmethane diisocyanate",O=C=NC1=CC=C(CC2=CC=C(C=C2)N=C=O)C=C1,O=C=NC1=CC=C(CC2=CC=C(C=C2)N=C=O)C=C1,O=C=NC1=CC=C(CC2=CC=C(C=C2)N=C=O)C=C1
+"4,4'-Methylene-bis(2-Chloroaniline)",Integrated Source Name,DTXSID5020865,"4,4'-Methylenebis(2-chloroaniline)",NC1=C(Cl)C=C(CC2=CC(Cl)=C(N)C=C2)C=C1,NC1=C(Cl)C=C(CC2=CC(Cl)=C(N)C=C2)C=C1,NC1=C(Cl)C=C(CC2=CC(Cl)=C(N)C=C2)C=C1
+5-Chloro-2-Methyl-4-Isothiazolin-3-One,Synonym from Valid Source,DTXSID9034286,5-Chloro-2-methyl-3(2H)-isothiazolone,CN1SC(Cl)=CC1=O,CN1SC(Cl)=CC1=O,CN1SC(Cl)=CC1=O
+5-Fluorouracil,Approved Name,DTXSID2020634,5-Fluorouracil,FC1=CNC(=O)NC1=O,FC1C=NC(=O)NC1=O,FC1C=NC(=O)NC1=O
+Methyl Isoamyl Ketone,Expert Validated Synonym,DTXSID5021914,5-Methyl-2-hexanone,CC(C)CCC(C)=O,CC(C)CCC(C)=O,CC(C)CCC(C)=O
+"5,5-Diphenylhydantoin",Approved Name,DTXSID8020541,"5,5-Diphenylhydantoin",O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1
+6-Methoxy-1-tetralone,Synonym,DTXSID6057617,6-Methoxy-?1-?tetralone,COC1=CC2=C(C=C1)C(=O)CCC2,COC1=CC2=C(C=C1)C(=O)CCC2,COC1=CC2=C(C=C1)C(=O)CCC2
+6-Methylcoumarin,Synonym,DTXSID9025588,6-Methyl coumarin,CC1=CC=C2OC(=O)C=CC2=C1,CC1=CC=C2OC(=O)C=CC2=C1,CC1=CC=C2OC(=O)C=CC2=C1
+Abietic Acid,Approved Name,DTXSID7022047,Abietic acid,CC(C)C1=CC2=CC[C@@H]3[C@](C)(CCC[C@@]3(C)C(O)=O)[C@H]2CC1,CC(C)C1=CC2=CCC3C(C)(CCCC3(C)C(O)=O)C2CC1,CC(C)C1=CC2=CCC3C(C)(CCCC3(C)C(O)=O)C2CC1
+Orthene,Synonym from Valid Source,DTXSID8023846,Acephate,COP(=O)(NC(C)=O)SC,COP(=O)(NC(C)=O)SC,COP(=O)(NC(C)=O)SC
+Acetaldehyde,Approved Name,DTXSID5039224,Acetaldehyde,CC=O,CC=O,CC=O
+Acetamide,Approved Name,DTXSID7020005,Acetamide,CC(N)=O,CC(N)=O,CC(N)=O
+Acetanilide,Approved Name,DTXSID2022543,Acetanilide,CC(=O)NC1=CC=CC=C1,CC(=O)NC1=CC=CC=C1,CC(=O)NC1=CC=CC=C1
+Acetic Acid,Approved Name,DTXSID5024394,Acetic acid,CC(O)=O,CC(O)=O,CC(O)=O
+Acetic Anhydride,Approved Name,DTXSID0024395,Acetic anhydride,CC(=O)OC(C)=O,CC(=O)OC(C)=O,CC(=O)OC(C)=O
+Acetyl Methyl Carbinol,Synonym from Valid Source,DTXSID0024399,Acetoin,CC(O)C(C)=O,CC(O)C(C)=O,CC(O)C(C)=O
+Acetone,Approved Name,DTXSID8021482,Acetone,CC(C)=O,CC(C)=O,CC(C)=O
+Acetonitrile,Approved Name,DTXSID7020009,Acetonitrile,CC#N,CC#N,CC#N
+Acetophenone,Approved Name,DTXSID6021828,Acetophenone,CC(=O)C1=CC=CC=C1,CC(=O)C1=CC=CC=C1,CC(=O)C1=CC=CC=C1
+Acrolein,Approved Name,DTXSID5020023,Acrolein,C=CC=O,C=CC=O,C=CC=O
+Acrylamide,Approved Name,DTXSID5020027,Acrylamide,NC(=O)C=C,NC(=O)C=C,NC(=O)C=C
+Acrylic acid,Approved Name,DTXSID0039229,Acrylic acid,OC(=O)C=C,OC(=O)C=C,OC(=O)C=C
+Acrylonitrile,Approved Name,DTXSID5020029,Acrylonitrile,C=CC#N,C=CC#N,C=CC#N
+Aflatoxins,Integrated Source Name,DTXSID4020036,Aflatoxin,-,-,-
+Aldicarb,Approved Name,DTXSID0039223,Aldicarb,CNC(=O)ON=CC(C)(C)SC,CNC(=O)ON=CC(C)(C)SC,CNC(=O)ON=CC(C)(C)SC
+Aldrin,Approved Name,DTXSID8020040,Aldrin,ClC1=C(Cl)[C@]2(Cl)[C@@H]3[C@@H]4C[C@@H](C=C4)[C@@H]3[C@@]1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl
+Allyl Alcohol,Approved Name,DTXSID8020044,Allyl alcohol,OCC=C,OCC=C,OCC=C
+Allyl Chloride,Approved Name,DTXSID4039231,Allyl chloride,ClCC=C,ClCC=C,ClCC=C
+Allyl Glycidyl Ether,Approved Name,DTXSID9039232,Allyl glycidyl ether,C=CCOCC1CO1,C=CCOCC1CO1,C=CCOCC1CO1
+Allyl Isothiocyanate,Approved Name,DTXSID3020047,Allyl isothiocyanate,C=CCN=C=S,C=CCN=C=S,C=CCN=C=S
+Allyl Propyl Disulfide,Approved Name,DTXSID8024448,Allyl propyl disulfide,CCCSSCC=C,CCCSSCC=C,CCCSSCC=C
+alpha-Methyl Styrene,Integrated Source Name,DTXSID9025661,alpha-Methylstyrene,CC(=C)C1=CC=CC=C1,CC(=C)C1=CC=CC=C1,CC(=C)C1=CC=CC=C1
+alpha-Pinene,Approved Name,DTXSID4026501,alpha-Pinene,CC1=CCC2CC1C2(C)C,CC1=CCC2CC1C2(C)C,CC1=CCC2CC1C2(C)C
+Aluminum oxide,Synonym from Valid Source,DTXSID2041593,Alumina,-,-,-
+Aluminum oxide,Synonym from Valid Source,DTXSID2041593,Alumina,-,-,-
+Aluminum,Approved Name,DTXSID3040273,Aluminum,[Al],-,-
+Aluminum,Approved Name,DTXSID3040273,Aluminum,[Al],-,-
+Aluminum,Approved Name,DTXSID3040273,Aluminum,[Al],-,-
+Aluminum,Approved Name,DTXSID3040273,Aluminum,[Al],-,-
+Aluminum Silicate,Approved Name,DTXSID2050451,Aluminum silicate,[Al++]O[Al++].[O-][Si]([O-])([O-])[O-],-,-
+Ammonia,Approved Name,DTXSID0023872,Ammonia,N,-,-
+Ammonium Carbamate,Approved Name,DTXSID9027360,Ammonium carbamate,[NH4+].NC([O-])=O,NC(O)=O,NC(O)=O
+Ammonium Chloride,Approved Name,DTXSID0020078,Ammonium chloride,[NH4+].[Cl-],-,-
+Ammonium Nitrate,Approved Name,DTXSID2029668,Ammonium nitrate,[NH4+].[O-][N+]([O-])=O,-,-
+Aniline,Approved Name,DTXSID8020090,Aniline,NC1=CC=CC=C1,NC1=CC=CC=C1,NC1=CC=CC=C1
+Anisole,Approved Name,DTXSID4041608,Anisole,COC1=CC=CC=C1,COC1=CC=CC=C1,COC1=CC=CC=C1
+Anthracene,Integrated Source Name,DTXSID0023878,Anthracene,C1=CC2=CC3=C(C=CC=C3)C=C2C=C1,C1=CC2=CC3=C(C=CC=C3)C=C2C=C1,C1=CC2=CC3=C(C=CC=C3)C=C2C=C1
+Anthracene,Integrated Source Name,DTXSID0023878,Anthracene,C1=CC2=CC3=C(C=CC=C3)C=C2C=C1,C1=CC2=CC3=C(C=CC=C3)C=C2C=C1,C1=CC2=CC3=C(C=CC=C3)C=C2C=C1
+Antimony,Approved Name,DTXSID5023879,Antimony,[Sb],-,-
+Chlorodiphenyl (21% Cl),Synonym,DTXSID3093945,Aroclor 1221,-,-,-
+Chlorodiphenyl (32% Cl),Synonym,DTXSID3093949,Aroclor 1232,-,-,-
+Chlorodiphenyl (42% Cl),Synonym,DTXSID3040223,Aroclor 1242,-,-,-
+Chlorodiphenyl (48% Cl),Synonym,DTXSID4023884,Aroclor 1248,-,-,-
+Chlorodiphenyl (54% Cl),Synonym,DTXSID5020100,Aroclor 1254,-,-,-
+Chlorodiphenyl (60% Cl),Synonym,DTXSID0020101,Aroclor 1260,-,-,-
+Chlorodiphenyl (62% Cl),Synonym,DTXSID9094822,Aroclor 1262,-,-,-
+"Arsenic, Inorganic",Integrated Source Name,DTXSID4023886,Arsenic,[As],-,-
+Arsine,Approved Name,DTXSID3023760,Arsine,[AsH3],-,-
+Asbestos,Approved Name,DTXSID4023888,Asbestos,-,-,-
+Asphalt,Approved Name,DTXSID1027710,Asphalt,-,-,-
+Atrazine,Approved Name,DTXSID9020112,Atrazine,CCNC1=NC(NC(C)C)=NC(Cl)=N1,CCNC1=NC(NC(C)C)=NC(Cl)=N1,CCNC1=NC(NC(C)C)=NC(Cl)=N1
+Auramine,Approved Name,DTXSID7043821,Auramine,CN(C)C1=CC=C(C=C1)C(=N)C1=CC=C(C=C1)N(C)C,CN(C)C1=CC=C(C=C1)C(=N)C1=CC=C(C=C1)N(C)C,CN(C)C1=CC=C(C=C1)C(=N)C1=CC=C(C=C1)N(C)C
+"1,1'-Azobisformamide",Synonym from Valid Source,DTXSID0024553,Azodicarbonamide,NC(=O)N=NC(N)=O,NC(=O)N=NC(N)=O,NC(=O)N=NC(N)=O
+Barium Sulfate,Approved Name,DTXSID0050471,Barium sulfate,[Ba++].[O-]S([O-])(=O)=O,-,-
+Barium Sulfate,Approved Name,DTXSID0050471,Barium sulfate,[Ba++].[O-]S([O-])(=O)=O,-,-
+Beclomethasone Dipropionate,Expert Validated Synonym,DTXSID3048730,Beclazone,CCC(=O)OCC(=O)[C@@]1(OC(=O)CC)[C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](O)C[C@]12C,CCC(=O)OCC(=O)C1(OC(=O)CC)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC12C,CCC(=O)OCC(=O)C1(OC(=O)CC)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC12C
+Bendiocarb,Approved Name,DTXSID9032327,Bendiocarb,CNC(=O)OC1=CC=CC2=C1OC(C)(C)O2,CNC(=O)OC1=CC=CC2=C1OC(C)(C)O2,CNC(=O)OC1=CC=CC2=C1OC(C)(C)O2
+Benomyl,Approved Name,DTXSID5023900,Benomyl,CCCCNC(=O)N1C(NC(=O)OC)=NC2=C1C=CC=C2,CCCCNC(=O)N1C(NC(=O)OC)=NC2=C1C=CC=C2,CCCCNC(=O)N1C(NC(=O)OC)=NC2=C1C=CC=C2
+Benz(a)Anthracene,Approved Name,DTXSID5023902,Benz(a)anthracene,C1=CC2=C(C=C1)C=C1C(C=CC3=C1C=CC=C3)=C2,C1=CC2=C(C=C1)C=C1C(C=CC3=C1C=CC=C3)=C2,C1=CC2=C(C=C1)C=C1C(C=CC3=C1C=CC=C3)=C2
+Benzaldehyde,Approved Name,DTXSID8039241,Benzaldehyde,O=CC1=CC=CC=C1,O=CC1=CC=CC=C1,O=CC1=CC=CC=C1
+Benzene,Approved Name,DTXSID3039242,Benzene,C1=CC=CC=C1,C1=CC=CC=C1,C1=CC=CC=C1
+Triethylbenzene,Expert Validated Synonym,DTXSID9027867,"Benzene, triethyl-",-,-,-
+Benzenesulfonyl Chloride,Approved Name,DTXSID1026619,Benzenesulfonyl chloride,ClS(=O)(=O)C1=CC=CC=C1,ClS(=O)(=O)C1=CC=CC=C1,ClS(=O)(=O)C1=CC=CC=C1
+Phenyl Mercaptan,Synonym from Valid Source,DTXSID7026811,Benzenethiol,SC1=CC=CC=C1,SC1=CC=CC=C1,SC1=CC=CC=C1
+Benzidine,Approved Name,DTXSID2020137,Benzidine,NC1=CC=C(C=C1)C1=CC=C(N)C=C1,NC1=CC=C(C=C1)C1=CC=C(N)C=C1,NC1=CC=C(C=C1)C1=CC=C(N)C=C1
+Benzo(a)pyrene,Approved Name,DTXSID2020139,Benzo(a)pyrene,C1=CC2=CC3=CC=C4C=CC=C5C=CC(=C2C=C1)C3=C45,C1=CC2=CC3=CC=C4C=CC=C5C=CC(=C2C=C1)C3=C45,C1=CC2=CC3=CC=C4C=CC=C5C=CC(=C2C=C1)C3=C45
+Benzo(b)fluoranthene,Approved Name,DTXSID0023907,Benzo(b)fluoranthene,C1=CC=C2C(=C1)C1=CC=CC3=C4C=CC=CC4=CC2=C13,C1=CC=C2C(=C1)C1=CC=CC3=C4C=CC=CC4=CC2=C13,C1=CC=C2C(=C1)C1=CC=CC3=C4C=CC=CC4=CC2=C13
+"Benzo(g,h,i)perylene",Approved Name,DTXSID5023908,"Benzo(g,h,i)perylene",C1=CC2=C3C(=C1)C1=C4C(C=CC5=C4C3=C(C=C2)C=C5)=CC=C1,C1=CC2=C3C(=C1)C1=C4C(C=CC5=C4C3=C(C=C2)C=C5)=CC=C1,C1=CC2=C3C(=C1)C1=C4C(C=CC5=C4C3=C(C=C2)C=C5)=CC=C1
+Benzophenone,Approved Name,DTXSID0021961,Benzophenone,O=C(C1=CC=CC=C1)C1=CC=CC=C1,O=C(C1=CC=CC=C1)C1=CC=CC=C1,O=C(C1=CC=CC=C1)C1=CC=CC=C1
+Benzophenonetetracarboxylic Acid Dianhydride,Synonym from Valid Source,DTXSID3029233,Benzophenonetetracarboxylic dianhydride,O=C(C1=CC2=C(C=C1)C(=O)OC2=O)C1=CC2=C(C=C1)C(=O)OC2=O,O=C(C1=CC2=C(C=C1)C(=O)OC2=O)C1=CC2=C(C=C1)C(=O)OC2=O,O=C(C1=CC2=C(C=C1)C(=O)OC2=O)C1=CC2=C(C=C1)C(=O)OC2=O
+Benzoyl Chloride,Approved Name,DTXSID9026631,Benzoyl chloride,ClC(=O)C1=CC=CC=C1,ClC(=O)C1=CC=CC=C1,ClC(=O)C1=CC=CC=C1
+Benzoyl Peroxide,Approved Name,DTXSID6024591,Benzoyl peroxide,O=C(OOC(=O)C1=CC=CC=C1)C1=CC=CC=C1,O=C(OOC(=O)C1=CC=CC=C1)C1=CC=CC=C1,O=C(OOC(=O)C1=CC=CC=C1)C1=CC=CC=C1
+Benzyl Acetate,Approved Name,DTXSID0020151,Benzyl acetate,CC(=O)OCC1=CC=CC=C1,CC(=O)OCC1=CC=CC=C1,CC(=O)OCC1=CC=CC=C1
+Benzyl Alcohol,Approved Name,DTXSID5020152,Benzyl alcohol,OCC1=CC=CC=C1,OCC1=CC=CC=C1,OCC1=CC=CC=C1
+Butyl Benzyl Phthalate,Integrated Source Name,DTXSID3020205,Benzyl butyl phthalate,CCCCOC(=O)C1=C(C=CC=C1)C(=O)OCC1=CC=CC=C1,CCCCOC(=O)C1=C(C=CC=C1)C(=O)OCC1=CC=CC=C1,CCCCOC(=O)C1=C(C=CC=C1)C(=O)OCC1=CC=CC=C1
+Benzyl Chloride,Approved Name,DTXSID0020153,Benzyl chloride,ClCC1=CC=CC=C1,ClCC1=CC=CC=C1,ClCC1=CC=CC=C1
+beta-Butyrolactone,Approved Name,DTXSID1020223,beta-Butyrolactone,CC1CC(=O)O1,CC1CC(=O)O1,CC1CC(=O)O1
+beta-Pinene,Approved Name,DTXSID7027049,beta-Pinene,CC1(C)C2CC1C(=C)CC2,CC1(C)C2CC1C(=C)CC2,CC1(C)C2CC1C(=C)CC2
+Betamethasone Acetate,Approved Name,DTXSID8022668,Betamethasone acetate,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)COC(C)=O,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)COC(C)=O,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)COC(C)=O
+Betamethasone Dipropionate,Approved Name,DTXSID2022672,Betamethasone dipropionate,CCC(=O)OCC(=O)[C@@]1(OC(=O)CC)[C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C,CCC(=O)OCC(=O)C1(OC(=O)CC)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC12C,CCC(=O)OCC(=O)C1(OC(=O)CC)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC12C
+Bifenthrin,Approved Name,DTXSID9020160,Bifenthrin,CC1=C(C=CC=C1COC(=O)[C@@H]1[C@H](\C=C(/Cl)C(F)(F)F)C1(C)C)C1=CC=CC=C1,Cc1c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)cccc1-c1ccccc1,Cc1c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)cccc1-c1ccccc1
+Diphenyl,Synonym from Valid Source,DTXSID4020161,Biphenyl,C1=CC=C(C=C1)C1=CC=CC=C1,C1=CC=C(C=C1)C1=CC=CC=C1,C1=CC=C(C=C1)C1=CC=CC=C1
+Di-(2-Ethylhexyl) Adipate,Integrated Source Name,DTXSID0020606,Bis(2-ethylhexyl)hexanedioate,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC
+Bis(Chloromethyl) Ether,Approved Name,DTXSID8020173,bis(Chloromethyl) ether,ClCOCCl,ClCOCCl,ClCOCCl
+Bis(2-dimethylaminoethyl) ether,Synonym,DTXSID5027512,Bis[2-(dimethylamino)ethyl]ether,CN(C)CCOCCN(C)C,CN(C)CCOCCN(C)C,CN(C)CCOCCN(C)C
+Bismuth,Approved Name,DTXSID3052484,Bismuth,[Bi],-,-
+Bisphenol A,Approved Name,DTXSID7020182,Bisphenol A,CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+Diglycidyl Ether of Bisphenol A,Synonym,DTXSID6024624,Bisphenol A diglycidyl ether,CC(C)(C1=CC=C(OCC2CO2)C=C1)C1=CC=C(OCC2CO2)C=C1,CC(C)(C1=CC=C(OCC2CO2)C=C1)C1=CC=C(OCC2CO2)C=C1,CC(C)(C1=CC=C(OCC2CO2)C=C1)C1=CC=C(OCC2CO2)C=C1
+Fluoboric Acid,Synonym from Valid Source,DTXSID8029739,"Borate(1-), tetrafluoro-, hydrogen",[H+].F[B-](F)(F)F,-,-
+Borax,Approved Name,DTXSID2034384,Borax,O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[O-]B1OB2OB([O-])OB(O1)O2,-,-
+Boric Acid,Approved Name,DTXSID1020194,Boric acid,OB(O)O,-,-
+Boron Oxide,Synonym from Valid Source,DTXSID7034387,Boric oxide,[B+3].[B+3].[O--].[O--].[O--],-,-
+Boron,Approved Name,DTXSID3023922,Boron,[B],-,-
+Boron sodium oxide pentahydrate,Approved Name,DTXSID7034389,Boron sodium oxide pentahydrate,O.O.O.O.O.[Na+].[Na+].[O-]B(OB=O)OB([O-])OB=O,-,-
+Boron Trifluoride,Approved Name,DTXSID7041677,Boron trifluoride,FB(F)F,-,-
+Bromacil,Approved Name,DTXSID4022020,Bromacil,CCC(C)N1C(=O)NC(C)=C(Br)C1=O,CCC(C)N1C(=O)N=C(C)C(Br)C1=O,CCC(C)N1C(=O)N=C(C)C(Br)C1=O
+"Bromelain, fruit",Approved Name,DTXSID901010881,"Bromelain, fruit",-,-,-
+Bromine,Approved Name,DTXSID1035238,Bromine,BrBr,-,-
+Chlorobromomethane,Synonym from Valid Source,DTXSID4021503,Bromochloromethane,ClCBr,ClCBr,ClCBr
+Bromoform,Approved Name,DTXSID1021374,Bromoform,BrC(Br)Br,BrC(Br)Br,BrC(Br)Br
+Trifluoromonobromomethane,Synonym from Valid Source,DTXSID5026415,Bromotrifluoromethane,FC(F)(F)Br,FC(F)(F)Br,FC(F)(F)Br
+sec-Butyl Acetate,Expert Validated Synonym,DTXSID0047612,Butan-2-yl acetate,CCC(C)OC(C)=O,CCC(C)OC(C)=O,CCC(C)OC(C)=O
+Butane,Approved Name,DTXSID7024665,Butane,CCCC,CCCC,CCCC
+Butyric Acid,Expert Validated Synonym,DTXSID8021515,Butanoic acid,CCCC(O)=O,CCCC(O)=O,CCCC(O)=O
+Butene,Approved Name,DTXSID0027850,Butene,-,-,-
+"Butyl (2,4,5-trichlorophenoxy)acetate",Approved Name,DTXSID7026073,"Butyl (2,4,5-trichlorophenoxy)acetate",CCCCOC(=O)COC1=C(Cl)C=C(Cl)C(Cl)=C1,CCCCOC(=O)COC1=C(Cl)C=C(Cl)C(Cl)=C1,CCCCOC(=O)COC1=C(Cl)C=C(Cl)C(Cl)=C1
+Enbucrilate,Integrated Source Name,DTXSID5064417,Butyl 2-cyanoacrylate,CCCCOC(=O)C(=C)C#N,CCCCOC(=O)C(=C)C#N,CCCCOC(=O)C(=C)C#N
+n-Butyl Acetate,Synonym from Valid Source,DTXSID3021982,Butyl acetate,CCCCOC(C)=O,CCCCOC(C)=O,CCCCOC(C)=O
+Butyl Acrylate,Approved Name,DTXSID6024676,Butyl acrylate,CCCCOC(=O)C=C,CCCCOC(=O)C=C,CCCCOC(=O)C=C
+Di-n-Butyl Ether,Expert Validated Synonym,DTXSID1022007,Butyl ether,CCCCOCCCC,CCCCOCCCC,CCCCOCCCC
+n-Butyl Glycidyl Ether,Expert Validated Synonym,DTXSID9024691,Butyl glycidyl ether,CCCCOCC1CO1,CCCCOCC1CO1,CCCCOCC1CO1
+Butyl Isocyanate,Approved Name,DTXSID6026872,Butyl isocyanate,CCCCN=C=O,CCCCN=C=O,CCCCN=C=O
+n-Butyl Lactate,Integrated Source Name,DTXSID7042196,Butyl lactate,CCCCOC(=O)C(C)O,CCCCOC(=O)C(C)O,CCCCOC(=O)C(C)O
+Butyl Methacrylate,Approved Name,DTXSID4024696,Butyl methacrylate,CCCCOC(=O)C(C)=C,CCCCOC(=O)C(C)=C,CCCCOC(=O)C(C)=C
+Butylamine,Approved Name,DTXSID1021904,Butylamine,CCCCN,CCCCN,CCCCN
+"2,6-Di-tert-Butyl-p-Cresol",Synonym from Valid Source,DTXSID2020216,Butylated hydroxytoluene,CC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C,CC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C,CC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C
+Butyraldehyde,Approved Name,DTXSID8021513,Butyraldehyde,CCCC=O,CCCC=O,CCCC=O
+Acid Blue 9,Synonym,DTXSID4034310,C.I. Acid Blue 9,[NH4+].[NH4+].CCN(CC1=CC(=CC=C1)S([O-])(=O)=O)C1=CC=C(C=C1)C(=C1C=CC(C=C1)=[N+](CC)CC1=CC=CC(=C1)S([O-])(=O)=O)C1=C(C=CC=C1)S([O-])(=O)=O,CCN(CC1=CC(=CC=C1)S(O)(=O)=O)C1=CC=C(C=C1)C(=C1C=CC(C=C1)=[N+](CC)CC1=CC=CC(=C1)S(O)(=O)=O)C1=C(C=CC=C1)S(O)(=O)=O,CCN(CC1=CC(=CC=C1)S(O)(=O)=O)C1=CC=C(C=C1)C(=C1C=CC(C=C1)=[N+](CC)CC1=CC=CC(=C1)S(O)(=O)=O)C1=C(C=CC=C1)S(O)(=O)=O
+Acid Red 114,Synonym,DTXSID8021224,C.I. Acid Red 114,[Na+].[Na+].CC1=CC=C(C=C1)S(=O)(=O)OC1=CC=C(C=C1)N=NC1=C(C)C=C(C=C1)C1=CC=C(N=NC2=C(O)C=CC3=CC(=CC(=C23)S([O-])(=O)=O)S([O-])(=O)=O)C(C)=C1,CC1=CC=C(C=C1)S(=O)(=O)OC1=CC=C(C=C1)N=NC1=C(C)C=C(C=C1)C1=CC=C(N=NC2=C(O)C=CC3=CC(=CC(=C23)S(O)(=O)=O)S(O)(=O)=O)C(C)=C1,CC1=CC=C(C=C1)S(=O)(=O)OC1=CC=C(C=C1)N=NC1=C(C)C=C(C=C1)C1=CC=C(N=NC2=C(O)C=CC3=CC(=CC(=C23)S(O)(=O)=O)S(O)(=O)=O)C(C)=C1
+Acid Yellow 42,Expert Validated Synonym,DTXSID90881406,C.I. Acid Yellow 42,[Na+].[Na+].CC1=NN(C(=O)C1N=NC1=CC(=C(C=C1)C1=C(C=C(C=C1)N=NC1C(C)=NN(C1=O)C1=CC=CC=C1)S([O-])(=O)=O)S([O-])(=O)=O)C1=CC=CC=C1,CC1=NN(C(=O)C1N=NC1=CC(=C(C=C1)C1=CC=C(C=C1S(O)(=O)=O)N=NC1C(C)=NN(C1=O)C1=CC=CC=C1)S(O)(=O)=O)C1=CC=CC=C1,CC1=NN(C(=O)C1N=NC1=CC(=C(C=C1)C1=CC=C(C=C1S(O)(=O)=O)N=NC1C(C)=NN(C1=O)C1=CC=CC=C1)S(O)(=O)=O)C1=CC=CC=C1
+Direct Black 38,Integrated Source Name,DTXSID7020184,C.I. Direct Black 38,[Na+].[Na+].NC1=CC(N)=C(C=C1)\N=N\C1=CC=C(C=C1)C1=CC=C(C=C1)\N=N\C1=C(C=C2C=C(C(\N=N\C3=CC=CC=C3)=C(O)C2=C1N)S([O-])(=O)=O)S([O-])(=O)=O,NC1=CC(N)=C(C=C1)N=NC1=CC=C(C=C1)C1=CC=C(C=C1)N=NC1=C(C=C2C=C(C(N=NC3=CC=CC=C3)=C(O)C2=C1N)S(O)(=O)=O)S(O)(=O)=O,NC1=CC(N)=C(C=C1)N=NC1=CC=C(C=C1)C1=CC=C(C=C1)N=NC1=C(C=C2C=C(C(N=NC3=CC=CC=C3)=C(O)C2=C1N)S(O)(=O)=O)S(O)(=O)=O
+Direct Blue 1,Synonym,DTXSID1025190,C.I. Direct Blue 1,[Na+].[Na+].[Na+].[Na+].COC1=CC(=CC=C1\N=N\C1=C(O)C2=C(C=C1)C(=CC(=C2N)S([O-])(=O)=O)S([O-])(=O)=O)C1=CC(OC)=C(C=C1)\N=N\C1=C(O)C2=C(N)C(=CC(=C2C=C1)S([O-])(=O)=O)S([O-])(=O)=O,COC1=C(C=CC(=C1)C1=CC(OC)=C(C=C1)N=NC1=CC=C2C(=CC(=C(N)C2=C1O)S(O)(=O)=O)S(O)(=O)=O)N=NC1=CC=C2C(=CC(=C(N)C2=C1O)S(O)(=O)=O)S(O)(=O)=O,COC1=C(C=CC(=C1)C1=CC(OC)=C(C=C1)N=NC1=CC=C2C(=CC(=C(N)C2=C1O)S(O)(=O)=O)S(O)(=O)=O)N=NC1=CC=C2C(=CC(=C(N)C2=C1O)S(O)(=O)=O)S(O)(=O)=O
+Direct Blue 2,Synonym,DTXSID6025191,C.I. Direct Blue 2,[Na+].[Na+].[Na+].NC1=CC2=C(O)C(\N=N\C3=CC=C(C=C3)C3=CC=C(C=C3)\N=N\C3=C(C=C4C=C(C=C(N)C4=C3O)S([O-])(=O)=O)S([O-])(=O)=O)=C(C=C2C=C1)S([O-])(=O)=O,NC1=CC=C2C=C(C(N=NC3=CC=C(C=C3)C3=CC=C(C=C3)N=NC3=C(C=C4C=C(C=C(N)C4=C3O)S(O)(=O)=O)S(O)(=O)=O)=C(O)C2=C1)S(O)(=O)=O,NC1=CC=C2C=C(C(N=NC3=CC=C(C=C3)C3=CC=C(C=C3)N=NC3=C(C=C4C=C(C=C(N)C4=C3O)S(O)(=O)=O)S(O)(=O)=O)=C(O)C2=C1)S(O)(=O)=O
+Direct Brown 95,Integrated Source Name,DTXSID3020201,C.I. Direct Brown 95,[Na+].[Na+].[Cu++].OC1=CC=C(\N=N\C2=C([O-])C=CC(=C2)S([O-])(=O)=O)C([O-])=C1N=NC1=CC=C(C=C1)C1=CC=C(C=C1)N=NC1=CC(C([O-])=O)=C(O)C=C1,OC(=O)C1=CC(=CC=C1O)N=NC1=CC=C(C=C1)C1=CC=C(C=C1)N=NC1=C(O)C(=CC=C1O)N=NC1=CC(=CC=C1O)S(O)(=O)=O,OC(=O)C1=CC(=CC=C1O)N=NC1=CC=C(C=C1)C1=CC=C(C=C1)N=NC1=C(O)C(=CC=C1O)N=NC1=CC(=CC=C1O)S(O)(=O)=O
+Direct Red 2,Synonym,DTXSID3025203,C.I. Direct Red 2,[Na+].[Na+].CC1=C(C=CC(=C1)C1=CC(C)=C(C=C1)\N=N\C1=C(N)C2=C(C=CC=C2)C(=C1)S([O-])(=O)=O)\N=N\C1=CC(=C2C=CC=CC2=C1N)S([O-])(=O)=O,CC1=CC(=CC=C1N=NC1=CC(=C2C=CC=CC2=C1N)S(O)(=O)=O)C1=CC(C)=C(C=C1)N=NC1=CC(=C2C=CC=CC2=C1N)S(O)(=O)=O,CC1=CC(=CC=C1N=NC1=CC(=C2C=CC=CC2=C1N)S(O)(=O)=O)C1=CC(C)=C(C=C1)N=NC1=CC(=C2C=CC=CC2=C1N)S(O)(=O)=O
+Direct Red 81,Integrated Source Name,DTXSID5041726,C.I. Direct Red 81 disodium salt,[Na+].[Na+].OC1=C(N=NC2=CC=C(C=C2)N=NC2=CC=C(C=C2)S([O-])(=O)=O)C(=CC2=CC(NC(=O)C3=CC=CC=C3)=CC=C12)S([O-])(=O)=O,OC1=C(N=NC2=CC=C(C=C2)N=NC2=CC=C(C=C2)S(O)(=O)=O)C(=CC2=CC(NC(=O)C3=CC=CC=C3)=CC=C12)S(O)(=O)=O,OC1=C(N=NC2=CC=C(C=C2)N=NC2=CC=C(C=C2)S(O)(=O)=O)C(=CC2=CC(NC(=O)C3=CC=CC=C3)=CC=C12)S(O)(=O)=O
+Disperse Blue 7,Synonym,DTXSID8025208,C.I. Disperse Blue 7,OCCNC1=CC=C(NCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,OCCNC1=CC=C(NCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O,OCCNC1=CC=C(NCCO)C2=C1C(=O)C1=C(O)C=CC(O)=C1C2=O
+Disperse Yellow 3,Synonym,DTXSID6021450,C.I. Disperse Yellow 3,CC(=O)NC1=CC=C(C=C1)\N=N\C1=C(O)C=CC(C)=C1,CC(=O)NC1=CC=C(C=C1)N=NC1=C(O)C=CC(C)=C1,CC(=O)NC1=CC=C(C=C1)N=NC1=C(O)C=CC(C)=C1
+Cadmium,Approved Name,DTXSID1023940,Cadmium,[Cd],-,-
+Cadmium Dust (as Cd),Integrated Source Name,DTXSID1023940,Cadmium,[Cd],-,-
+Cadmium Fume (as Cd),Integrated Source Name,DTXSID0024715,Cadmium oxide,[O--].[Cd++],-,-
+Cadusafos,Approved Name,DTXSID7037505,Cadusafos,CCOP(=O)(SC(C)CC)SC(C)CC,CCOP(=O)(SC(C)CC)SC(C)CC,CCOP(=O)(SC(C)CC)SC(C)CC
+Calcium Carbonate,Approved Name,DTXSID3036238,Calcium carbonate,[Ca++].[O-]C([O-])=O,-,OC(O)=O
+Calcium Carbonate,Approved Name,DTXSID3036238,Calcium carbonate,[Ca++].[O-]C([O-])=O,-,OC(O)=O
+Calcium Cyanamide,Approved Name,DTXSID6020353,Calcium cyanamide,[Ca++].[N--]C#N,NC#N,NC#N
+Calcium Hydroxide,Approved Name,DTXSID7034410,Calcium hydroxide,[OH-].[OH-].[Ca++],-,-
+Calcium Hydroxide,Approved Name,DTXSID7034410,Calcium hydroxide,[OH-].[OH-].[Ca++],-,-
+Calcium Oxide,Approved Name,DTXSID5029631,Calcium oxide,[O--].[Ca++],-,-
+Calcium Silicate,Approved Name,DTXSID4029648,Calcium silicate,-,-,-
+Calcium Sulfate,Approved Name,DTXSID9029699,Calcium sulfate,[Ca++].[O-]S([O-])(=O)=O,-,-
+Camphor,Approved Name,DTXSID5030955,Camphor,CC1(C)C2CCC1(C)C(=O)C2,CC1(C)C2CCC1(C)C(=O)C2,CC1(C)C2CCC1(C)C(=O)C2
+Caprolactam,Approved Name,DTXSID4020240,Caprolactam,O=C1CCCCCN1,O=C1CCCCCN1,O=C1CCCCCN1
+Caprolactam,Approved Name,DTXSID4020240,Caprolactam,O=C1CCCCCN1,O=C1CCCCCN1,O=C1CCCCCN1
+Capsaicin,Approved Name,DTXSID9020241,Capsaicin,COC1=C(O)C=CC(CNC(=O)CCCC\C=C\C(C)C)=C1,COC1=CC(CNC(=O)CCCCC=CC(C)C)=CC=C1O,COC1=CC(CNC(=O)CCCCC=CC(C)C)=CC=C1O
+Captan,Approved Name,DTXSID9020243,Captan,ClC(Cl)(Cl)SN1C(=O)C2CC=CCC2C1=O,ClC(Cl)(Cl)SN1C(=O)C2CC=CCC2C1=O,ClC(Cl)(Cl)SN1C(=O)C2CC=CCC2C1=O
+Carbadox,Approved Name,DTXSID6043913,Carbadox,COC(=O)N\N=C\C1=[N+]([O-])C2=C(C=CC=C2)[N+]([O-])=C1,COC(=O)N=NCC1=[N+]([O-])C2=C(C=CC=C2)[N+]([O-])=C1,COC(=O)N=NCC1=[N+]([O-])C2=C(C=CC=C2)[N+]([O-])=C1
+Carbaryl,Approved Name,DTXSID9020247,Carbaryl,CNC(=O)OC1=C2C=CC=CC2=CC=C1,CNC(=O)OC1=C2C=CC=CC2=CC=C1,CNC(=O)OC1=C2C=CC=CC2=CC=C1
+Carbofuran,Approved Name,DTXSID9020249,Carbofuran,CNC(=O)OC1=CC=CC2=C1OC(C)(C)C2,CNC(=O)OC1=CC=CC2=C1OC(C)(C)C2,CNC(=O)OC1=CC=CC2=C1OC(C)(C)C2
+Carbon Black,Approved Name,DTXSID7051216,Carbon black,-,-,-
+Carbon Dioxide,Approved Name,DTXSID4027028,Carbon dioxide,O=C=O,O=C=O,O=C=O
+Carbon Disulfide,Approved Name,DTXSID6023947,Carbon disulfide,S=C=S,S=C=S,S=C=S
+Carbon Monoxide,Approved Name,DTXSID5027273,Carbon monoxide,[C-]#[O+],-,-
+Carbon Monoxide,Approved Name,DTXSID5027273,Carbon monoxide,[C-]#[O+],-,-
+Carbon Tetrabromide,Approved Name,DTXSID8060327,Carbon tetrabromide,BrC(Br)(Br)Br,BrC(Br)(Br)Br,BrC(Br)(Br)Br
+Carbon Tetrachloride,Approved Name,DTXSID8020250,Carbon tetrachloride,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl
+Carbonyl Fluoride,Synonym from Valid Source,DTXSID7059858,Carbonic difluoride,FC(F)=O,FC(F)=O,FC(F)=O
+Carbonyl Sulfide,Approved Name,DTXSID6023949,Carbonyl sulfide,O=C=S,O=C=S,O=C=S
+Catechol,Approved Name,DTXSID3020257,Catechol,OC1=C(O)C=CC=C1,OC1=C(O)C=CC=C1,OC1=C(O)C=CC=C1
+Cellulose,Approved Name,DTXSID3050492,Cellulose,-,-,-
+Cerium,Approved Name,DTXSID0058641,Cerium,[Ce],-,-
+Amiben,Expert Validated Synonym,DTXSID2020262,Chloramben,NC1=C(Cl)C(=CC(Cl)=C1)C(O)=O,NC1=C(Cl)C(=CC(Cl)=C1)C(O)=O,NC1=C(Cl)C(=CC(Cl)=C1)C(O)=O
+Chloramine-T,Approved Name,DTXSID6040321,Chloramine-T,[Na+].CC1=CC=C(C=C1)S(=O)(=O)[N-]Cl,CC1=CC=C(C=C1)S(=O)(=O)NCl,CC1=CC=C(C=C1)S(=O)(=O)NCl
+Chloramphenicol,Approved Name,DTXSID7020265,Chloramphenicol,OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)C1=CC=C(C=C1)[N+]([O-])=O,OCC(NC(=O)C(Cl)Cl)C(O)C1=CC=C(C=C1)[N+]([O-])=O,OCC(NC(=O)C(Cl)Cl)C(O)C1=CC=C(C=C1)[N+]([O-])=O
+Chlordane,Approved Name,DTXSID7020267,Chlordane,ClC1CC2C(C1Cl)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,ClC1CC2C(C1Cl)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,ClC1CC2C(C1Cl)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl
+Chlordimeform,Approved Name,DTXSID2037508,Chlordimeform,CN(C)\C=N\C1=CC=C(Cl)C=C1C,CN(C)C=NC1=CC=C(Cl)C=C1C,CN(C)C=NC1=CC=C(Cl)C=C1C
+Chlorine,Approved Name,DTXSID1020273,Chlorine,ClCl,-,-
+Chlorine,Approved Name,DTXSID1020273,Chlorine,ClCl,-,-
+Chlorine Dioxide,Approved Name,DTXSID5023958,Chlorine dioxide,[O][Cl]=O,-,-
+Chlorobenzene,Approved Name,DTXSID4020298,Chlorobenzene,ClC1=CC=CC=C1,ClC1=CC=CC=C1,ClC1=CC=CC=C1
+Chlorodifluoromethane,Approved Name,DTXSID6020301,Chlorodifluoromethane,FC(F)Cl,FC(F)Cl,FC(F)Cl
+Ethyl Chloride,Expert Validated Synonym,DTXSID1020302,Chloroethane,CCCl,CCCl,CCCl
+Chloroform,Approved Name,DTXSID1020306,Chloroform,ClC(Cl)Cl,ClC(Cl)Cl,ClC(Cl)Cl
+Methyl Chloride,Expert Validated Synonym,DTXSID0021541,Chloromethane,CCl,CCl,CCl
+Chloromethyl Methyl Ether,Approved Name,DTXSID6020307,Chloromethyl methyl ether,COCCl,COCCl,COCCl
+Chloropentafluoroethane,Approved Name,DTXSID3026435,Chloropentafluoroethane,FC(F)(F)C(F)(F)Cl,FC(F)(F)C(F)(F)Cl,FC(F)(F)C(F)(F)Cl
+Rozol,Integrated Source Name,DTXSID2032348,Chlorophacinone,ClC1=CC=C(C=C1)C(C(=O)C1C(=O)C2=C(C=CC=C2)C1=O)C1=CC=CC=C1,ClC1=CC=C(C=C1)C(C(=O)C1C(=O)C2=C(C=CC=C2)C1=O)C1=CC=CC=C1,ClC1=CC=C(C=C1)C(C(=O)C1C(=O)C2=C(C=CC=C2)C1=O)C1=CC=CC=C1
+Chloropicrin,Approved Name,DTXSID0020315,Chloropicrin,[O-][N+](=O)C(Cl)(Cl)Cl,[O-][N+](=O)C(Cl)(Cl)Cl,[O-][N+](=O)C(Cl)(Cl)Cl
+beta-Chloroprene,Integrated Source Name,DTXSID5020316,Chloroprene,ClC(=C)C=C,ClC(=C)C=C,ClC(=C)C=C
+Chlorothalonil,Approved Name,DTXSID0020319,Chlorothalonil,ClC1=C(Cl)C(C#N)=C(Cl)C(C#N)=C1Cl,ClC1=C(Cl)C(C#N)=C(Cl)C(C#N)=C1Cl,ClC1=C(Cl)C(C#N)=C(Cl)C(C#N)=C1Cl
+Chlorpropham,Approved Name,DTXSID7020764,Chlorpropham,CC(C)OC(=O)NC1=CC=CC(Cl)=C1,CC(C)OC(=O)NC1=CC=CC(Cl)=C1,CC(C)OC(=O)NC1=CC=CC(Cl)=C1
+Chlorpyrifos,Approved Name,DTXSID4020458,Chlorpyrifos,CCOP(=S)(OCC)OC1=NC(Cl)=C(Cl)C=C1Cl,CCOP(=S)(OCC)OC1=NC(Cl)=C(Cl)C=C1Cl,CCOP(=S)(OCC)OC1=NC(Cl)=C(Cl)C=C1Cl
+"Dimethyl 2,3,5,6-Tetrachloroterephthalate",Synonym from Valid Source,DTXSID0024000,Chlorthal-dimethyl,COC(=O)C1=C(Cl)C(Cl)=C(C(=O)OC)C(Cl)=C1Cl,COC(=O)C1=C(Cl)C(Cl)=C(C(=O)OC)C(Cl)=C1Cl,COC(=O)C1=C(Cl)C(Cl)=C(C(=O)OC)C(Cl)=C1Cl
+Zinc Chromate,Expert Validated Synonym,DTXSID7047485,"Chromic acid (H2CrO4), zinc salt (1:1)",[Zn++].[O-][Cr]([O-])(=O)=O,-,-
+Chromium trioxide,Approved Name,DTXSID0040125,Chromium trioxide,O=[Cr](=O)=O,-,-
+Chrysene,Approved Name,DTXSID0022432,Chrysene,C1=CC2=C(C=C1)C1=C(C=C2)C2=C(C=CC=C2)C=C1,C1=CC2=C(C=C1)C1=C(C=C2)C2=C(C=CC=C2)C=C1,C1=CC2=C(C=C1)C1=C(C=C2)C2=C(C=CC=C2)C=C1
+Citric Acid,Approved Name,DTXSID3020332,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O
+Coal,Approved Name,DTXSID60107867,Coal,-,-,-
+Coal,Approved Name,DTXSID60107867,Coal,-,-,-
+Cobalt,Approved Name,DTXSID1031040,Cobalt,[Co],-,-
+Cocaine,Approved Name,DTXSID2038443,Cocaine,COC(=O)[C@@H]1[C@H]2CC[C@@H](C[C@@H]1OC(=O)C1=CC=CC=C1)N2C,COC(=O)C1C2CCC(CC1OC(=O)C1=CC=CC=C1)N2C,COC(=O)C1C2CCC(CC1OC(=O)C1=CC=CC=C1)N2C
+Coke Oven Emissions,Approved Name,DTXSID7023984,Coke oven emissions,-,-,-
+Copper,Approved Name,DTXSID2023985,Copper,[Cu],-,-
+Coumarin,Approved Name,DTXSID7020348,Coumarin,O=C1OC2=C(C=CC=C2)C=C1,O=C1OC2=C(C=CC=C2)C=C1,O=C1OC2=C(C=CC=C2)C=C1
+Creosote,Approved Name,DTXSID2023987,Creosote,-,-,-
+Cresol (All Isomers),Expert Validated Synonym,DTXSID3024364,Cresol,"C*.OC1=CC=CC=C1 |c:4,6,t:2,lp:2:2,m:1:6.7.8|",-,-
+Cristobalite,Approved Name,DTXSID5041801,Cristobalite,-,-,-
+Cristobalite,Approved Name,DTXSID5041801,Cristobalite,-,-,-
+Crotonaldehyde,Approved Name,DTXSID8024864,Crotonaldehyde,CC=CC=O,CC=CC=O,CC=CC=O
+Cumene,Approved Name,DTXSID1021827,Cumene,CC(C)C1=CC=CC=C1,CC(C)C1=CC=CC=C1,CC(C)C1=CC=CC=C1
+Cumene Hydroperoxide,Approved Name,DTXSID3024869,Cumene hydroperoxide,CC(C)(OO)C1=CC=CC=C1,CC(C)(OO)C1=CC=CC=C1,CC(C)(OO)C1=CC=CC=C1
+Copper Fume (as Cu),Integrated Source Name,DTXSID5034488,Cupric oxide,[O--].[Cu++],-,-
+Bladex,Synonym,DTXSID1023990,Cyanazine,CCNC1=NC(NC(C)(C)C#N)=NC(Cl)=N1,CCNC1=NC(NC(C)(C)C#N)=NC(Cl)=N1,CCNC1=NC(NC(C)(C)C#N)=NC(Cl)=N1
+Cyanide,Approved Name,DTXSID6023991,Cyanide,[C-]#N,C#N,C#N
+Cyanogen,Approved Name,DTXSID1023992,Cyanogen,N#CC#N,N#CC#N,N#CC#N
+Cyanogen Chloride,Approved Name,DTXSID4021551,Cyanogen chloride,ClC#N,ClC#N,ClC#N
+Cyclohexane,Approved Name,DTXSID4021923,Cyclohexane,C1CCCCC1,C1CCCCC1,C1CCCCC1
+Cyclohexanol,Approved Name,DTXSID4021894,Cyclohexanol,OC1CCCCC1,OC1CCCCC1,OC1CCCCC1
+Cyclohexanone,Approved Name,DTXSID6020359,Cyclohexanone,O=C1CCCCC1,O=C1CCCCC1,O=C1CCCCC1
+Cyclohexene,Approved Name,DTXSID9038717,Cyclohexene,C1CCC=CC1,C1CCC=CC1,C1CCC=CC1
+Cyclohexylamine,Approved Name,DTXSID1023996,Cyclohexylamine,NC1CCCCC1,NC1CCCCC1,NC1CCCCC1
+Cyclonite,Approved Name,DTXSID9024142,Cyclonite,[O-][N+](=O)N1CN(CN(C1)[N+]([O-])=O)[N+]([O-])=O,[O-][N+](=O)N1CN(CN(C1)[N+]([O-])=O)[N+]([O-])=O,[O-][N+](=O)N1CN(CN(C1)[N+]([O-])=O)[N+]([O-])=O
+Cyclopentane,Approved Name,DTXSID6024886,Cyclopentane,C1CCCC1,C1CCCC1,C1CCCC1
+Cyclotene,Approved Name,DTXSID4035128,Cyclotene,CC1=C(O)C(=O)CC1,CC1CCC(=O)C1=O,CC1CCC(=O)C1=O
+Cypermethrin,Approved Name,DTXSID1023998,Cypermethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1
+''Brilliant Red,NO_MATCH,-,-,-,-,-
+'',NO_MATCH,-,-,-,-,-
+Decane,Approved Name,DTXSID6024913,Decane,CCCCCCCCCC,CCCCCCCCCC,CCCCCCCCCC
+Dehydroisoandrosterone,Synonym from Valid Source,DTXSID4020379,Dehydroepiandrosterone,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C,CC12CCC3C(CC=C4CC(O)CCC34C)C1CCC2=O,CC12CCC3C(CC=C4CC(O)CCC34C)C1CCC2=O
+Desflurane,Approved Name,DTXSID80866606,Desflurane,FC(F)OC(F)C(F)(F)F,FC(F)OC(F)C(F)(F)F,FC(F)OC(F)C(F)(F)F
+Desmedipham,Approved Name,DTXSID0034518,Desmedipham,CCOC(=O)NC1=CC(OC(=O)NC2=CC=CC=C2)=CC=C1,CCOC(=O)NC1=CC(OC(=O)NC2=CC=CC=C2)=CC=C1,CCOC(=O)NC1=CC(OC(=O)NC2=CC=CC=C2)=CC=C1
+Dextromethorphan hydrobromide,Approved Name,DTXSID60872346,Dextromethorphan hydrobromide,Br.COC1=CC2=C(C[C@H]3[C@H]4CCCC[C@@]24CCN3C)C=C1,[H]C12CC3=C(C=C(OC)C=C3)C3(CCCCC13)CCN2C,[H]C12CC3=C(C=C(OC)C=C3)C3(CCCCC13)CCN2C
+Di-n-Octyl Phthalate,Approved Name,DTXSID1021956,Di-n-octyl phthalate,CCCCCCCCOC(=O)C1=C(C=CC=C1)C(=O)OCCCCCCCC,CCCCCCCCOC(=O)C1=C(C=CC=C1)C(=O)OCCCCCCCC,CCCCCCCCOC(=O)C1=C(C=CC=C1)C(=O)OCCCCCCCC
+tert-Butylperoxide,Integrated Source Name,DTXSID2024955,Di-tert-butyl peroxide,CC(C)(C)OOC(C)(C)C,CC(C)(C)OOC(C)(C)C,CC(C)(C)OOC(C)(C)C
+Di-(2-Ethylhexyl)phthalate,Integrated Source Name,DTXSID5020607,Di(2-ethylhexyl) phthalate,CCCCC(CC)COC(=O)C1=C(C=CC=C1)C(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)C1=C(C=CC=C1)C(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)C1=C(C=CC=C1)C(=O)OCC(CC)CCCC
+Diacetone Alcohol,Approved Name,DTXSID6024917,Diacetone alcohol,CC(=O)CC(C)(C)O,CC(=O)CC(C)(C)O,CC(=O)CC(C)(C)O
+Diallyl Disulfide,Approved Name,DTXSID9035206,Diallyl disulfide,C=CCSSCC=C,C=CCSSCC=C,C=CCSSCC=C
+Diallyl Phthalate,Approved Name,DTXSID7020392,Diallyl phthalate,C=CCOC(=O)C1=C(C=CC=C1)C(=O)OCC=C,C=CCOC(=O)C1=C(C=CC=C1)C(=O)OCC=C,C=CCOC(=O)C1=C(C=CC=C1)C(=O)OCC=C
+Diazinon,Approved Name,DTXSID9020407,Diazinon,CCOP(=S)(OCC)OC1=NC(=NC(C)=C1)C(C)C,CCOP(=S)(OCC)OC1=NC(=NC(C)=C1)C(C)C,CCOP(=S)(OCC)OC1=NC(=NC(C)=C1)C(C)C
+Diazomethane,Approved Name,DTXSID0024008,Diazomethane,C=[N+]=[N-],C=[N+]=[N-],C=[N+]=[N-]
+Diborane,Approved Name,DTXSID9024938,Diborane,[BH2]1[H][BH2][H]1,-,-
+Dibutyl Phthalate,Approved Name,DTXSID2021781,Dibutyl phthalate,CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC
+Dicamba,Approved Name,DTXSID4024018,Dicamba,COC1=C(Cl)C=CC(Cl)=C1C(O)=O,COC1=C(Cl)C=CC(Cl)=C1C(O)=O,COC1=C(Cl)C=CC(Cl)=C1C(O)=O
+Dichlorodifluoromethane,Approved Name,DTXSID6020436,Dichlorodifluoromethane,FC(F)(Cl)Cl,FC(F)(Cl)Cl,FC(F)(Cl)Cl
+Dichlorodiphenyltrichloroethane (DDT),Integrated Source Name,DTXSID4020375,Dichlorodiphenyltrichloroethane,ClC1=CC=C(C=C1)C(C1=CC=C(Cl)C=C1)C(Cl)(Cl)Cl,ClC1=CC=C(C=C1)C(C1=CC=C(Cl)C=C1)C(Cl)(Cl)Cl,ClC1=CC=C(C=C1)C(C1=CC=C(Cl)C=C1)C(Cl)(Cl)Cl
+Dichloromonofluoromethane,Synonym from Valid Source,DTXSID7052498,Dichlorofluoromethane,FC(Cl)Cl,FC(Cl)Cl,FC(Cl)Cl
+Methylene Chloride,Expert Validated Synonym,DTXSID0020868,Dichloromethane,ClCCl,ClCCl,ClCCl
+Dichlorotetrafluoroethane,Approved Name,DTXSID5041857,Dichlorotetrafluoroethane,-,-,-
+Dichlorvos (DDVP),Integrated Source Name,DTXSID5020449,Dichlorvos,COP(=O)(OC)OC=C(Cl)Cl,COP(=O)(OC)OC=C(Cl)Cl,COP(=O)(OC)OC=C(Cl)Cl
+Dicrotophos,Approved Name,DTXSID9023914,Dicrotophos,COP(=O)(OC)O\C(C)=C\C(=O)N(C)C,COP(=O)(OC)OC(C)=CC(=O)N(C)C,COP(=O)(OC)OC(C)=CC(=O)N(C)C
+Dicyclohexylamine,Approved Name,DTXSID6025018,Dicyclohexylamine,C1CCC(CC1)NC1CCCCC1,C1CCC(CC1)NC1CCCCC1,C1CCC(CC1)NC1CCCCC1
+Dicyclopentadiene,Approved Name,DTXSID5025023,Dicyclopentadiene,C1C=CC2C3CC(C=C3)C12,C1C=CC2C3CC(C=C3)C12,C1C=CC2C3CC(C=C3)C12
+Dieldrin,Approved Name,DTXSID9020453,Dieldrin,ClC1=C(Cl)[C@]2(Cl)[C@@H]3[C@@H]4C[C@@H]([C@H]5O[C@@H]45)[C@@H]3[C@@]1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl
+Pentac,Synonym,DTXSID9032371,Dienochlor,ClC1=C(Cl)C(Cl)(C(Cl)=C1Cl)C1(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,ClC1=C(Cl)C(Cl)(C(Cl)=C1Cl)C1(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,ClC1=C(Cl)C(Cl)(C(Cl)=C1Cl)C1(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl
+Diethanolamine,Approved Name,DTXSID3021932,Diethanolamine,OCCNCCO,OCCNCCO,OCCNCCO
+Ethyl Ether,Expert Validated Synonym,DTXSID3021720,Diethyl ether,CCOCC,CCOCC,CCOCC
+Diethyl Phthalate,Approved Name,DTXSID7021780,Diethyl phthalate,CCOC(=O)C1=CC=CC=C1C(=O)OCC,CCOC(=O)C1=CC=CC=C1C(=O)OCC,CCOC(=O)C1=CC=CC=C1C(=O)OCC
+Diethyl Sulfide,Approved Name,DTXSID5027146,Diethyl sulfide,CCSCC,CCSCC,CCSCC
+Diethylamine,Approved Name,DTXSID6021909,Diethylamine,CCNCC,CCNCC,CCNCC
+Diethylene Glycol,Approved Name,DTXSID8020462,Diethylene glycol,OCCOCCO,OCCOCCO,OCCOCCO
+Diethylene Glycol Diethyl Ether,Approved Name,DTXSID3025047,Diethylene glycol diethyl ether,CCOCCOCCOCC,CCOCCOCCOCC,CCOCCOCCOCC
+Diglyme,Synonym from Valid Source,DTXSID1024621,Diethylene glycol dimethyl ether,COCCOCCOC,COCCOCCOC,COCCOCCOC
+Diethylene Glycol Monomethyl Ether,Integrated Source Name,DTXSID3025049,Diethylene glycol monomethyl ether,COCCOCCO,COCCOCCO,COCCOCCO
+Diethylenetriamine,Approved Name,DTXSID2025050,Diethylenetriamine,NCCNCCN,NCCNCCN,NCCNCCN
+Dihexyl phthalate,Approved Name,DTXSID6025068,Dihexyl phthalate,CCCCCCOC(=O)C1=C(C=CC=C1)C(=O)OCCCCCC,CCCCCCOC(=O)C1=C(C=CC=C1)C(=O)OCCCCCC,CCCCCCOC(=O)C1=C(C=CC=C1)C(=O)OCCCCCC
+Dihydrocapsaicin,Approved Name,DTXSID4041864,Dihydrocapsaicin,COC1=C(O)C=CC(CNC(=O)CCCCCCC(C)C)=C1,COC1=C(O)C=CC(CNC(=O)CCCCCCC(C)C)=C1,COC1=C(O)C=CC(CNC(=O)CCCCCCC(C)C)=C1
+Diisobutyl Ketone,Approved Name,DTXSID4025080,Diisobutyl ketone,CC(C)CC(=O)CC(C)C,CC(C)CC(=O)CC(C)C,CC(C)CC(=O)CC(C)C
+Diisopropanolamine,Approved Name,DTXSID8020179,Diisopropanolamine,CC(O)CNCC(C)O,CC(O)CNCC(C)O,CC(O)CNCC(C)O
+Dimethoate,Approved Name,DTXSID7020479,Dimethoate,CNC(=O)CSP(=S)(OC)OC,CNC(=O)CSP(=S)(OC)OC,CNC(=O)CSP(=S)(OC)OC
+Methylal,Expert Validated Synonym,DTXSID1025564,Dimethoxymethane,COCOC,COCOC,COCOC
+Dimethyl Adipate,Approved Name,DTXSID8025096,Dimethyl adipate,COC(=O)CCCCC(=O)OC,COC(=O)CCCCC(=O)OC,COC(=O)CCCCC(=O)OC
+Methyl Ether,Synonym from Valid Source,DTXSID8026937,Dimethyl ether,COC,COC,COC
+Dimethyl Glutarate,Approved Name,DTXSID3025122,Dimethyl glutarate,COC(=O)CCCC(=O)OC,COC(=O)CCCC(=O)OC,COC(=O)CCCC(=O)OC
+Dimethylphthalate,Integrated Source Name,DTXSID3022455,Dimethyl phthalate,COC(=O)C1=C(C=CC=C1)C(=O)OC,COC(=O)C1=C(C=CC=C1)C(=O)OC,COC(=O)C1=C(C=CC=C1)C(=O)OC
+Dimethyl Succinate,Approved Name,DTXSID5025152,Dimethyl succinate,COC(=O)CCC(=O)OC,COC(=O)CCC(=O)OC,COC(=O)CCC(=O)OC
+Dimethyl Sulfate,Approved Name,DTXSID5024055,Dimethyl sulfate,COS(=O)(=O)OC,COS(=O)(=O)OC,COS(=O)(=O)OC
+Dimethyl Sulfide,Approved Name,DTXSID9026398,Dimethyl sulfide,CSC,CSC,CSC
+Dimethyl Sulfoxide,Approved Name,DTXSID2021735,Dimethyl sulfoxide,CS(C)=O,CS(C)=O,CS(C)=O
+Dimethylamine,Approved Name,DTXSID5024057,Dimethylamine,CNC,CNC,CNC
+"N,N-Dimethylethanolamine",Synonym from Valid Source,DTXSID2020505,Dimethylaminoethanol,CN(C)CCO,CN(C)CCO,CN(C)CCO
+Xylidine,Integrated Source Name,DTXSID8027377,Dimethylaniline,"C*.C*.NC1=CC=CC=C1 |c:5,7,t:3,lp:4:1,m:1:9.10,3:6.7.8.9|",-,-
+Xylenol,Integrated Source Name,DTXSID8027375,Dimethylphenol,"C*.C*.OC1=CC=CC=C1 |c:5,7,t:3,lp:4:2,m:1:9.10,3:6.7.8.9|",-,-
+Dinitrobenzene (All Isomers),Approved Name,DTXSID20891710,Dinitrobenzene (all isomers),-,-,-
+Dinitrotoluene,Approved Name,DTXSID5027859,Dinitrotoluene,-,-,-
+dinoseb,Approved Name,DTXSID3020207,Dinoseb,CCC(C)C1=CC(=CC(=C1O)[N+]([O-])=O)[N+]([O-])=O,CCC(C)C1=CC(=CC(=C1O)[N+]([O-])=O)[N+]([O-])=O,CCC(C)C1=CC(=CC(=C1O)[N+]([O-])=O)[N+]([O-])=O
+Dioctyl Sebacate,Approved Name,DTXSID0047537,Dioctyl sebacate,CCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCC,CCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCC,CCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCC
+Dioxathion,Approved Name,DTXSID9020534,Dioxathion,CCOP(=S)(OCC)SC1OCCOC1SP(=S)(OCC)OCC,CCOP(=S)(OCC)SC1OCCOC1SP(=S)(OCC)OCC,CCOP(=S)(OCC)SC1OCCOC1SP(=S)(OCC)OCC
+Dipentylnitrosamine,Approved Name,DTXSID9020536,Dipentylnitrosamine,CCCCCN(CCCCC)N=O,CCCCCN(CCCCC)N=O,CCCCCN(CCCCC)N=O
+Phenyl Ether (Vapor),Integrated Source Name,DTXSID9021847,Diphenyl oxide,O(C1=CC=CC=C1)C1=CC=CC=C1,O(C1=CC=CC=C1)C1=CC=CC=C1,O(C1=CC=CC=C1)C1=CC=CC=C1
+Diphenylamine,Approved Name,DTXSID4021975,Diphenylamine,N(C1=CC=CC=C1)C1=CC=CC=C1,N(C1=CC=CC=C1)C1=CC=CC=C1,N(C1=CC=CC=C1)C1=CC=CC=C1
+Dipropyl Disulfide,Approved Name,DTXSID2022096,Dipropyl disulfide,CCCSSCCC,CCCSSCCC,CCCSSCCC
+Dipropylene Glycol,Approved Name,DTXSID0027856,Dipropylene glycol,-,-,-
+Dipropylene Glycol Methyl Ether,Expert Validated Synonym,DTXSID0027983,Dipropylene glycol monomethyl ether,-,-,-
+Dipropylene Glycol Methyl Ether Acetate,Integrated Source Name,DTXSID4029062,Dipropyleneglycol methyl ether acetate,-,-,-
+Diquat,Approved Name,DTXSID6034554,Diquat,C1C[N+]2=C(C=CC=C2)C2=CC=CC=[N+]12,C1C[N+]2=C(C=CC=C2)C2=CC=CC=[N+]12,C1C[N+]2=C(C=CC=C2)C2=CC=CC=[N+]12
+Disulfiram,Approved Name,DTXSID1021322,Disulfiram,CCN(CC)C(=S)SSC(=S)N(CC)CC,CCN(CC)C(=S)SSC(=S)N(CC)CC,CCN(CC)C(=S)SSC(=S)N(CC)CC
+Disulfoton,Approved Name,DTXSID0022018,Disulfoton,CCOP(=S)(OCC)SCCSCC,CCOP(=S)(OCC)SCCSCC,CCOP(=S)(OCC)SCCSCC
+Diuron,Approved Name,DTXSID0020446,Diuron,CN(C)C(=O)NC1=CC(Cl)=C(Cl)C=C1,CN(C)C(=O)NC1=CC(Cl)=C(Cl)C=C1,CN(C)C(=O)NC1=CC(Cl)=C(Cl)C=C1
+Divinyl Benzene,Integrated Source Name,DTXSID2025216,Divinylbenzene,"*C=C.C=CC1=CC=CC=C1 |c:6,8,t:4,m:0:6.8|",-,-
+Dodecane,Approved Name,DTXSID0026913,Dodecane,CCCCCCCCCCCC,CCCCCCCCCCCC,CCCCCCCCCCCC
+Dodecylbenzene,Approved Name,DTXSID7026994,Dodecylbenzene,CCCCCCCCCCCCC1=CC=CC=C1,CCCCCCCCCCCCC1=CC=CC=C1,CCCCCCCCCCCCC1=CC=CC=C1
+Dodecyl Benzenesulfonic Acid,Integrated Source Name,DTXSID6027923,Dodecylbenzenesulfonic acid,"CCCCCCCCCCCC*.OS(=O)(=O)C1=CC=CC=C1 |c:18,20,t:16,lp:13:2,15:2,16:2,m:12:20.21.22|",-,-
+Dodine,Approved Name,DTXSID3020548,Dodine,CC(O)=O.CCCCCCCCCCCCNC(N)=N,"CC(O)=O,CCCCCCCCCCCCNC(N)=N",CCCCCCCCCCCCNC(N)=N
+Doxazosin mesylate,Approved Name,DTXSID5045598,Doxazosin mesylate,CS(O)(=O)=O.COC1=CC2=C(C=C1OC)C(N)=NC(=N2)N1CCN(CC1)C(=O)C1COC2=C(O1)C=CC=C2,"COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)C1COC2=C(O1)C=CC=C2,CS(O)(=O)=O",COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)C1COC2=C(O1)C=CC=C2
+Endosulfan,Approved Name,DTXSID1020560,Endosulfan,ClC1=C(Cl)C2(Cl)C3COS(=O)OCC3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3COS(=O)OCC3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3COS(=O)OCC3C1(Cl)C2(Cl)Cl
+Endrin,Approved Name,DTXSID6020561,Endrin,ClC1=C(Cl)[C@]2(Cl)[C@@H]3[C@H]4C[C@H]([C@@H]5O[C@H]45)[C@@H]3[C@@]1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl
+Enflurane,Approved Name,DTXSID1020562,Enflurane,FC(F)OC(F)(F)C(F)Cl,FC(F)OC(F)(F)C(F)Cl,FC(F)OC(F)(F)C(F)Cl
+Epichlorohydrin,Approved Name,DTXSID1020566,Epichlorohydrin,ClCC1CO1,ClCC1CO1,ClCC1CO1
+Estriol,Approved Name,DTXSID9022366,Estriol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1C[C@@H](O)[C@@H]2O,CC12CCC3C(CCC4=C3C=CC(O)=C4)C1CC(O)C2O,CC12CCC3C(CCC4=C3C=CC(O)=C4)C1CC(O)C2O
+Estrone,Approved Name,DTXSID4022367,Estrone,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1CCC2=O,CC12CCC3C(CCC4=C3C=CC(O)=C4)C1CCC2=O,CC12CCC3C(CCC4=C3C=CC(O)=C4)C1CCC2=O
+Ethylamine,Synonym from Valid Source,DTXSID8025678,Ethanamine,CCN,CCN,CCN
+Ethane,Approved Name,DTXSID6026377,Ethane,CC,CC,CC
+Ethyl Mercaptan,Expert Validated Synonym,DTXSID9026394,Ethanethiol,CCS,CCS,CCS
+Ethyl Alcohol,Expert Validated Synonym,DTXSID9020584,Ethanol,CCO,CCO,CCO
+"Ethanol, 2-(2,4-dinitrophenoxy)",NO_MATCH,-,-,-,-,-
+Ethanolamine,Approved Name,DTXSID6022000,Ethanolamine,NCCO,NCCO,NCCO
+m-Hydroxyacetophenone,Synonym,DTXSID5059533,"Ethanone, 1-(3-hydroxyphenyl)-",CC(=O)C1=CC(O)=CC=C1,CC(=O)C1=CC(O)=CC=C1,CC(=O)C1=CC(O)=CC=C1
+Ethion,Approved Name,DTXSID2024086,Ethion,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC
+Ethyl-3-ethoxypropionate,Synonym from Valid Source,DTXSID0027309,Ethyl 3-ethoxypropionate,CCOCCC(=O)OCC,CCOCCC(=O)OCC,CCOCCC(=O)OCC
+Ethyl Acetate,Approved Name,DTXSID1022001,Ethyl acetate,CCOC(C)=O,CCOC(C)=O,CCOC(C)=O
+Ethyl Acrylate,Approved Name,DTXSID4020583,Ethyl acrylate,CCOC(=O)C=C,CCOC(=O)C=C,CCOC(=O)C=C
+Ethyl Butyrate,Approved Name,DTXSID6040111,Ethyl butyrate,CCCC(=O)OCC,CCCC(=O)OCC,CCCC(=O)OCC
+Ethyl 2-Cyanoacrylate,Synonym from Valid Source,DTXSID1025279,Ethyl cyanoacrylate,CCOC(=O)C(=C)C#N,CCOC(=O)C(=C)C#N,CCOC(=O)C(=C)C#N
+Ethyl Formate,Approved Name,DTXSID6040117,Ethyl formate,CCOC=O,CCOC=O,CCOC=O
+Ethyl Lactate,Approved Name,DTXSID6029127,Ethyl lactate,CCOC(=O)C(C)O,CCOC(=O)C(C)O,CCOC(=O)C(C)O
+Ethyl Methacrylate,Approved Name,DTXSID1025308,Ethyl methacrylate,CCOC(=O)C(C)=C,CCOC(=O)C(C)=C,CCOC(=O)C(C)=C
+Ethyl Propionate,Approved Name,DTXSID1040110,Ethyl propionate,CCOC(=O)CC,CCOC(=O)CC,CCOC(=O)CC
+Ethyl Propyl Sulfide,Approved Name,DTXSID3041958,Ethyl propyl sulfide,CCCSCC,CCCSCC,CCCSCC
+Ethyl tert-butyl ether,Expert Validated Synonym,DTXSID0025604,Ethyl T-butyl ether,CCOC(C)(C)C,CCOC(C)(C)C,CCOC(C)(C)C
+Ethyl Benzene,Synonym from Valid Source,DTXSID3020596,Ethylbenzene,CCC1=CC=CC=C1,CCC1=CC=CC=C1,CCC1=CC=CC=C1
+Ethylene Glycol,Approved Name,DTXSID8020597,Ethylene glycol,OCCO,OCCO,OCCO
+Ethylene Glycol Diethyl Ether,Approved Name,DTXSID5025285,Ethylene glycol diethyl ether,CCOCCOCC,CCOCCOCC,CCOCCOCC
+Ethylene Glycol Dimethyl Ether,Integrated Source Name,DTXSID0025286,Ethylene glycol dimethyl ether,COCCOC,COCCOC,COCCOC
+Ethylene Glycol Dinitrate,Approved Name,DTXSID6027264,Ethylene glycol dinitrate,[O-][N+](=O)OCCO[N+]([O-])=O,[O-][N+](=O)OCCO[N+]([O-])=O,[O-][N+](=O)OCCO[N+]([O-])=O
+2-Ethoxyethyl Acetate,Systematic Name,DTXSID9021928,Ethylene glycol monoethyl ether acetate,CCOCCOC(C)=O,CCOCCOC(C)=O,CCOCCOC(C)=O
+Ethylene Oxide,Approved Name,DTXSID0020600,Ethylene oxide,C1CO1,C1CO1,C1CO1
+Ethylene Thiourea,Approved Name,DTXSID5020601,Ethylene thiourea,S=C1NCCN1,S=C1NCCN1,S=C1NCCN1
+Ethylenediamine,Approved Name,DTXSID5021881,Ethylenediamine,NCCN,NCCN,NCCN
+Ethyleneimine,Approved Name,DTXSID8020599,Ethyleneimine,C1CN1,C1CN1,C1CN1
+Fenitrothion,Approved Name,DTXSID4032613,Fenitrothion,COP(=S)(OC)OC1=CC=C(C(C)=C1)[N+]([O-])=O,COP(=S)(OC)OC1=CC=C(C(C)=C1)[N+]([O-])=O,COP(=S)(OC)OC1=CC=C(C(C)=C1)[N+]([O-])=O
+Fenthion,Approved Name,DTXSID8020620,Fenthion,COP(=S)(OC)OC1=CC(C)=C(SC)C=C1,COP(=S)(OC)OC1=CC(C)=C(SC)C=C1,COP(=S)(OC)OC1=CC(C)=C(SC)C=C1
+Pydrin,Expert Validated Synonym,DTXSID3020621,Fenvalerate,CC(C)C(C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1)C1=CC=C(Cl)C=C1,CC(C)C(C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1)C1=CC=C(Cl)C=C1,CC(C)C(C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1)C1=CC=C(Cl)C=C1
+Ferric Chloride,Approved Name,DTXSID8020622,Ferric chloride,[Cl-].[Cl-].[Cl-].[Fe+3],-,-
+FLUMIOXAZIN,Approved Name,DTXSID7032555,Flumioxazin,FC1=CC2=C(C=C1N1C(=O)C3=C(CCCC3)C1=O)N(CC#C)C(=O)CO2,FC1=CC2=C(C=C1N1C(=O)C3=C(CCCC3)C1=O)N(CC#C)C(=O)CO2,FC1=CC2=C(C=C1N1C(=O)C3=C(CCCC3)C1=O)N(CC#C)C(=O)CO2
+Fluorides (as F),Expert Validated Synonym,DTXSID9049617,Fluoride,[F-],-,-
+Fluorine,Approved Name,DTXSID3024106,Fluorine,FF,-,-
+Formaldehyde,Approved Name,DTXSID7020637,Formaldehyde,C=O,C=O,C=O
+Formic Acid,Approved Name,DTXSID2024115,Formic acid,OC=O,OC=O,OC=O
+Diesel Fuel,Synonym,DTXSID5028455,"Fuels, diesel",-,-,-
+Furfural,Approved Name,DTXSID1020647,Furfural,O=CC1=CC=CO1,O=CC1=CC=CO1,O=CC1=CC=CO1
+Furfuryl Alcohol,Approved Name,DTXSID2025347,Furfuryl alcohol,OCC1=CC=CO1,OCC1=CC=CO1,OCC1=CC=CO1
+Gallium,Approved Name,DTXSID8064696,Gallium,[Ga],-,-
+Gasoline,Approved Name,DTXSID50105296,Gasoline,-,-,-
+Gentian Violet,Approved Name,DTXSID5020653,Gentian Violet,[Cl-].CN(C)C1=CC=C(C=C1)C(C1=CC=C(C=C1)N(C)C)=C1C=CC(C=C1)=[N+](C)C,CN(C)C1=CC=C(C=C1)C(C1=CC=C(C=C1)N(C)C)=C1C=CC(C=C1)=[N+](C)C,CN(C)C1=CC=C(C=C1)C(C1=CC=C(C=C1)N(C)C)=C1C=CC(C=C1)=[N+](C)C
+Glutaraldehyde,Approved Name,DTXSID6025355,Glutaraldehyde,O=CCCCC=O,O=CCCCC=O,O=CCCCC=O
+Glycerin,Expert Validated Synonym,DTXSID9020663,Glycerol,OCC(O)CO,OCC(O)CO,OCC(O)CO
+Glycerin,Expert Validated Synonym,DTXSID9020663,Glycerol,OCC(O)CO,OCC(O)CO,OCC(O)CO
+Glycidol,Approved Name,DTXSID4020666,Glycidol,OCC1CO1,OCC1CO1,OCC1CO1
+Gold,Approved Name,DTXSID3064697,Gold,[Au],-,-
+Graphite,Approved Name,DTXSID2049634,Graphite,-,-,-
+Graphite,Approved Name,DTXSID2049634,Graphite,-,-,-
+Graphite,Approved Name,DTXSID2049634,Graphite,-,-,-
+Gypsum,Expert Validated Synonym,DTXSID9035674,Gypsum (Ca(SO4).2H2O),-,-,-
+Hafnium,Approved Name,DTXSID8064698,Hafnium,[Hf],-,-
+Halothane,Approved Name,DTXSID4025371,Halothane,FC(F)(F)C(Cl)Br,FC(F)(F)C(Cl)Br,FC(F)(F)C(Cl)Br
+Heptachlor,Approved Name,DTXSID3020679,Heptachlor,ClC1C=CC2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,ClC1C=CC2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,ClC1C=CC2C1C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl
+N-Heptane,Synonym from Valid Source,DTXSID6024127,Heptane,CCCCCCC,CCCCCCC,CCCCCCC
+Hexachlorobenzene,Approved Name,DTXSID2020682,Hexachlorobenzene,ClC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,ClC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,ClC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl
+Hexachlorocyclopentadiene,Approved Name,DTXSID2020688,Hexachlorocyclopentadiene,ClC1=C(Cl)C(Cl)(Cl)C(Cl)=C1Cl,ClC1=C(Cl)C(Cl)(Cl)C(Cl)=C1Cl,ClC1=C(Cl)C(Cl)(Cl)C(Cl)=C1Cl
+Hexachloroethane,Approved Name,DTXSID7020689,Hexachloroethane,ClC(Cl)(Cl)C(Cl)(Cl)Cl,ClC(Cl)(Cl)C(Cl)(Cl)Cl,ClC(Cl)(Cl)C(Cl)(Cl)Cl
+Hexamethyl phosphoramide,Synonym,DTXSID6020694,Hexamethylphosphoramide,CN(C)P(=O)(N(C)C)N(C)C,CN(C)P(=O)(N(C)C)N(C)C,CN(C)P(=O)(N(C)C)N(C)C
+Adipic Acid,Expert Validated Synonym,DTXSID7021605,Hexanedioic acid,OC(=O)CCCCC(O)=O,OC(=O)CCCCC(O)=O,OC(=O)CCCCC(O)=O
+n-Hexyl Acetate,Synonym from Valid Source,DTXSID6022006,Hexyl acetate,CCCCCCOC(C)=O,CCCCCCOC(C)=O,CCCCCCOC(C)=O
+Holothurin,Approved Name,DTXSID70149197,Holothurin,[Na+].CO[C@H]1[C@H](O)[C@@H](C)O[C@@H](O[C@H]2[C@H](O)[C@@H](C)O[C@@H](O[C@@H]3[C@@H](C)O[C@@H](O[C@@H]4[C@@H](O)[C@@H](CO[C@H]4O[C@H]4CC[C@@]5(C)[C@@H](CC[C@@H]6C5=C[C@H](O)[C@]57C(=O)O[C@@](C)([C@@H]8CCC(C)(C)O8)[C@@]5(O)CC[C@@]67C)C4(C)C)OS([O-])(=O)=O)[C@H](O)[C@H]3O)[C@@H]2O)[C@@H]1O,COC1C(O)C(C)OC(OC2C(O)C(C)OC(OC3C(C)OC(OC4C(O)C(COC4OC4CCC5(C)C(CCC6C5=CC(O)C57C(=O)OC(C)(C8CCC(C)(C)O8)C5(O)CCC67C)C4(C)C)OS(O)(=O)=O)C(O)C3O)C2O)C1O,COC1C(O)C(C)OC(OC2C(O)C(C)OC(OC3C(C)OC(OC4C(O)C(COC4OC4CCC5(C)C(CCC6C5=CC(O)C57C(=O)OC(C)(C8CCC(C)(C)O8)C5(O)CCC67C)C4(C)C)OS(O)(=O)=O)C(O)C3O)C2O)C1O
+Hydramethylnon,Approved Name,DTXSID6023868,Hydramethylnon,CC1(C)CNC(NC1)=NN=C(\C=C\C1=CC=C(C=C1)C(F)(F)F)/C=C/C1=CC=C(C=C1)C(F)(F)F,CC1(C)CNC(NC1)=NN=C(C=CC1=CC=C(C=C1)C(F)(F)F)C=CC1=CC=C(C=C1)C(F)(F)F,CC1(C)CNC(NC1)=NN=C(C=CC1=CC=C(C=C1)C(F)(F)F)C=CC1=CC=C(C=C1)C(F)(F)F
+"Silica, Amorphous, Precipitated and Gel",Integrated Source Name,DTXSID9029851,Hydrated silica,-,-,-
+Hydrazine,Approved Name,DTXSID3020702,Hydrazine,NN,-,-
+Hydrogen Bromide,Synonym from Valid Source,DTXSID0029713,Hydrobromic acid,Br,-,-
+Paraffin Wax Fume,Integrated Source Name,DTXSID7027673,Hydrocarbon waxes,-,-,-
+Hydrogen Chloride,Synonym from Valid Source,DTXSID2020711,Hydrochloric acid,Cl,-,-
+Hydrochlorothiazide,Approved Name,DTXSID2020713,Hydrochlorothiazide,NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1Cl,NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1Cl,NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1Cl
+Hydrogen,Approved Name,DTXSID9029643,Hydrogen,[H][H],-,-
+Hydrogen Cyanide,Approved Name,DTXSID9024148,Hydrogen cyanide,C#N,C#N,C#N
+Hydrogen Fluoride (as F),Integrated Source Name,DTXSID1049641,Hydrogen fluoride,F,-,-
+Hydrogen Peroxide,Approved Name,DTXSID2020715,Hydrogen peroxide,OO,-,-
+Hydrogen Selenide (as Se),Integrated Source Name,DTXSID20872822,Hydrogen selenide,[SeH2],-,-
+Hydrogen Sulfide,Approved Name,DTXSID4024149,Hydrogen sulfide,S,-,-
+Hydrogenated Terphenyls,Synonym,DTXSID3028051,Hydrogenated terphenyl,-,-,-
+Hydroquinone,Approved Name,DTXSID7020716,Hydroquinone,OC1=CC=C(O)C=C1,OC1=CC=C(O)C=C1,OC1=CC=C(O)C=C1
+Hexamethylene Diisocyanate Biuret,Synonym,DTXSID6027555,"Imidodicarbonic diamide, N,N',2-tris(6-isocyanatohexyl)-",O=C=NCCCCCCNC(=O)N(CCCCCCN=C=O)C(=O)NCCCCCCN=C=O,O=C=NCCCCCCNC(=O)N(CCCCCCN=C=O)C(=O)NCCCCCCN=C=O,O=C=NCCCCCCNC(=O)N(CCCCCCN=C=O)C(=O)NCCCCCCN=C=O
+Indene,Approved Name,DTXSID8042052,Indene,C1C=CC2=C1C=CC=C2,C1C=CC2=C1C=CC=C2,C1C=CC2=C1C=CC=C2
+Iodine,Approved Name,DTXSID7034672,Iodine,II,-,-
+Iodoform,Approved Name,DTXSID4020743,Iodoform,IC(I)I,IC(I)I,IC(I)I
+"Pentaerythritol tetrakis(3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate)",Synonym from Valid Source,DTXSID1027633,Irganox 1010,CC(C)(C)C1=CC(CCC(=O)OCC(COC(=O)CCC2=CC(=C(O)C(=C2)C(C)(C)C)C(C)(C)C)(COC(=O)CCC2=CC(=C(O)C(=C2)C(C)(C)C)C(C)(C)C)COC(=O)CCC2=CC(=C(O)C(=C2)C(C)(C)C)C(C)(C)C)=CC(=C1O)C(C)(C)C,CC(C)(C)C1=CC(CCC(=O)OCC(COC(=O)CCC2=CC(=C(O)C(=C2)C(C)(C)C)C(C)(C)C)(COC(=O)CCC2=CC(=C(O)C(=C2)C(C)(C)C)C(C)(C)C)COC(=O)CCC2=CC(=C(O)C(=C2)C(C)(C)C)C(C)(C)C)=CC(=C1O)C(C)(C)C,CC(C)(C)C1=CC(CCC(=O)OCC(COC(=O)CCC2=CC(=C(O)C(=C2)C(C)(C)C)C(C)(C)C)(COC(=O)CCC2=CC(=C(O)C(=C2)C(C)(C)C)C(C)(C)C)COC(=O)CCC2=CC(=C(O)C(=C2)C(C)(C)C)C(C)(C)C)=CC(=C1O)C(C)(C)C
+Iron,Approved Name,DTXSID5043710,Iron,[Fe],-,-
+Iron Oxide,Approved Name,DTXSID6049648,Iron oxide,-,-,-
+Iron Oxide,Approved Name,DTXSID6049648,Iron oxide,-,-,-
+Isobutane,Approved Name,DTXSID1026401,Isobutane,CC(C)C,CC(C)C,CC(C)C
+Isobutylene,Synonym from Valid Source,DTXSID9020748,Isobutene,CC(C)=C,CC(C)=C,CC(C)=C
+Isobutyl Acetate,Approved Name,DTXSID5026837,Isobutyl acetate,CC(C)COC(C)=O,CC(C)COC(C)=O,CC(C)COC(C)=O
+Isobutyl Isobutyrate,Approved Name,DTXSID6026612,Isobutyl isobutyrate,CC(C)COC(=O)C(C)C,CC(C)COC(=O)C(C)C,CC(C)COC(=O)C(C)C
+Isoetharine,Approved Name,DTXSID9048560,Isoetharine,CCC(NC(C)C)C(O)C1=CC=C(O)C(O)=C1,CCC(NC(C)C)C(O)C1=CC=C(O)C(O)=C1,CCC(NC(C)C)C(O)C1=CC=C(O)C(O)=C1
+Isofenphos,Approved Name,DTXSID8032417,Isofenphos,CCOP(=S)(NC(C)C)OC1=CC=CC=C1C(=O)OC(C)C,CCOP(=S)(NC(C)C)OC1=CC=CC=C1C(=O)OC(C)C,CCOP(=S)(NC(C)C)OC1=CC=CC=C1C(=O)OC(C)C
+Isoflurane,Approved Name,DTXSID3020752,Isoflurane,FC(F)OC(Cl)C(F)(F)F,FC(F)OC(Cl)C(F)(F)F,FC(F)OC(Cl)C(F)(F)F
+Isooctyl Alcohol,Expert Validated Synonym,DTXSID2044634,Isooctanol,-,-,-
+Isoamyl Alcohol,Synonym from Valid Source,DTXSID3025469,Isopentyl alcohol,CC(C)CCO,CC(C)CCO,CC(C)CCO
+Isophorone,Approved Name,DTXSID8020759,Isophorone,CC1=CC(=O)CC(C)(C)C1,CC1=CC(=O)CC(C)(C)C1,CC1=CC(=O)CC(C)(C)C1
+Isophorone Diamine,Approved Name,DTXSID6027503,Isophorone diamine,CC1(C)CC(N)CC(C)(CN)C1,CC1(C)CC(N)CC(C)(CN)C1,CC1(C)CC(N)CC(C)(CN)C1
+Isophorone Diisocyanate,Approved Name,DTXSID0023826,Isophorone diisocyanate,CC1(C)CC(CC(C)(CN=C=O)C1)N=C=O,CC1(C)CC(CC(C)(CN=C=O)C1)N=C=O,CC1(C)CC(CC(C)(CN=C=O)C1)N=C=O
+Isopropyl Alcohol,Expert Validated Synonym,DTXSID7020762,Isopropanol,CC(C)O,CC(C)O,CC(C)O
+Isopropyl Acetate,Approved Name,DTXSID2025478,Isopropyl acetate,CC(C)OC(C)=O,CC(C)OC(C)=O,CC(C)OC(C)=O
+Isopropyl Ether,Approved Name,DTXSID4021890,Isopropyl ether,CC(C)OC(C)C,CC(C)OC(C)C,CC(C)OC(C)C
+Isopropyl Glycidyl Ether,Approved Name,DTXSID6025480,Isopropyl glycidyl ether,CC(C)OCC1CO1,CC(C)OCC1CO1,CC(C)OCC1CO1
+Isopropyl Mercaptan,Approved Name,DTXSID1025481,Isopropyl mercaptan,CC(C)S,CC(C)S,CC(C)S
+Isopropylamine,Approved Name,DTXSID2025682,Isopropylamine,CC(C)N,CC(C)N,CC(C)N
+Isosorbide dinitrate,Expert Validated Synonym,DTXSID0045832,"Isosorbide 2,5-dinitrate",[H][C@]12OC[C@H](O[N+]([O-])=O)[C@@]1([H])OC[C@H]2O[N+]([O-])=O,[O-][N+](=O)OC1COC2C(COC12)O[N+]([O-])=O,[O-][N+](=O)OC1COC2C(COC12)O[N+]([O-])=O
+JP 4 Jet Fuel,Approved Name,DTXSID80872823,JP 4 Jet Fuel,-,-,-
+JP 8 Jet Fuel,Approved Name,DTXSID60872826,JP 8 jet fuel,-,-,-
+Kaolin,Approved Name,DTXSID6049640,Kaolin,-,-,-
+Kaolin,Approved Name,DTXSID6049640,Kaolin,-,-,-
+Kerosene,Synonym from Valid Source,DTXSID6027684,Kerosine,-,-,-
+Lactic Acid,Approved Name,DTXSID7023192,Lactic acid,CC(O)C(O)=O,CC(O)C(O)=O,CC(O)C(O)=O
+Lead,Approved Name,DTXSID2024161,Lead,[Pb],-,-
+L-THYROXINE,Expert Validated Synonym,DTXSID8023214,Levothyroxine,N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O,NC(CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O,NC(CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O
+VM and P Naphtha,Synonym from Valid Source,DTXSID5027699,Ligroine,-,-,-
+Limestone,Approved Name,DTXSID9050486,Limestone,-,-,-
+Limestone,Approved Name,DTXSID9050486,Limestone,-,-,-
+Limonene,Approved Name,DTXSID2029612,Limonene,CC(=C)C1CCC(C)=CC1,CC(=C)C1CCC(C)=CC1,CC(=C)C1CCC(C)=CC1
+Lindane,Approved Name,DTXSID2020686,Lindane,Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl
+Lisinopril,Approved Name,DTXSID6040537,Lisinopril,NCCCC[C@H](N[C@@H](CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@H]1C(O)=O,NCCCCC(NC(CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCCC1C(O)=O,NCCCCC(NC(CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCCC1C(O)=O
+Lithium,Approved Name,DTXSID5036761,Lithium,[Li],-,-
+Lithium Hydride,Approved Name,DTXSID80893078,Lithium hydride,[H-].[Li+],-,-
+Lithium Hydroxide,Approved Name,DTXSID70893845,Lithium hydroxide,[Li+].[OH-],-,-
+m-Chlorotoluene,Approved Name,DTXSID4052841,m-Chlorotoluene,CC1=CC(Cl)=CC=C1,CC1=CC(Cl)=CC=C1,CC1=CC(Cl)=CC=C1
+Magnesium,Approved Name,DTXSID0049658,Magnesium,[Mg],-,-
+Magnesium Oxide,Approved Name,DTXSID9049665,Magnesium oxide,[O--].[Mg++],-,-
+Malathion,Approved Name,DTXSID4020791,Malathion,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC
+Maneb,Approved Name,DTXSID9020794,Maneb,[Mn++].[S-]C(=S)NCCNC([S-])=S,SC(=S)NCCNC(S)=S,SC(=S)NCCNC(S)=S
+Manganese Compounds (as Mn),Integrated Source Name,DTXSID2024169,Manganese,[Mn],-,-
+Manganese,Approved Name,DTXSID2024169,Manganese,[Mn],-,-
+Manganese Tetroxide (as Mn),Integrated Source Name,DTXSID9051660,"Manganese(II,III), oxide",O=[Mn]O[Mn]O[Mn]=O,-,-
+Marble,Approved Name,DTXSID90109374,Marble,-,-,-
+Marble,Approved Name,DTXSID90109374,Marble,-,-,-
+MCPA,Approved Name,DTXSID4024195,MCPA,CC1=C(OCC(O)=O)C=CC(Cl)=C1,CC1=C(OCC(O)=O)C=CC(Cl)=C1,CC1=C(OCC(O)=O)C=CC(Cl)=C1
+MCPP, Expert Validated Synonym - WARNING: Synonym mapped to two or more chemicals.,DTXSID9024194,Mecoprop,CC(OC1=C(C)C=C(Cl)C=C1)C(O)=O,CC(OC1=C(C)C=C(Cl)C=C1)C(O)=O,CC(OC1=C(C)C=C(Cl)C=C1)C(O)=O
+Melamine,Approved Name,DTXSID6020802,Melamine,NC1=NC(N)=NC(N)=N1,NC1=NC(N)=NC(N)=N1,NC1=NC(N)=NC(N)=N1
+Melengestrol Acetate,Approved Name,DTXSID5048184,Melengestrol acetate,CC(=O)O[C@]1(C(C)=O)C(=C)C[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,CC(=O)OC1(C(C)=O)C(=C)CC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC12C,CC(=O)OC1(C(C)=O)C(=C)CC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC12C
+Menadione,Approved Name,DTXSID4021715,Menadione,CC1=CC(=O)C2=C(C=CC=C2)C1=O,CC1=CC(=O)C2=C(C=CC=C2)C1=O,CC1=CC(=O)C2=C(C=CC=C2)C1=O
+Mercury,Approved Name,DTXSID1024172,Mercury,[Hg],-,-
+Mercury,Approved Name,DTXSID1024172,Mercury,[Hg],-,-
+Mestranol,Approved Name,DTXSID0020814,Mestranol,COC1=CC2=C(C=C1)[C@H]1CC[C@@]3(C)[C@@H](CC[C@@]3(O)C#C)[C@@H]1CC2,COC1=CC2=C(C=C1)C1CCC3(C)C(CCC3(O)C#C)C1CC2,COC1=CC2=C(C=C1)C1CCC3(C)C(CCC3(O)C#C)C1CC2
+Apron,Expert Validated Synonym,DTXSID6024175,Metalaxyl,COCC(=O)N(C(C)C(=O)OC)C1=C(C)C=CC=C1C,COCC(=O)N(C(C)C(=O)OC)C1=C(C)C=CC=C1C,COCC(=O)N(C(C)C(=O)OC)C1=C(C)C=CC=C1C
+Metham Sodium,Synonym from Valid Source,DTXSID2029167,Metam-sodium,[Na+].CNC([S-])=S,CNC(S)=S,CNC(S)=S
+Methacrylic acid,Approved Name,DTXSID3025542,Methacrylic acid,CC(=C)C(O)=O,CC(=C)C(O)=O,CC(=C)C(O)=O
+Methane,Approved Name,DTXSID8025545,Methane,C,C,C
+Methanesulfonic Acid,Approved Name,DTXSID4026422,Methanesulfonic acid,CS(O)(=O)=O,CS(O)(=O)=O,CS(O)(=O)=O
+Methyl Mercaptan,Synonym from Valid Source,DTXSID5026382,Methanethiol,CS,CS,CS
+Methyl Alcohol,Synonym from Valid Source,DTXSID2021731,Methanol,CO,CO,CO
+Hexamethylenetetramine,Expert Validated Synonym,DTXSID6020692,Methenamine,C1N2CN3CN1CN(C2)C3,C1N2CN3CN1CN(C2)C3,C1N2CN3CN1CN(C2)C3
+Methomyl,Approved Name,DTXSID1022267,Methomyl,CNC(=O)ON=C(C)SC,CNC(=O)ON=C(C)SC,CNC(=O)ON=C(C)SC
+Methotrexate,Approved Name,DTXSID4020822,Methotrexate,CN(CC1=NC2=C(N=C1)N=C(N)N=C2N)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)NC(CCC(O)=O)C(O)=O,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)NC(CCC(O)=O)C(O)=O
+Methoxychlor,Approved Name,DTXSID9020827,Methoxychlor,COC1=CC=C(C=C1)C(C1=CC=C(OC)C=C1)C(Cl)(Cl)Cl,COC1=CC=C(C=C1)C(C1=CC=C(OC)C=C1)C(Cl)(Cl)Cl,COC1=CC=C(C=C1)C(C1=CC=C(OC)C=C1)C(Cl)(Cl)Cl
+Methoxyflurane,Approved Name,DTXSID7025556,Methoxyflurane,COC(F)(F)C(Cl)Cl,COC(F)(F)C(Cl)Cl,COC(F)(F)C(Cl)Cl
+Methyl 2-Cyanoacrylate,Approved Name,DTXSID4025589,Methyl 2-cyanoacrylate,COC(=O)C(=C)C#N,COC(=O)C(=C)C#N,COC(=O)C(=C)C#N
+Methyl Acetate,Approved Name,DTXSID4021767,Methyl acetate,COC(C)=O,COC(C)=O,COC(C)=O
+Methyl Acrylate,Approved Name,DTXSID0024183,Methyl acrylate,COC(=O)C=C,COC(=O)C=C,COC(=O)C=C
+Methyl Bromide,Approved Name,DTXSID8020832,Methyl bromide,CBr,CBr,CBr
+Dimethyl Disulfide,Synonym from Valid Source,DTXSID4025117,Methyl disulfide,CSSC,CSSC,CSSC
+2-Butanone,Expert Validated Synonym,DTXSID3021516,Methyl ethyl ketone,CCC(C)=O,CCC(C)=O,CCC(C)=O
+Methyl Formate,Approved Name,DTXSID5025609,Methyl formate,COC=O,COC=O,COC=O
+Methyl Isocyanate,Approved Name,DTXSID1023786,Methyl isocyanate,CN=C=O,CN=C=O,CN=C=O
+Methyl Isothiocyanate,Approved Name,DTXSID2027204,Methyl isothiocyanate,CN=C=S,CN=C=S,CN=C=S
+Methyl Methacrylate,Approved Name,DTXSID2020844,Methyl methacrylate,COC(=O)C(C)=C,COC(=O)C(C)=C,COC(=O)C(C)=C
+Methyl Parathion,Approved Name,DTXSID1020855,Methyl parathion,COP(=S)(OC)OC1=CC=C(C=C1)[N+]([O-])=O,COP(=S)(OC)OC1=CC=C(C=C1)[N+]([O-])=O,COP(=S)(OC)OC1=CC=C(C=C1)[N+]([O-])=O
+Methyl pivaloylacetate,Approved Name,DTXSID2042149,Methyl pivaloylacetate,COC(=O)CC(=O)C(C)(C)C,COC(=O)CC(=O)C(C)(C)C,COC(=O)CC(=O)C(C)(C)C
+tert-Butyl Methyl Ether,Synonym from Valid Source,DTXSID3020833,Methyl tert-butyl ether,COC(C)(C)C,COC(C)(C)C,COC(C)(C)C
+Methyl Violet,Approved Name,DTXSID8046666,Methyl Violet,CN=C1C=CC(C=C1)=C(C1=CC=C(C=C1)N(C)C)C1=CC=C(C=C1)N(C)C,CN=C1C=CC(C=C1)=C(C1=CC=C(C=C1)N(C)C)C1=CC=C(C=C1)N(C)C,CN=C1C=CC(C=C1)=C(C1=CC=C(C=C1)N(C)C)C1=CC=C(C=C1)N(C)C
+Methylamine,Approved Name,DTXSID7025683,Methylamine,CN,CN,CN
+Methylcyclohexane,Approved Name,DTXSID0047749,Methylcyclohexane,CC1CCCCC1,CC1CCCCC1,CC1CCCCC1
+Methylcyclopentane,Approved Name,DTXSID3025590,Methylcyclopentane,CC1CCCC1,CC1CCCC1,CC1CCCC1
+Methylene dithiocyanate,Integrated Source Name,DTXSID8025599,Methylene bis(thiocyanate),N#CSCSC#N,N#CSCSC#N,N#CSCSC#N
+Methylscopolamine nitrate,Approved Name,DTXSID70891260,Methylscopolamine nitrate,[O-][N+]([O-])=O.[H][C@@]12O[C@]1([H])[C@H]1C[C@H](C[C@@H]2[N+]1(C)C)OC(=O)[C@H](CO)C1=CC=CC=C1,[H]C12CC(CC([H])(C3OC13)[N+]2(C)C)OC(=O)C(CO)C1=CC=CC=C1,[H]C12CC(CC([H])(C3OC13)[N+]2(C)C)OC(=O)C(CO)C1=CC=CC=C1
+Metolachlor,Approved Name,DTXSID4022448,Metolachlor,CCC1=C(N(C(C)COC)C(=O)CCl)C(C)=CC=C1,CCC1=C(N(C(C)COC)C(=O)CCl)C(C)=CC=C1,CCC1=C(N(C(C)COC)C(=O)CCl)C(C)=CC=C1
+Metribuzin,Approved Name,DTXSID6024204,Metribuzin,CSC1=NN=C(C(=O)N1N)C(C)(C)C,CSC1=NN=C(C(=O)N1N)C(C)(C)C,CSC1=NN=C(C(=O)N1N)C(C)(C)C
+Zectran,Synonym,DTXSID7020893,Mexacarbate,CNC(=O)OC1=CC(C)=C(N(C)C)C(C)=C1,CNC(=O)OC1=CC(C)=C(N(C)C)C(C)=C1,CNC(=O)OC1=CC(C)=C(N(C)C)C(C)=C1
+Mica,Approved Name,DTXSID3049671,Mica,-,-,-
+Tetramethyldiaminobenzophenone,Synonym,DTXSID2020894,Michler's ketone,CN(C)C1=CC=C(C=C1)C(=O)C1=CC=C(C=C1)N(C)C,CN(C)C1=CC=C(C=C1)C(=O)C1=CC=C(C=C1)N(C)C,CN(C)C1=CC=C(C=C1)C(=O)C1=CC=C(C=C1)N(C)C
+Mineral oil,Synonym from Valid Source,DTXSID3034743,Mineral oil - includes paraffin oil,-,-,-
+Mometasone Furoate,Approved Name,DTXSID4023333,Mometasone furoate,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](O)C[C@]2(C)[C@@]1(OC(=O)C1=CC=CO1)C(=O)CCl,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(OC(=O)C1=CC=CO1)C(=O)CCl,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(OC(=O)C1=CC=CO1)C(=O)CCl
+MORPHINE,Approved Name,DTXSID9023336,Morphine,CN1CC[C@]23[C@H]4OC5=C(O)C=CC(C[C@@H]1[C@@H]2C=C[C@@H]4O)=C35,[H]C12CC3=C4C(OC5C(O)C=CC1C45CCN2C)=C(O)C=C3,[H]C12CC3=C4C(OC5C(O)C=CC1C45CCN2C)=C(O)C=C3
+Morphine sulfate,Synonym from Valid Source,DTXSID4023830,Morphine sulphate (2:1),OS(O)(=O)=O.CN1CC[C@]23[C@H]4OC5=C(O)C=CC(C[C@@H]1[C@@H]2C=C[C@@H]4O)=C35.CN1CC[C@]23[C@H]4OC5=C(O)C=CC(C[C@@H]1[C@@H]2C=C[C@@H]4O)=C35,[H]C12CC3=C4C(OC5C(O)C=CC1C45CCN2C)=C(O)C=C3,-
+Morpholine,Approved Name,DTXSID2025688,Morpholine,C1COCCN1,C1COCCN1,C1COCCN1
+AMINOETHYLETHANOLAMINE,Synonym from Valid Source,DTXSID7025423,N-(Hydroxyethyl)ethylenediamine,NCCNCCO,NCCNCCO,NCCNCCO
+N-Cyclohexyl-2-benzothiazolesulfenamide,Approved Name,DTXSID5020360,N-Cyclohexyl-2-benzothiazolesulfenamide,C1CCC(CC1)NSC1=NC2=C(S1)C=CC=C2,C1CCC(CC1)NSC1=NC2=C(S1)C=CC=C2,C1CCC(CC1)NSC1=NC2=C(S1)C=CC=C2
+N-Ethylmorpholine,Approved Name,DTXSID5025312,N-Ethylmorpholine,CCN1CCOCC1,CCN1CCOCC1,CCN1CCOCC1
+N-Hexane,Approved Name,DTXSID0021917,n-Hexane,CCCCCC,CCCCCC,CCCCCC
+Hexane,Synonym from Valid Source,DTXSID0021917,n-Hexane,CCCCCC,CCCCCC,CCCCCC
+N-Methyl-2-Pyrrolidinone,Synonym from Valid Source,DTXSID6020856,N-Methyl-2-pyrrolidone,CN1CCCC1=O,CN1CCCC1=O,CN1CCCC1=O
+Monomethyl Aniline,Integrated Source Name,DTXSID9021841,N-Methylaniline,CNC1=CC=CC=C1,CNC1=CC=CC=C1,CNC1=CC=CC=C1
+N-Methyldiethanolamine,Approved Name,DTXSID8025591,N-Methyldiethanolamine,CN(CCO)CCO,CN(CCO)CCO,CN(CCO)CCO
+N-Nitrosomethylethylamine,Synonym,DTXSID6021036,N-Nitroso-N-methylethylamine,CCN(C)N=O,CCN(C)N=O,CCN(C)N=O
+N-Nitrosodiisopropanolamine,Synonym,DTXSID7021021,N-Nitrosobis(2-hydroxypropyl)amine,CC(O)CN(CC(C)O)N=O,CC(O)CN(CC(C)O)N=O,CC(O)CN(CC(C)O)N=O
+N-Nitrosodibutylamine,Approved Name,DTXSID2021026,N-Nitrosodibutylamine,CCCCN(CCCC)N=O,CCCCN(CCCC)N=O,CCCCN(CCCC)N=O
+N-Nitrosodiethanolamine,Approved Name,DTXSID7021027,N-Nitrosodiethanolamine,OCCN(CCO)N=O,OCCN(CCO)N=O,OCCN(CCO)N=O
+N-Nitrosodiethylamine,Integrated Source Name,DTXSID2021028,N-Nitrosodiethylamine,CCN(CC)N=O,CCN(CC)N=O,CCN(CC)N=O
+N-Nitrosodimethylamine,Approved Name,DTXSID7021029,N-Nitrosodimethylamine,CN(C)N=O,CN(C)N=O,CN(C)N=O
+N-Nitrosodiphenylamine,Approved Name,DTXSID6021030,N-Nitrosodiphenylamine,O=NN(C1=CC=CC=C1)C1=CC=CC=C1,O=NN(C1=CC=CC=C1)C1=CC=CC=C1,O=NN(C1=CC=CC=C1)C1=CC=CC=C1
+N-Nitrosodipropylamine,Approved Name,DTXSID6021032,N-Nitrosodipropylamine,CCCN(CCC)N=O,CCCN(CCC)N=O,CCCN(CCC)N=O
+N-Nitrosomorpholine,Approved Name,DTXSID4021056,N-Nitrosomorpholine,O=NN1CCOCC1,O=NN1CCOCC1,O=NN1CCOCC1
+N-Nitrosopiperidine,Approved Name,DTXSID8021060,N-Nitrosopiperidine,O=NN1CCCCC1,O=NN1CCCCC1,O=NN1CCCCC1
+N-Nitrosopyrrolidine,Approved Name,DTXSID8021062,N-Nitrosopyrrolidine,O=NN1CCCC1,O=NN1CCCC1,O=NN1CCCC1
+N-Vinyl-2-Pyrrolidinone,Synonym from Valid Source,DTXSID2021440,N-Vinyl-2-pyrrolidone,C=CN1CCCC1=O,C=CN1CCCC1=O,C=CN1CCCC1=O
+"N,N-Diethylaniline",Approved Name,DTXSID8021800,"N,N-Diethylaniline",CCN(CC)C1=CC=CC=C1,CCN(CC)C1=CC=CC=C1,CCN(CC)C1=CC=CC=C1
+2-Diethylaminoethanol,Synonym from Valid Source,DTXSID5021837,"N,N-Diethylethanolamine",CCN(CC)CCO,CCN(CC)CCO,CCN(CC)CCO
+Dimethyl Acetamide,Synonym from Valid Source,DTXSID5020499,"N,N-Dimethylacetamide",CN(C)C(C)=O,CN(C)C(C)=O,CN(C)C(C)=O
+"N,N-Dimethylaniline",Approved Name,DTXSID2020507,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,CN(C)C1=CC=CC=C1,CN(C)C1=CC=CC=C1
+Dimethylethylamine,Synonym,DTXSID4027232,"N,N-Dimethylethylamine",CCN(C)C,CCN(C)C,CCN(C)C
+Dimethylformamide,Expert Validated Synonym,DTXSID6020515,"N,N-Dimethylformamide",CN(C)C=O,CN(C)C=O,CN(C)C=O
+"N,N-Dimethyl-p-Toluidine",Expert Validated Synonym,DTXSID0021832,"N,N,4-Trimethylaniline",CN(C)C1=CC=C(C)C=C1,CN(C)C1=CC=C(C)C=C1,CN(C)C1=CC=C(C)C=C1
+Naphtha (Coal Tar),Integrated Source Name,DTXSID5027697,Naphtha,-,-,-
+Naphthalene,Approved Name,DTXSID8020913,Naphthalene,C1=CC2=CC=CC=C2C=C1,C1=CC2=CC=CC=C2C=C1,C1=CC2=CC=CC=C2C=C1
+trans-Decahydronaphthalene,Systematic Name,DTXSID90883405,"Naphthalene, decahydro-, trans-",[H][C@@]12CCCC[C@@]1([H])CCCC2,C1CCC2CCCCC2C1,C1CCC2CCCCC2C1
+Neodymium,Approved Name,DTXSID5064677,Neodymium,[Nd],-,-
+Nickel Carbonyl,Approved Name,DTXSID0024212,Nickel carbonyl,[Ni].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+],-,-
+Nicotine,Approved Name,DTXSID1020930,Nicotine,CN1CCC[C@H]1C1=CN=CC=C1,CN1CCCC1C1=CN=CC=C1,CN1CCCC1C1=CN=CC=C1
+"2,2-Dihydroxy-1,3-Indandione",Synonym from Valid Source,DTXSID7025716,Ninhydrin,OC1(O)C(=O)C2=C(C=CC=C2)C1=O,OC1(O)C(=O)C2=C(C=CC=C2)C1=O,OC1(O)C(=O)C2=C(C=CC=C2)C1=O
+Nitric Acid,Approved Name,DTXSID5029685,Nitric acid,O[N+]([O-])=O,-,-
+Nitric Oxide,Approved Name,DTXSID1020938,Nitric oxide,[N]=O,-,-
+Nitrobenzene,Approved Name,DTXSID3020964,Nitrobenzene,[O-][N+](=O)C1=CC=CC=C1,[O-][N+](=O)C1=CC=CC=C1,[O-][N+](=O)C1=CC=CC=C1
+Nitrocellulose,Approved Name,DTXSID4047751,Nitrocellulose,-,-,-
+Nitroethane,Approved Name,DTXSID8020969,Nitroethane,CC[N+]([O-])=O,CC[N+]([O-])=O,CC[N+]([O-])=O
+5-Nitro-2-furaldehyde Semicarbazone,Expert Validated Synonym,DTXSID5020944,Nitrofurazone,NC(=O)NN=CC1=CC=C(O1)[N+]([O-])=O,NC(=O)N=NCC1=CC=C(O1)[N+]([O-])=O,NC(=O)N=NCC1=CC=C(O1)[N+]([O-])=O
+Nitrogen,Approved Name,DTXSID4036304,Nitrogen,N#N,-,-
+Nitrogen Dioxide,Approved Name,DTXSID7020974,Nitrogen dioxide,[O]N=O,-,-
+Nitromethane,Approved Name,DTXSID2020977,Nitromethane,C[N+]([O-])=O,C[N+]([O-])=O,C[N+]([O-])=O
+Nitrosamine,Approved Name,DTXSID2074037,Nitrosamine,NN=O,-,-
+Nitrotoluene,Approved Name,DTXSID901010229,Nitrotoluene,"CC1=CC=CC=C1.[O-][N+](*)=O |c:3,5,t:1,lp:7:3,10:2,m:9:6.5.4|",-,-
+Nitrous Oxide,Approved Name,DTXSID8021066,Nitrous oxide,[O-][N+]#N,-,-
+Nonane,Approved Name,DTXSID9025796,Nonane,CCCCCCCCC,CCCCCCCCC,CCCCCCCCC
+Norethindrone,Approved Name,DTXSID9023380,Norethindrone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@]2(O)C#C,CC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C,CC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C
+o-Diethylbenzene,Approved Name,DTXSID6052742,o-Diethylbenzene,CCC1=CC=CC=C1CC,CCC1=CC=CC=C1CC,CCC1=CC=CC=C1CC
+OCTACHLORODIBENZO-p-DIOXIN,Approved Name,DTXSID4025799,Octachlorodibenzo-p-dioxin,ClC1=C(Cl)C2=C(OC3=C(Cl)C(Cl)=C(Cl)C(Cl)=C3O2)C(Cl)=C1Cl,ClC1=C(Cl)C2=C(OC3=C(Cl)C(Cl)=C(Cl)C(Cl)=C3O2)C(Cl)=C1Cl,ClC1=C(Cl)C2=C(OC3=C(Cl)C(Cl)=C(Cl)C(Cl)=C3O2)C(Cl)=C1Cl
+Zinc Stearate,Synonym from Valid Source,DTXSID7027209,"Octadecanoic acid, zinc salt",[Zn++].CCCCCCCCCCCCCCCCCC([O-])=O.CCCCCCCCCCCCCCCCCC([O-])=O,CCCCCCCCCCCCCCCCCC(O)=O,-
+Zinc Stearate,Synonym from Valid Source,DTXSID7027209,"Octadecanoic acid, zinc salt",[Zn++].CCCCCCCCCCCCCCCCCC([O-])=O.CCCCCCCCCCCCCCCCCC([O-])=O,CCCCCCCCCCCCCCCCCC(O)=O,-
+Octamethylcyclotetrasiloxane,Approved Name,DTXSID7027205,Octamethylcyclotetrasiloxane,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1
+Octane,Approved Name,DTXSID0026882,Octane,CCCCCCCC,CCCCCCCC,CCCCCCCC
+Alupent,Synonym,DTXSID4045391,Orciprenaline sulfate,OS(O)(=O)=O.CC(C)NCC(O)C1=CC(O)=CC(O)=C1.CC(C)NCC(O)C1=CC(O)=CC(O)=C1,CC(C)NCC(O)C1=CC(O)=CC(O)=C1,-
+Osmium Tetroxide (as Os),Integrated Source Name,DTXSID5042245,Osmium tetroxide,O=[Os](=O)(=O)=O,-,-
+Oxalic Acid,Approved Name,DTXSID0025816,Oxalic acid,OC(=O)C(O)=O,OC(=O)C(O)=O,OC(=O)C(O)=O
+Vydate,Expert Validated Synonym,DTXSID6021086,Oxamyl,CNC(=O)ON=C(SC)C(=O)N(C)C,CNC(=O)ON=C(SC)C(=O)N(C)C,CNC(=O)ON=C(SC)C(=O)N(C)C
+Oxydemeton-Methyl,Approved Name,DTXSID8025541,Oxydemeton-methyl,CCS(=O)CCSP(=O)(OC)OC,CCS(=O)CCSP(=O)(OC)OC,CCS(=O)CCSP(=O)(OC)OC
+Oxygen,Approved Name,DTXSID2037681,Oxygen,O=O,-,-
+Ozone,Approved Name,DTXSID0021098,Ozone,[O-][O+]=O,-,-
+Toluenesulfonyl Chloride,Synonym from Valid Source,DTXSID1052660,p-Toluenesulfonyl chloride,CC1=CC=C(C=C1)S(Cl)(=O)=O,CC1=CC=C(C=C1)S(Cl)(=O)=O,CC1=CC=C(C=C1)S(Cl)(=O)=O
+Dichlorodiphenyldichloroethane,Synonym from Valid Source,DTXSID4020373,"p,p'-DDD",ClC(Cl)C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1,ClC(Cl)C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1,ClC(Cl)C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+"p,p'-Dichlorodiphenyldichloroethylene",Synonym from Valid Source,DTXSID9020374,"p,p'-DDE",ClC(Cl)=C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1,ClC(Cl)=C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1,ClC(Cl)=C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+Palladium,Approved Name,DTXSID4064680,Palladium,[Pd],-,-
+Pancreatin,Approved Name,DTXSID701010859,Pancreatin,-,-,-
+Papain,Approved Name,DTXSID7044184,Papain,-,-,-
+Paraquat,Approved Name,DTXSID3034799,Paraquat,C[N+]1=CC=C(C=C1)C1=CC=[N+](C)C=C1,C[N+]1=CC=C(C=C1)C1=CC=[N+](C)C=C1,C[N+]1=CC=C(C=C1)C1=CC=[N+](C)C=C1
+Parathion,Approved Name,DTXSID7021100,Parathion,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+]([O-])=O,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+]([O-])=O,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+]([O-])=O
+Pendimethalin,Approved Name,DTXSID7024245,Pendimethalin,CCC(CC)NC1=C(C(C)=C(C)C=C1[N+]([O-])=O)[N+]([O-])=O,CCC(CC)NC1=C(C(C)=C(C)C=C1[N+]([O-])=O)[N+]([O-])=O,CCC(CC)NC1=C(C(C)=C(C)C=C1[N+]([O-])=O)[N+]([O-])=O
+Iron Pentacarbonyl (as Fe),Integrated Source Name,DTXSID3027746,Pentacarbonyl iron,[Fe].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+],-,-
+Pentachloronitrobenzene,Approved Name,DTXSID2021105,Pentachloronitrobenzene,[O-][N+](=O)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,[O-][N+](=O)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,[O-][N+](=O)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl
+Pentachlorophenol,Approved Name,DTXSID7021106,Pentachlorophenol,OC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,OC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,OC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl
+Pentaethylene Glycol,Approved Name,DTXSID4027579,Pentaethylene glycol,OCCOCCOCCOCCOCCO,OCCOCCOCCOCCOCCO,OCCOCCOCCOCCOCCO
+sec-Amyl Acetate,Synonym,DTXSID8052306,Pentan-2-yl acetate,CCCC(C)OC(C)=O,CCCC(C)OC(C)=O,CCCC(C)OC(C)=O
+Pentane,Approved Name,DTXSID2025846,Pentane,CCCCC,CCCCC,CCCCC
+Sodium Tripolyphosphate,Expert Validated Synonym,DTXSID9036307,Pentasodium triphosphate,[Na+].[Na+].[Na+].[Na+].[Na+].[O-]P([O-])(=O)OP([O-])(=O)OP([O-])([O-])=O,-,-
+n-Amyl Acetate,Expert Validated Synonym,DTXSID1027263,Pentyl acetate,CCCCCOC(C)=O,CCCCCOC(C)=O,CCCCCOC(C)=O
+Peracetic Acid,Approved Name,DTXSID1025853,Peracetic acid,CC(=O)OO,CC(=O)OO,CC(=O)OO
+PERFLUOROISOBUTYL METHYL ETHER,Approved Name,DTXSID5042326,Perfluoroisobutyl methyl ether,COC(F)(F)C(F)(C(F)(F)F)C(F)(F)F,COC(F)(F)C(F)(C(F)(F)F)C(F)(F)F,COC(F)(F)C(F)(C(F)(F)F)C(F)(F)F
+Perfluorooctanoic acid,Approved Name,DTXSID8031865,Perfluorooctanoic acid,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+Perlite,Approved Name,DTXSID3049706,Perlite,-,-,-
+Phenanthrene,Approved Name,DTXSID6024254,Phenanthrene,C1=CC2=C(C=C1)C1=C(C=CC=C1)C=C2,C1=CC2=C(C=C1)C1=C(C=CC=C1)C=C2,C1=CC2=C(C=C1)C1=C(C=CC=C1)C=C2
+Phenmedipham,Approved Name,DTXSID1024255,Phenmedipham,COC(=O)NC1=CC(OC(=O)NC2=CC=CC(C)=C2)=CC=C1,COC(=O)NC1=CC(OC(=O)NC2=CC=CC(C)=C2)=CC=C1,COC(=O)NC1=CC(OC(=O)NC2=CC=CC(C)=C2)=CC=C1
+Phenol,Approved Name,DTXSID5021124,Phenol,OC1=CC=CC=C1,OC1=CC=CC=C1,OC1=CC=CC=C1
+Phenothiazine,Approved Name,DTXSID5021126,Phenothiazine,N1C2=CC=CC=C2SC2=C1C=CC=C2,N1C2=CC=CC=C2SC2=C1C=CC=C2,N1C2=CC=CC=C2SC2=C1C=CC=C2
+Phenyl Glycidyl Ether,Approved Name,DTXSID8021145,Phenyl glycidyl ether,C(OC1=CC=CC=C1)C1CO1,C(OC1=CC=CC=C1)C1CO1,C(OC1=CC=CC=C1)C1CO1
+Phenyl Isocyanate,Approved Name,DTXSID5051521,Phenyl isocyanate,O=C=NC1=CC=CC=C1,O=C=NC1=CC=CC=C1,O=C=NC1=CC=CC=C1
+Phorate,Approved Name,DTXSID4032459,Phorate,CCOP(=S)(OCC)SCSCC,CCOP(=S)(OCC)SCSCC,CCOP(=S)(OCC)SCSCC
+Phosgene,Approved Name,DTXSID0024260,Phosgene,ClC(Cl)=O,ClC(Cl)=O,ClC(Cl)=O
+Phosphine,Approved Name,DTXSID2021157,Phosphine,P,-,-
+Phosphoric Acid,Approved Name,DTXSID5024263,Phosphoric acid,OP(O)(O)=O,-,-
+Dibutyl Phosphate,Synonym from Valid Source,DTXSID3040728,"Phosphoric acid, dibutyl ester",CCCCOP(O)(=O)OCCCC,CCCCOP(O)(=O)OCCCC,CCCCOP(O)(=O)OCCCC
+Phosphorus Oxychloride,Synonym from Valid Source,DTXSID5029710,Phosphoric trichloride,ClP(Cl)(Cl)=O,-,-
+Phosphorus Trichloride,Synonym from Valid Source,DTXSID5029687,Phosphorous trichloride,ClP(Cl)Cl,-,-
+Phosphorus (yellow),Integrated Source Name,DTXSID1024382,Phosphorus,[P],-,-
+Phosphorus Pentachloride,Approved Name,DTXSID9033896,Phosphorus pentachloride,ClP(Cl)(Cl)(Cl)Cl,-,-
+Phosphorus Pentasulfide,Approved Name,DTXSID0051659,Phosphorus pentasulfide,S=P12SP3(=S)SP(=S)(S1)SP(=S)(S2)S3,-,-
+Phosphorus Pentoxide,Approved Name,DTXSID9047754,Phosphorus pentoxide,O=P12OP3(=O)OP(=O)(O1)OP(=O)(O2)O3,-,-
+Phthalic Anhydride,Approved Name,DTXSID2021159,Phthalic anhydride,O=C1OC(=O)C2=C1C=CC=C2,O=C1OC(=O)C2=C1C=CC=C2,O=C1OC(=O)C2=C1C=CC=C2
+Picric Acid,Approved Name,DTXSID4025909,Picric acid,OC1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O,OC1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O,OC1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O
+Piperazine,Approved Name,DTXSID1021164,Piperazine,C1CNCCN1,C1CNCCN1,C1CNCCN1
+Piperonyl Butoxide,Approved Name,DTXSID1021166,Piperonyl butoxide,CCCCOCCOCCOCC1=CC2=C(OCO2)C=C1CCC,CCCCOCCOCCOCC1=CC2=C(OCO2)C=C1CCC,CCCCOCCOCCOCC1=CC2=C(OCO2)C=C1CCC
+Pirimiphos Methyl,Synonym from Valid Source,DTXSID0024266,Pirimiphos-methyl,CCN(CC)C1=NC(OP(=S)(OC)OC)=CC(C)=N1,CCN(CC)C1=NC(OP(=S)(OC)OC)=CC(C)=N1,CCN(CC)C1=NC(OP(=S)(OC)OC)=CC(C)=N1
+Platinum,Approved Name,DTXSID9064681,Platinum,[Pt],-,-
+Portland Cement,Approved Name,DTXSID8050493,Portland cement,-,-,-
+Portland Cement,Approved Name,DTXSID8050493,Portland cement,-,-,-
+Potassium p-tert-amylphenate,Synonym,DTXSID9035757,Potassium 4-(2-methylbutan-2-yl)phenolate,[K+].CCC(C)(C)C1=CC=C([O-])C=C1,CCC(C)(C)C1=CC=C(O)C=C1,CCC(C)(C)C1=CC=C(O)C=C1
+Potassium Hydroxide,Approved Name,DTXSID5029633,Potassium hydroxide,[OH-].[K+],-,-
+Potassium methyldithiocarbamate,Integrated Source Name,DTXSID1034424,Potassium N-methyldithiocarbamate,[K+].CNC([S-])=S,CNC(S)=S,CNC(S)=S
+Pravastatin sodium,Approved Name,DTXSID6047525,Pravastatin sodium,[Na+].CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC([O-])=O)[C@@H]12,CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(O)=O)C12,CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(O)=O)C12
+Progesterone,Approved Name,DTXSID3022370,Progesterone,[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C
+Propionaldehyde,Expert Validated Synonym,DTXSID2021658,Propanal,CCC=O,CCC=O,CCC=O
+Propane,Approved Name,DTXSID5026386,Propane,CCC,CCC,CCC
+Methyl Isobutyrate,Synonym from Valid Source,DTXSID5060275,"Propanoic acid, 2-methyl-, methyl ester",COC(=O)C(C)C,COC(=O)C(C)C,COC(=O)C(C)C
+Propetamphos,Approved Name,DTXSID7032470,Propetamphos,CCNP(=S)(OC)O\C(C)=C\C(=O)OC(C)C,CCNP(=S)(OC)OC(C)=CC(=O)OC(C)C,CCNP(=S)(OC)OC(C)=CC(=O)OC(C)C
+Propionic Acid,Approved Name,DTXSID8025961,Propionic acid,CCC(O)=O,CCC(O)=O,CCC(O)=O
+Propionitrile,Approved Name,DTXSID1021879,Propionitrile,CCC#N,CCC#N,CCC#N
+Propoxur,Approved Name,DTXSID7021948,Propoxur,CNC(=O)OC1=CC=CC=C1OC(C)C,CNC(=O)OC1=CC=CC=C1OC(C)C,CNC(=O)OC1=CC=CC=C1OC(C)C
+n-Propyl Acetate,Synonym from Valid Source,DTXSID6021901,Propyl acetate,CCCOC(C)=O,CCCOC(C)=O,CCCOC(C)=O
+Propylene Imine,Synonym,DTXSID8024286,Propyleneimine,CC1CN1,CC1CN1,CC1CN1
+PROTEASE,Synonym from Valid Source,DTXSID2044185,Proteinase from B. Subtilis,-,-,-
+Pyrene,Approved Name,DTXSID3024289,Pyrene,C1=CC2=C3C(C=CC4=CC=CC(C=C2)=C34)=C1,C1=CC2=C3C(C=CC4=CC=CC(C=C2)=C34)=C1,C1=CC2=C3C(C=CC4=CC=CC(C=C2)=C34)=C1
+Pyrethrum,Synonym from Valid Source,DTXSID8034873,Pyrethrins,-,-,-
+Pyridine,Approved Name,DTXSID9021924,Pyridine,C1=CC=NC=C1,C1=CC=NC=C1,C1=CC=NC=C1
+Pyrimethamine,Approved Name,DTXSID9021217,Pyrimethamine,CCC1=NC(N)=NC(N)=C1C1=CC=C(Cl)C=C1,CCC1=NC(N)=NC(N)=C1C1=CC=C(Cl)C=C1,CCC1=NC(N)=NC(N)=C1C1=CC=C(Cl)C=C1
+Refractory Ceramic Fibers,Approved Name,DTXSID2024296,Refractory ceramic fibers,-,-,-
+Resmethrin,Approved Name,DTXSID7022253,Resmethrin,CC(C)=CC1C(C(=O)OCC2=COC(CC3=CC=CC=C3)=C2)C1(C)C,CC(C)=CC1C(C(=O)OCC2=COC(CC3=CC=CC=C3)=C2)C1(C)C,CC(C)=CC1C(C(=O)OCC2=COC(CC3=CC=CC=C3)=C2)C1(C)C
+Resorcinol,Approved Name,DTXSID2021238,Resorcinol,OC1=CC(O)=CC=C1,OC1=CC(O)=CC=C1,OC1=CC(O)=CC=C1
+Rhodamine B,Approved Name,DTXSID6042369,Rhodamine B,[Cl-].CCN(CC)C1=CC2=[O+]C3=C(C=CC(=C3)N(CC)CC)C(=C2C=C1)C1=C(C=CC=C1)C(O)=O,CCN(CC)C1=CC2=[O+]C3=C(C=CC(=C3)N(CC)CC)C(=C2C=C1)C1=C(C=CC=C1)C(O)=O,CCN(CC)C1=CC2=[O+]C3=C(C=CC(=C3)N(CC)CC)C(=C2C=C1)C1=C(C=CC=C1)C(O)=O
+Rhodium,Approved Name,DTXSID3052480,Rhodium,[Rh],-,-
+Rotenone,Approved Name,DTXSID6021248,Rotenone,COC1=CC2=C(C=C1OC)[C@H]1[C@@H](CO2)OC2=C(C=CC3=C2C[C@@H](O3)C(C)=C)C1=O,COC1=CC2=C(C=C1OC)C1C(CO2)OC2=C3CC(OC3=CC=C2C1=O)C(C)=C,COC1=CC2=C(C=C1OC)C1C(CO2)OC2=C3CC(OC3=CC=C2C1=O)C(C)=C
+Selenium Compounds (as Se),Integrated Source Name,DTXSID9021261,Selenium,[Se],-,-
+SEVOFLURANE,Approved Name,DTXSID8046614,Sevoflurane,FCOC(C(F)(F)F)C(F)(F)F,FCOC(C(F)(F)F)C(F)(F)F,FCOC(C(F)(F)F)C(F)(F)F
+Silicon Tetrahydride,Synonym from Valid Source,DTXSID6052534,Silane,[SiH4],-,-
+Silica,Approved Name,DTXSID1029677,Silica,O=[Si]=O,-,-
+Silica,Approved Name,DTXSID1029677,Silica,O=[Si]=O,-,-
+Silica,Approved Name,DTXSID1029677,Silica,O=[Si]=O,-,-
+Silica fused,Integrated Source Name,DTXSID1049770,"Silica, vitreous",-,-,-
+Ethyl Silicate,Synonym,DTXSID4027731,"Silicic acid, ethyl ester",CCO[Si](O)=O,CCO[Si](O)=O,CCO[Si](O)=O
+Silicon,Approved Name,DTXSID0051441,Silicon,[Si],-,-
+Silicon,Approved Name,DTXSID0051441,Silicon,[Si],-,-
+Silicon Carbide,Approved Name,DTXSID5052751,Silicon carbide,[C-]#[SiH+],[C-]#[SiH+],[C-]#[SiH+]
+Silicon Carbide,Approved Name,DTXSID5052751,Silicon carbide,[C-]#[SiH+],[C-]#[SiH+],[C-]#[SiH+]
+Silver,Approved Name,DTXSID4024305,Silver,[Ag],-,-
+Simazine,Approved Name,DTXSID4021268,Simazine,CCNC1=NC(NCC)=NC(Cl)=N1,CCNC1=NC(NCC)=NC(Cl)=N1,CCNC1=NC(NCC)=NC(Cl)=N1
+Soapstone,Approved Name,DTXSID1052749,Soapstone,-,-,-
+"Sodium [1,1'-biphenyl]-2-olate",Systematic Name,DTXSID2021153,Sodium 2-phenylphenate,[Na+].[O-]C1=C(C=CC=C1)C1=CC=CC=C1,OC1=C(C=CC=C1)C1=CC=CC=C1,OC1=C(C=CC=C1)C1=CC=CC=C1
+Sodium Azide,Approved Name,DTXSID8020121,Sodium azide,[Na+].[N-]=[N+]=[N-],-,-
+Sodium Azide,Approved Name,DTXSID8020121,Sodium azide,[Na+].[N-]=[N+]=[N-],-,-
+Sodium Bisulfite,Approved Name,DTXSID8034902,Sodium bisulfite,[Na+].OS([O-])=O,-,-
+Sodium Bromate,Approved Name,DTXSID9023837,Sodium bromate,[Na+].[O-][Br](=O)=O,-,-
+Sodium Carbonate,Approved Name,DTXSID1029621,Sodium carbonate,[Na+].[Na+].[O-]C([O-])=O,-,OC(O)=O
+Sodium Hydroxide,Approved Name,DTXSID0029634,Sodium hydroxide,[OH-].[Na+],-,-
+Sodium Ligninsulfonate,Approved Name,DTXSID5025499,Sodium ligninsulfonate,-,-,-
+Sodium Metabisulfite,Approved Name,DTXSID0029684,Sodium metabisulfite,[Na+].[Na+].[O-]S(=O)S([O-])(=O)=O,-,-
+Sodium Metasilicate,Approved Name,DTXSID7029669,Sodium metasilicate,[Na+].[Na+].[O-][Si]([O-])=O,-,-
+Sodium Nitrate,Approved Name,DTXSID6020937,Sodium nitrate,[Na+].[O-][N+]([O-])=O,-,-
+Sodium Nitrite,Approved Name,DTXSID0020941,Sodium nitrite,[Na+].[O-]N=O,-,-
+"Borates, Tetra, Sodium Salts, Anhydrous",Integrated Source Name,DTXSID2034388,Sodium tetraborate,[Na+].[Na+].[O-]B(OB=O)OB([O-])OB=O,-,-
+Starch,Approved Name,DTXSID0049789,Starch,-,-,-
+Stibine,Approved Name,DTXSID601014341,Stibine,[SbH3],-,-
+Stoddard Solvent,Approved Name,DTXSID9026051,Stoddard solvent,-,-,-
+Strontium,Approved Name,DTXSID3024312,Strontium,[Sr],-,-
+Styrene,Approved Name,DTXSID2021284,Styrene,C=CC1=CC=CC=C1,C=CC1=CC=CC=C1,C=CC1=CC=CC=C1
+Subtilisins,Integrated Source Name,DTXSID6052790,Subtilisin,-,-,-
+Sucrose,Approved Name,DTXSID2021288,Sucrose,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,OCC1OC(CO)(OC2OC(CO)C(O)C(O)C2O)C(O)C1O,OCC1OC(CO)(OC2OC(CO)C(O)C(O)C2O)C(O)C1O
+Sulfamethazine,Approved Name,DTXSID6021290,Sulfamethazine,CC1=CC(C)=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=N1,CC1=CC(C)=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=N1,CC1=CC(C)=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=N1
+Sulfamic Acid,Approved Name,DTXSID6034005,Sulfamic acid,NS(O)(=O)=O,-,-
+SULFOMETURON METHYL,Synonym,DTXSID0034936,Sulfometuron-methyl,COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC1=NC(C)=CC(C)=N1,COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC1=NC(C)=CC(C)=N1,COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC1=NC(C)=CC(C)=N1
+Sulfur,Approved Name,DTXSID9034941,Sulfur,[S],-,-
+Sulfur Dioxide,Approved Name,DTXSID6029672,Sulfur dioxide,O=S=O,-,-
+Sulfur Tetrafluoride,Approved Name,DTXSID40893074,Sulfur tetrafluoride,FS(F)(F)F,-,-
+Sulfuric Acid,Approved Name,DTXSID5029683,Sulfuric acid,OS(O)(=O)=O,-,-
+Sulfuryl Fluoride,Approved Name,DTXSID9034945,Sulfuryl fluoride,FS(F)(=O)=O,-,-
+t-Butylmercaptan,Synonym,DTXSID0026418,t-Butyl mercaptan,CC(C)(C)S,CC(C)(C)S,CC(C)(C)S
+tert-Butyl Mercaptan,Synonym from Valid Source,DTXSID0026418,t-Butyl mercaptan,CC(C)(C)S,CC(C)(C)S,CC(C)(C)S
+Talc (Containing no asbestos),Integrated Source Name,DTXSID5032109,Talc,-,-,-
+Talc,Approved Name,DTXSID5032109,Talc,-,-,-
+Tannin,Expert Validated Synonym,DTXSID2026076,Tannic acid,-,-,-
+Tantalum,Approved Name,DTXSID8064690,Tantalum,[Ta],-,-
+Mavrik,Integrated Source Name,DTXSID7037555,tau-Fluvalinate,CC(C)[C@@H](NC1=C(Cl)C=C(C=C1)C(F)(F)F)C(=O)OC(C#N)C1=CC(OC2=CC=CC=C2)=CC=C1,CC(C)C(NC1=C(Cl)C=C(C=C1)C(F)(F)F)C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1,CC(C)C(NC1=C(Cl)C=C(C=C1)C(F)(F)F)C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1
+Terbufos,Approved Name,DTXSID2022254,Terbufos,CCOP(=S)(OCC)SCSC(C)(C)C,CCOP(=S)(OCC)SCSC(C)(C)C,CCOP(=S)(OCC)SCSC(C)(C)C
+Terpineol,Approved Name,DTXSID8040775,Terpineol,-,-,-
+tert-Butyl Acetate,Approved Name,DTXSID1022055,tert-Butyl acetate,CC(=O)OC(C)(C)C,CC(=O)OC(C)(C)C,CC(=O)OC(C)(C)C
+tert-Butyl Alcohol,Approved Name,DTXSID8020204,tert-Butyl alcohol,CC(C)(C)O,CC(C)(C)O,CC(C)(C)O
+tert-Butyl Glycidyl Ether,Approved Name,DTXSID4024692,tert-Butyl glycidyl ether,CC(C)(C)OCC1CO1,CC(C)(C)OCC1CO1,CC(C)(C)OCC1CO1
+Testosterone,Approved Name,DTXSID8022371,Testosterone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O,CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2O,CC12CCC3C(CCC4=CC(=O)CCC34C)C1CCC2O
+Tetrachlorodibenzodioxin,Approved Name,DTXSID4051378,Tetrachlorodibenzodioxin,-,-,-
+Tetrachlorodibenzofuran,Approved Name,DTXSID5067556,Tetrachlorodibenzofuran,ClC1=C(Cl)C(Cl)=C(Cl)C2=C1OC1=C2C=CC=C1,ClC1=C(Cl)C(Cl)=C(Cl)C2=C1OC1=C2C=CC=C1,ClC1=C(Cl)C(Cl)=C(Cl)C2=C1OC1=C2C=CC=C1
+Tetrachloroethylene (Perchloroethylene),Integrated Source Name,DTXSID2021319,Tetrachloroethylene,ClC(Cl)=C(Cl)Cl,ClC(Cl)=C(Cl)Cl,ClC(Cl)=C(Cl)Cl
+Tetrachlorophenol,Approved Name,DTXSID0042450,Tetrachlorophenol,-,-,-
+Tetraethyl Lead (as Pb),Integrated Source Name,DTXSID7023801,Tetraethyl lead,CC[Pb](CC)(CC)CC,CC[Pb](CC)(CC)CC,-
+Tetraethylene Glycol Diacrylate,Approved Name,DTXSID2026107,Tetraethylene glycol diacrylate,C=CC(=O)OCCOCCOCCOCCOC(=O)C=C,C=CC(=O)OCCOCCOCCOCCOC(=O)C=C,C=CC(=O)OCCOCCOCCOCCOC(=O)C=C
+Tetraethyleneglycol Dimethacrylate,Approved Name,DTXSID6044515,Tetraethyleneglycol dimethacrylate,CC(=C)C(=O)OCCOCCOCCOCCOC(=O)C(C)=C,CC(=C)C(=O)OCCOCCOCCOCCOC(=O)C(C)=C,CC(=C)C(=O)OCCOCCOCCOCCOC(=O)C(C)=C
+Tetraethylenepentamine,Approved Name,DTXSID7026108,Tetraethylenepentamine,NCCNCCNCCNCCN,NCCNCCNCCNCCN,NCCNCCNCCNCCN
+Tetrahydrofuran,Approved Name,DTXSID1021328,Tetrahydrofuran,C1CCOC1,C1CCOC1,C1CCOC1
+TETRAHYDROFURFURYL ACRYLATE,Approved Name,DTXSID8044884,Tetrahydrofurfuryl acrylate,C=CC(=O)OCC1CCCO1,C=CC(=O)OCC1CCCO1,C=CC(=O)OCC1CCCO1
+Tetrahydro-2-furanmethanol,Synonym from Valid Source,DTXSID1029128,Tetrahydrofurfuryl alcohol,OCC1CCCO1,OCC1CCCO1,OCC1CCCO1
+Tetrahydronaphthalene,Synonym from Valid Source,DTXSID1026118,Tetralin,C1CCC2=C(C1)C=CC=C2,C1CCC2=C(C1)C=CC=C2,C1CCC2=C(C1)C=CC=C2
+Tetramethyl Lead (as Pb),Integrated Source Name,DTXSID0026123,Tetramethyl lead,C[Pb](C)(C)C,C[Pb](C)(C)C,-
+Tetramethyl Succinonitrile,Integrated Source Name,DTXSID0026125,Tetramethylsuccinonitrile,CC(C)(C#N)C(C)(C)C#N,CC(C)(C#N)C(C)(C)C#N,CC(C)(C#N)C(C)(C)C#N
+Tetrasodium Pyrophosphate,Approved Name,DTXSID9042465,Tetrasodium pyrophosphate,[Na+].[Na+].[Na+].[Na+].[O-]P([O-])(=O)OP([O-])([O-])=O,-,-
+Theophylline,Approved Name,DTXSID5021336,Theophylline,CN1C2=C(NC=N2)C(=O)N(C)C1=O,CN1C2=C(NC=N2)C(=O)N(C)C1=O,CN1C2=C(NC=N2)C(=O)N(C)C1=O
+Thioglycolic Acid,Approved Name,DTXSID8026141,Thioglycolic acid,OC(=O)CS,OC(=O)CS,OC(=O)CS
+Thionyl Chloride,Approved Name,DTXSID3064778,Thionyl chloride,ClS(Cl)=O,-,-
+Thiophanate-methyl,Approved Name,DTXSID1024338,Thiophanate-methyl,COC(=O)NC(=S)NC1=C(NC(=S)NC(=O)OC)C=CC=C1,COC(=O)NC(=S)NC1=C(NC(=S)NC(=O)OC)C=CC=C1,COC(=O)NC(=S)NC1=C(NC(=S)NC(=O)OC)C=CC=C1
+Thiophene,Approved Name,DTXSID8026145,Thiophene,S1C=CC=C1,S1C=CC=C1,S1C=CC=C1
+Thiourea,Approved Name,DTXSID9021348,Thiourea,NC(N)=S,NC(N)=S,NC(N)=S
+Thiram,Approved Name,DTXSID5021332,Thiram,CN(C)C(=S)SSC(=S)N(C)C,CN(C)C(=S)SSC(=S)N(C)C,CN(C)C(=S)SSC(=S)N(C)C
+Thorium,Approved Name,DTXSID6049800,Thorium,[Th],-,-
+Tin Oxide,Approved Name,DTXSID00893010,Tin oxide,-,-,-
+Titanium,Approved Name,DTXSID3047764,Titanium,[Ti],-,-
+Titanium Dioxide,Approved Name,DTXSID3021352,Titanium dioxide,[O--].[O--].[Ti+4],-,-
+Toluene,Approved Name,DTXSID7021360,Toluene,CC1=CC=CC=C1,CC1=CC=CC=C1,CC1=CC=CC=C1
+"Toluene-2,4-Diisocyanate",Approved Name,DTXSID7026156,"Toluene-2,4-diisocyanate",CC1=CC=C(C=C1N=C=O)N=C=O,CC1=CC=C(C=C1N=C=O)N=C=O,CC1=CC=C(C=C1N=C=O)N=C=O
+"Toluene-2,6-Diisocyanate",Approved Name,DTXSID2026157,"Toluene-2,6-diisocyanate",CC1=C(C=CC=C1N=C=O)N=C=O,CC1=C(C=CC=C1N=C=O)N=C=O,CC1=C(C=CC=C1N=C=O)N=C=O
+Chlorinated Camphene,Synonym from Valid Source,DTXSID7021368,Toxaphene,-,-,-
+Triorthocresyl Phosphate,Synonym,DTXSID6032192,Tri-o-cresyl phosphate,CC1=C(OP(=O)(OC2=C(C)C=CC=C2)OC2=C(C)C=CC=C2)C=CC=C1,CC1=C(OP(=O)(OC2=C(C)C=CC=C2)OC2=C(C)C=CC=C2)C=CC=C1,CC1=C(OP(=O)(OC2=C(C)C=CC=C2)OC2=C(C)C=CC=C2)C=CC=C1
+Triallyl isocyanurate,Approved Name,DTXSID0026175,Triallyl isocyanurate,C=CCN1C(=O)N(CC=C)C(=O)N(CC=C)C1=O,C=CCN1C(=O)N(CC=C)C(=O)N(CC=C)C1=O,C=CCN1C(=O)N(CC=C)C(=O)N(CC=C)C1=O
+Triamcinolone acetonide,Approved Name,DTXSID6021371,Triamcinolone acetonide,CC1(C)O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@@]2(O1)C(=O)CO,CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)CO,CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4(F)C(O)CC3(C)C2(O1)C(=O)CO
+Triazinetriethanol,Approved Name,DTXSID7025394,Triazinetriethanol,OCCN1CN(CCO)CN(CCO)C1,OCCN1CN(CCO)CN(CCO)C1,OCCN1CN(CCO)CN(CCO)C1
+Tributyl Phosphate,Approved Name,DTXSID3021986,Tributyl phosphate,CCCCOP(=O)(OCCCC)OCCCC,CCCCOP(=O)(OCCCC)OCCCC,CCCCOP(=O)(OCCCC)OCCCC
+Tributylamine,Approved Name,DTXSID4026183,Tributylamine,CCCCN(CCCC)CCCC,CCCCN(CCCC)CCCC,CCCCN(CCCC)CCCC
+Trichlorfon,Approved Name,DTXSID0021389,Trichlorfon,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,COP(=O)(OC)C(O)C(Cl)(Cl)Cl
+Trichloroacetic Acid,Approved Name,DTXSID1021378,Trichloroacetic acid,OC(=O)C(Cl)(Cl)Cl,OC(=O)C(Cl)(Cl)Cl,OC(=O)C(Cl)(Cl)Cl
+Trichloroethylene,Approved Name,DTXSID0021383,Trichloroethylene,ClC=C(Cl)Cl,ClC=C(Cl)Cl,ClC=C(Cl)Cl
+Fluorotrichloromethane,Synonym from Valid Source,DTXSID5021384,Trichlorofluoromethane,FC(Cl)(Cl)Cl,FC(Cl)(Cl)Cl,FC(Cl)(Cl)Cl
+Tridymite,Approved Name,DTXSID6049563,Tridymite,-,-,-
+Triethanolamine,Approved Name,DTXSID9021392,Triethanolamine,OCCN(CCO)CCO,OCCN(CCO)CCO,OCCN(CCO)CCO
+Triethylamine,Approved Name,DTXSID3024366,Triethylamine,CCN(CC)CC,CCN(CC)CC,CCN(CC)CC
+Triethylene Glycol,Approved Name,DTXSID4021393,Triethylene glycol,OCCOCCOCCO,OCCOCCOCCO,OCCOCCOCCO
+Triethylenetetramine,Approved Name,DTXSID9023702,Triethylenetetramine,NCCNCCNCCN,NCCNCCNCCN,NCCNCCNCCN
+Trifluralin,Approved Name,DTXSID4021395,Trifluralin,CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O,CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O,CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O
+"1,3,5-Triglycidyl Isocyanurate",Expert Validated Synonym,DTXSID4026262,Triglycidyl isocyanurate,O=C1N(CC2CO2)C(=O)N(CC2CO2)C(=O)N1CC1CO1,O=C1N(CC2CO2)C(=O)N(CC2CO2)C(=O)N1CC1CO1,O=C1N(CC2CO2)C(=O)N(CC2CO2)C(=O)N1CC1CO1
+Trimellitic Anhydride,Approved Name,DTXSID7026235,Trimellitic anhydride,OC(=O)C1=CC=C2C(=O)OC(=O)C2=C1,OC(=O)C1=CC=C2C(=O)OC(=O)C2=C1,OC(=O)C1=CC=C2C(=O)OC(=O)C2=C1
+Landrin,Synonym,DTXSID7032503,Trimethacarb,-,-,-
+Trimethylamine,Approved Name,DTXSID2026238,Trimethylamine,CN(C)C,CN(C)C,CN(C)C
+Trimethylbenzene (mixed isomers),Integrated Source Name,DTXSID6049808,Trimethylbenzene,-,-,-
+Trimethylolpropane Triacrylate,Approved Name,DTXSID0027773,Trimethylolpropane triacrylate,CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C,CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C,CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
+Nitroglycerin,Expert Validated Synonym,DTXSID1021407,Trinitroglycerin,[O-][N+](=O)OCC(CO[N+]([O-])=O)O[N+]([O-])=O,[O-][N+](=O)OCC(CO[N+]([O-])=O)O[N+]([O-])=O,[O-][N+](=O)OCC(CO[N+]([O-])=O)O[N+]([O-])=O
+Triphenyl Phosphate,Approved Name,DTXSID1021952,Triphenyl phosphate,O=P(OC1=CC=CC=C1)(OC1=CC=CC=C1)OC1=CC=CC=C1,O=P(OC1=CC=CC=C1)(OC1=CC=CC=C1)OC1=CC=CC=C1,O=P(OC1=CC=CC=C1)(OC1=CC=CC=C1)OC1=CC=CC=C1
+Triisopropylated Phenyl Phosphate,Synonym,DTXSID4028880,Triphenyl phosphates isopropylated,-,-,-
+Tripoli,Approved Name,DTXSID3047479,Tripoli,-,-,-
+Tripropylene Glycol Diacrylate,Approved Name,DTXSID7028015,Tripropylene glycol diacrylate,CC(COC(C)COC(=O)C=C)OCC(C)OC(=O)C=C,CC(COC(C)COC(=O)C=C)OCC(C)OC(=O)C=C,CC(COC(C)COC(=O)C=C)OCC(C)OC(=O)C=C
+Dichloroisocyanuric Acid,Integrated Source Name,DTXSID8024993,Troclosene,ClN1C(=O)NC(=O)N(Cl)C1=O,ClN1C(=O)NC(=O)N(Cl)C1=O,ClN1C(=O)NC(=O)N(Cl)C1=O
+Trypsin,Approved Name,DTXSID9040922,Trypsin,-,-,-
+Turpentine,Approved Name,DTXSID6027717,Turpentine,-,-,-
+Undecane,Approved Name,DTXSID9021689,Undecane,CCCCCCCCCCC,CCCCCCCCCCC,CCCCCCCCCCC
+Urea,Approved Name,DTXSID4021426,Urea,NC(N)=O,NC(N)=O,NC(N)=O
+Vanadium,Approved Name,DTXSID2040282,Vanadium,[V],-,-
+Vanadium pentoxide,Approved Name,DTXSID2023806,Vanadium pentoxide,O=[V](=O)O[V](=O)=O,-,-
+Vanadium pentoxide,Approved Name,DTXSID2023806,Vanadium pentoxide,O=[V](=O)O[V](=O)=O,-,-
+Vegetable Oil,Approved Name,DTXSID5057595,Vegetable oil,-,-,-
+Vegetable Oil,Approved Name,DTXSID5057595,Vegetable oil,-,-,-
+Vinyl Acetate,Approved Name,DTXSID3021431,Vinyl acetate,CC(=O)OC=C,CC(=O)OC=C,CC(=O)OC=C
+Vinyl Chloride,Approved Name,DTXSID8021434,Vinyl chloride,ClC=C,ClC=C,ClC=C
+Vinyl Toluene,Integrated Source Name,DTXSID6026292,Vinyltoluene,-,-,-
+Warfarin,Approved Name,DTXSID5023742,Warfarin,CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=CC=CC=C2OC1=O,CC(=O)CC(C1C(=O)Oc2ccccc2C1=O)c1ccccc1,CC(=O)CC(C1C(=O)Oc2ccccc2C1=O)c1ccccc1
+Xylene,Expert Validated Synonym,DTXSID2021446,Xylenes,-,-,-
+Yttrium,Approved Name,DTXSID0049816,Yttrium,[Y],-,-
+Zinc,Approved Name,DTXSID7035012,Zinc,[Zn],-,-
+Zinc Chloride Fume,Integrated Source Name,DTXSID2035013,Zinc chloride,[Cl-].[Cl-].[Zn++],-,-
+Zinc Dibutyldithiocarbamate,Approved Name,DTXSID0021462,Zinc dibutyldithiocarbamate,[Zn++].CCCCN(CCCC)C([S-])=S.CCCCN(CCCC)C([S-])=S,CCCCN(CCCC)C(S)=S,-
+Zinc Oxide,Approved Name,DTXSID7035016,Zinc oxide,[O--].[Zn++],-,-
+Zinc Oxide,Approved Name,DTXSID7035016,Zinc oxide,[O--].[Zn++],-,-
+Zinc Oxide,Approved Name,DTXSID7035016,Zinc oxide,[O--].[Zn++],-,-
+Ziram,Approved Name,DTXSID0021464,Ziram,[Zn++].CN(C)C([S-])=S.CN(C)C([S-])=S,CN(C)C(S)=S,-
+Zirconium Compounds (as Zr),Integrated Source Name,DTXSID0049818,Zirconium,[Zr],-,-

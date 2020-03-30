@@ -1,0 +1,10 @@
+pymc3
+numpy
+pandas
+matplotlib
+arviz
+scipy
+sklearn
+theano
+xmltodict
+numba

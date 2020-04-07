@@ -9,3 +9,4 @@ theano
 xmltodict
 numba
 jupyter
+graphviz
